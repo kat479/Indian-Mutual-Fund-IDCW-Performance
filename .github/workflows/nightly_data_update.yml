@@ -1,0 +1,69 @@
+name: Nightly Data Update
+
+on:
+  # Run every night at 2 AM UTC (adjust timezone as needed)
+  schedule:
+    - cron: '0 2 * * *'
+  
+  # Allow manual trigger from GitHub Actions tab
+  workflow_dispatch:
+
+jobs:
+  update-fund-data:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180  # 3 hour timeout for data generation
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      
+      - name: Run data generator
+        run: |
+          echo "Starting data generation at $(date)"
+          python data_generator.py
+          echo "Data generation completed at $(date)"
+      
+      - name: Check if data changed
+        id: check_changes
+        run: |
+          if git diff --quiet data/*.csv; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "No changes detected in CSV files"
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "Changes detected in CSV files"
+          fi
+      
+      - name: Commit and push changes
+        if: steps.check_changes.outputs.changed == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/*.csv
+          git commit -m "🤖 Automated data update - $(date +'%Y-%m-%d %H:%M UTC')"
+          git push
+      
+      - name: No changes notification
+        if: steps.check_changes.outputs.changed == 'false'
+        run: |
+          echo "✅ Workflow completed successfully but no data changes to commit"
+      
+      - name: Success notification
+        if: steps.check_changes.outputs.changed == 'true'
+        run: |
+          echo "✅ Data successfully updated and committed!"
+          echo "📊 Updated files:"
+          ls -lh data/*.csv
