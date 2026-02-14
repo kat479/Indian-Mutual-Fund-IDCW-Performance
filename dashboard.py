@@ -101,6 +101,12 @@ if missing_cols:
     # Create empty trend_kpis dataframe with required columns
     trend_kpis = pd.DataFrame(columns=["yahoo_symbol", "fund_name"] + required_trend_cols)
 
+# Show data info
+st.sidebar.divider()
+st.sidebar.caption(f"📊 Records loaded: {len(df):,}")
+if not trend_kpis.empty:
+    st.sidebar.caption(f"📈 Funds with trends: {len(trend_kpis):,}")
+
 # Restrict to IDCW funds only
 idcw_df = df[df["Option"] == "IDCW"].copy()
 
@@ -172,9 +178,23 @@ if not trend_kpis.empty and "Years" in trend_kpis.columns:
         on=["yahoo_symbol", "fund_name"],
         how="left"
     )
+    # Fill missing Years from overall_rank if available
+    if "Years_x" in ranking.columns and "Years_y" in ranking.columns:
+        ranking["Years"] = ranking["Years_y"].fillna(ranking["Years_x"])
+        ranking = ranking.drop(columns=["Years_x", "Years_y"])
+    elif "Years_x" in ranking.columns:
+        ranking["Years"] = ranking["Years_x"]
+        ranking = ranking.drop(columns=["Years_x"])
 else:
-    # Add empty trend columns if not available
-    ranking["Years"] = ranking.get("Years", 0)
+    # Add Years from overall_rank if trend data not available
+    if "Years" in ranking.columns:
+        # Years already exists from overall_rank, keep it
+        pass
+    else:
+        # No Years column at all, set to 0
+        ranking["Years"] = 0
+    
+    # Add empty trend columns
     ranking["CAGR_Yield"] = None
     ranking["Trend_Slope"] = None
     ranking["Trend_R_Squared"] = None
@@ -290,6 +310,11 @@ ranking_view = st.sidebar.radio(
 # Ensure Years column exists
 if "Years" not in ranking.columns:
     ranking["Years"] = 0
+    st.sidebar.warning("⚠️ Years data not available - showing all funds")
+
+# Debug info
+if ranking["Years"].max() == 0:
+    st.sidebar.info(f"💡 Tip: Set 'Minimum IDCW history' to 0 to see all funds")
 
 filtered = ranking[ranking["Years"] >= min_years]
 
@@ -396,69 +421,71 @@ show = show.merge(spark_data, on="fund_name", how="left")
 show.rename(columns={"IDCW_Yield_pct_y": "Yield_Trend"}, inplace=True)
 
 if len(show) > 0:
+    # Build list of columns to display based on what exists
+    display_cols = ["Composite_Rank", "fund_name", "AMC", "Plan", "FY", 
+                    "IDCW_Yield_pct_x", "Avg_IDCW_Yield_pct"]
+    
+    # Add trend columns if they exist
+    optional_cols = ["CAGR_Yield", "Trend_Slope", "Max_Consecutive_Increases", 
+                     "Consistency_CV", "Years", "Yield_Trend"]
+    
+    for col in optional_cols:
+        if col in show.columns:
+            display_cols.append(col)
+    
+    # Filter to only existing columns
+    display_cols = [col for col in display_cols if col in show.columns]
+    
+    # Rename for display
+    rename_map = {
+        "IDCW_Yield_pct_x": "Latest_Yield",
+        "Composite_Rank": "Rank"
+    }
+    
+    # Build column config
+    column_config = {
+        "Rank": st.column_config.NumberColumn("Rank", format="%d"),
+        "fund_name": "Fund Name",
+        "AMC": "AMC",
+        "Plan": "Plan",
+        "FY": "Latest FY",
+        "Latest_Yield": st.column_config.NumberColumn("Latest Yield (%)", format="%.2f%%"),
+        "Avg_IDCW_Yield_pct": st.column_config.NumberColumn("Avg Yield (%)", format="%.2f%%"),
+    }
+    
+    # Add optional column configs if columns exist
+    if "CAGR_Yield" in show.columns:
+        column_config["CAGR_Yield"] = st.column_config.NumberColumn(
+            "CAGR (%)", help="Compound Annual Growth Rate of yield", format="%.2f%%"
+        )
+    
+    if "Trend_Slope" in show.columns:
+        column_config["Trend_Slope"] = st.column_config.NumberColumn(
+            "Trend (% /yr)", help="Linear trend: % increase per year", format="%.3f"
+        )
+    
+    if "Max_Consecutive_Increases" in show.columns:
+        column_config["Max_Consecutive_Increases"] = st.column_config.NumberColumn(
+            "Max Consecutive ↑", help="Maximum consecutive years of yield increase"
+        )
+    
+    if "Consistency_CV" in show.columns:
+        column_config["Consistency_CV"] = st.column_config.NumberColumn(
+            "Consistency", help="Coefficient of Variation (lower = more consistent)", format="%.1f"
+        )
+    
+    if "Years" in show.columns:
+        column_config["Years"] = "History"
+    
+    if "Yield_Trend" in show.columns:
+        column_config["Yield_Trend"] = st.column_config.LineChartColumn(
+            "Yield Trend", help="Dividend yield % across financial years", width="medium"
+        )
+    
     # Display table
     st.dataframe(
-        show[[
-            "Composite_Rank",
-            "fund_name",
-            "AMC",
-            "Plan",
-            "FY",
-            "IDCW_Yield_pct_x",
-            "Avg_IDCW_Yield_pct",
-            "CAGR_Yield",
-            "Trend_Slope",
-            "Max_Consecutive_Increases",
-            "Consistency_CV",
-            "Years",
-            "Yield_Trend"
-        ]].rename(columns={
-            "IDCW_Yield_pct_x": "Latest_Yield",
-            "Composite_Rank": "Rank"
-        }),
-        column_config={
-            "Rank": st.column_config.NumberColumn(
-                "Rank",
-                format="%d"
-            ),
-            "fund_name": "Fund Name",
-            "AMC": "AMC",
-            "Plan": "Plan",
-            "FY": "Latest FY",
-            "Latest_Yield": st.column_config.NumberColumn(
-                "Latest Yield (%)",
-                format="%.2f%%"
-            ),
-            "Avg_IDCW_Yield_pct": st.column_config.NumberColumn(
-                "Avg Yield (%)",
-                format="%.2f%%"
-            ),
-            "CAGR_Yield": st.column_config.NumberColumn(
-                "CAGR (%)",
-                help="Compound Annual Growth Rate of yield",
-                format="%.2f%%"
-            ),
-            "Trend_Slope": st.column_config.NumberColumn(
-                "Trend (% /yr)",
-                help="Linear trend: % increase per year",
-                format="%.3f"
-            ),
-            "Max_Consecutive_Increases": st.column_config.NumberColumn(
-                "Max Consecutive ↑",
-                help="Maximum consecutive years of yield increase"
-            ),
-            "Consistency_CV": st.column_config.NumberColumn(
-                "Consistency",
-                help="Coefficient of Variation (lower = more consistent)",
-                format="%.1f"
-            ),
-            "Years": "History",
-            "Yield_Trend": st.column_config.LineChartColumn(
-                "Yield Trend",
-                help="Dividend yield % across financial years",
-                width="medium"
-            )
-        },
+        show[display_cols].rename(columns=rename_map),
+        column_config=column_config,
         hide_index=True,
         use_container_width=True,
         height=600
@@ -502,16 +529,25 @@ if len(available_funds) > 0:
         st.metric("Latest Yield", f"{fund_info['IDCW_Yield_pct_x']:.2f}%")
     
     with col4:
-        cagr = fund_info['CAGR_Yield']
-        st.metric("CAGR", f"{cagr:.2f}%" if pd.notna(cagr) else "N/A")
+        if "CAGR_Yield" in fund_info and pd.notna(fund_info['CAGR_Yield']):
+            cagr = fund_info['CAGR_Yield']
+            st.metric("CAGR", f"{cagr:.2f}%")
+        else:
+            st.metric("CAGR", "N/A")
     
     with col5:
-        slope = fund_info['Trend_Slope']
-        st.metric("Trend", f"{slope:.3f}%/yr" if pd.notna(slope) else "N/A")
+        if "Trend_Slope" in fund_info and pd.notna(fund_info['Trend_Slope']):
+            slope = fund_info['Trend_Slope']
+            st.metric("Trend", f"{slope:.3f}%/yr")
+        else:
+            st.metric("Trend", "N/A")
     
     with col6:
-        consecutive = fund_info['Max_Consecutive_Increases']
-        st.metric("Max Consecutive ↑", f"{int(consecutive)}" if pd.notna(consecutive) else "N/A")
+        if "Max_Consecutive_Increases" in fund_info and pd.notna(fund_info['Max_Consecutive_Increases']):
+            consecutive = fund_info['Max_Consecutive_Increases']
+            st.metric("Max Consecutive ↑", f"{int(consecutive)}")
+        else:
+            st.metric("Max Consecutive ↑", "N/A")
     
     st.divider()
     
