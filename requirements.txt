@@ -1,6 +1,6 @@
-streamlit==1.31.0
-pandas==2.1.4
-yfinance==0.2.35
-plotly==5.18.0
-requests==2.31.0
-scipy==1.11.4
+streamlit>=1.31.0
+pandas>=2.2.0          # Was 2.1.4 (doesn't work on Python 3.13)
+yfinance>=0.2.40       # Was 0.2.35
+plotly>=5.18.0
+requests>=2.31.0
+scipy>=1.12.0          # Was 1.11.4 (doesn't work on Python 3.13)
