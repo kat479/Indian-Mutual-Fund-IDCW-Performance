@@ -85,6 +85,22 @@ def load_data():
 # Load data
 df, scheme_master, trend_kpis = load_data()
 
+# Validate data
+if df.empty:
+    st.error("❌ No fund data found! Please check your data files.")
+    st.info("Expected files: `idcw_fy_output.csv`, `final_schemes_master.csv`, `trend_kpis.csv`")
+    st.stop()
+
+# Check if trend_kpis has required columns
+required_trend_cols = ["Years", "CAGR_Yield", "Trend_Slope", "Consistency_CV", "Max_Consecutive_Increases"]
+missing_cols = [col for col in required_trend_cols if col not in trend_kpis.columns]
+
+if missing_cols:
+    st.warning(f"⚠️ Trend KPIs file is missing columns: {', '.join(missing_cols)}")
+    st.info("💡 Please regenerate data using `incremental_updater.py` or `data_generator.py`")
+    # Create empty trend_kpis dataframe with required columns
+    trend_kpis = pd.DataFrame(columns=["yahoo_symbol", "fund_name"] + required_trend_cols)
+
 # Restrict to IDCW funds only
 idcw_df = df[df["Option"] == "IDCW"].copy()
 
@@ -149,19 +165,38 @@ ranking = latest_rank.merge(
     how="left"
 )
 
-ranking = ranking.merge(
-    trend_kpis,
-    on=["yahoo_symbol", "fund_name"],
-    how="left"
-)
+# Safely merge trend KPIs if available
+if not trend_kpis.empty and "Years" in trend_kpis.columns:
+    ranking = ranking.merge(
+        trend_kpis,
+        on=["yahoo_symbol", "fund_name"],
+        how="left"
+    )
+else:
+    # Add empty trend columns if not available
+    ranking["Years"] = ranking.get("Years", 0)
+    ranking["CAGR_Yield"] = None
+    ranking["Trend_Slope"] = None
+    ranking["Trend_R_Squared"] = None
+    ranking["Consistency_CV"] = None
+    ranking["Max_Consecutive_Increases"] = None
+    ranking["Avg_YoY_Growth"] = None
+    ranking["Recent_Trend_Slope"] = None
 
-# Enhanced composite score with trend
-ranking["Composite_Score"] = (
-    0.4 * ranking["IDCW_Yield_pct"] +
-    0.3 * ranking["Avg_IDCW_Yield_pct"] +
-    0.2 * ranking["Trend_Slope"].fillna(0) +
-    0.1 * ranking["Max_Consecutive_Increases"].fillna(0)
-)
+# Enhanced composite score with trend (safely handle missing columns)
+if "Trend_Slope" in ranking.columns and "Max_Consecutive_Increases" in ranking.columns:
+    ranking["Composite_Score"] = (
+        0.4 * ranking["IDCW_Yield_pct"] +
+        0.3 * ranking["Avg_IDCW_Yield_pct"] +
+        0.2 * ranking["Trend_Slope"].fillna(0) +
+        0.1 * ranking["Max_Consecutive_Increases"].fillna(0)
+    )
+else:
+    # Fallback: simple average if trend data missing
+    ranking["Composite_Score"] = (
+        0.5 * ranking["IDCW_Yield_pct"] +
+        0.5 * ranking["Avg_IDCW_Yield_pct"].fillna(0)
+    )
 
 ranking = ranking.sort_values(
     "Composite_Score",
@@ -252,17 +287,24 @@ ranking_view = st.sidebar.radio(
 # ========================
 # APPLY FILTERS
 # ========================
+# Ensure Years column exists
+if "Years" not in ranking.columns:
+    ranking["Years"] = 0
+
 filtered = ranking[ranking["Years"] >= min_years]
 
-# Apply trend filters
+# Apply trend filters (safely check if columns exist)
 if min_cagr > -100:
-    filtered = filtered[filtered["CAGR_Yield"].fillna(-999) >= min_cagr]
+    if "CAGR_Yield" in filtered.columns:
+        filtered = filtered[filtered["CAGR_Yield"].fillna(-999) >= min_cagr]
 
 if min_consecutive > 0:
-    filtered = filtered[filtered["Max_Consecutive_Increases"].fillna(0) >= min_consecutive]
+    if "Max_Consecutive_Increases" in filtered.columns:
+        filtered = filtered[filtered["Max_Consecutive_Increases"].fillna(0) >= min_consecutive]
 
 if positive_trend_only:
-    filtered = filtered[filtered["Trend_Slope"].fillna(-999) > 0]
+    if "Trend_Slope" in filtered.columns:
+        filtered = filtered[filtered["Trend_Slope"].fillna(-999) > 0]
 
 if selected_amc:
     filtered = filtered[filtered["AMC"].isin(selected_amc)]
@@ -298,21 +340,21 @@ with col2:
         st.metric("Avg Latest Yield", "N/A")
 
 with col3:
-    if len(filtered) > 0:
+    if len(filtered) > 0 and "CAGR_Yield" in filtered.columns:
         avg_cagr = filtered['CAGR_Yield'].mean()
         st.metric("Avg CAGR", f"{avg_cagr:.2f}%" if pd.notna(avg_cagr) else "N/A")
     else:
         st.metric("Avg CAGR", "N/A")
 
 with col4:
-    if len(filtered) > 0:
+    if len(filtered) > 0 and "Trend_Slope" in filtered.columns:
         positive_trend = (filtered['Trend_Slope'] > 0).sum()
         st.metric("Positive Trend", f"{positive_trend}/{len(filtered)}")
     else:
-        st.metric("Positive Trend", "0/0")
+        st.metric("Positive Trend", "N/A")
 
 with col5:
-    if len(filtered) > 0:
+    if len(filtered) > 0 and "Max_Consecutive_Increases" in filtered.columns:
         avg_consecutive = filtered['Max_Consecutive_Increases'].mean()
         st.metric("Avg Consecutive ↑", f"{avg_consecutive:.1f}" if pd.notna(avg_consecutive) else "N/A")
     else:
