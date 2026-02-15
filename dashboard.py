@@ -16,7 +16,6 @@ import plotly.express as px
 import plotly.graph_objects as go
 import numpy as np
 import os
-from datetime import datetime
 
 # ========================
 # CONFIGURATION
@@ -52,14 +51,10 @@ def load_data():
     
     # Check all files exist
     missing_files = []
-    file_timestamps = {}
     for key, filename in files.items():
         filepath = os.path.join(DATA_DIR, filename)
         if not os.path.exists(filepath):
             missing_files.append(filename)
-        else:
-            # Get file modification time
-            file_timestamps[filename] = os.path.getmtime(filepath)
     
     if missing_files:
         st.error(f"❌ Missing required files in '{DATA_DIR}/' folder:")
@@ -67,10 +62,6 @@ def load_data():
             st.write(f"  - {f}")
         st.info("Please run `python data_generator.py` first to generate these files.")
         st.stop()
-    
-    # Get the oldest file timestamp (most conservative)
-    last_updated = min(file_timestamps.values())
-    last_updated_dt = datetime.fromtimestamp(last_updated)
     
     # Load the data
     try:
@@ -85,14 +76,14 @@ def load_data():
         # Merge FY data with scheme attributes and trend KPIs
         merged = fy_data.merge(scheme_data, on="yahoo_symbol", how="left")
         
-        return merged, scheme_data, trend_kpis, last_updated_dt
+        return merged, scheme_data, trend_kpis
         
     except Exception as e:
         st.error(f"❌ Error loading data: {e}")
         st.stop()
 
 # Load data
-df, scheme_master, trend_kpis, last_updated = load_data()
+df, scheme_master, trend_kpis = load_data()
 
 # Validate data
 if df.empty:
@@ -249,28 +240,6 @@ st.sidebar.title("🔎 Filters")
 # Data freshness info
 st.sidebar.info(f"📅 Data loaded from: `{DATA_DIR}/`")
 
-# Calculate time since last update
-time_since = datetime.now() - last_updated
-days_old = time_since.days
-hours_old = time_since.seconds // 3600
-
-# Format the last updated time
-last_updated_str = last_updated.strftime("%Y-%m-%d %H:%M")
-
-# Show freshness with color coding
-if days_old == 0:
-    if hours_old < 1:
-        freshness = "🟢 Just updated"
-    else:
-        freshness = f"🟢 Updated {hours_old}h ago"
-elif days_old <= 7:
-    freshness = f"🟡 Updated {days_old}d ago"
-else:
-    freshness = f"🔴 Updated {days_old}d ago"
-
-st.sidebar.success(f"**Last Updated:** {last_updated_str}")
-st.sidebar.caption(freshness)
-
 if st.sidebar.button("🔄 Refresh Data"):
     st.cache_data.clear()
     st.rerun()
@@ -388,19 +357,6 @@ if selected_scheme:
 # Header
 st.title("🏆 IDCW Mutual Fund Rankings")
 st.markdown("*Analyze dividend yield trends across Indian mutual funds*")
-
-# Show last updated prominently
-col1, col2 = st.columns([3, 1])
-with col2:
-    st.caption(f"📅 **Data as of:** {last_updated.strftime('%d %b %Y, %H:%M')}")
-    
-    # Age indicator
-    if days_old <= 1:
-        st.caption("✅ Fresh data")
-    elif days_old <= 7:
-        st.caption(f"⚠️ {days_old} days old")
-    else:
-        st.caption(f"🔴 {days_old} days old - consider updating")
 
 # Summary metrics
 col1, col2, col3, col4, col5 = st.columns(5)
@@ -769,4 +725,3 @@ with st.expander("ℹ️ About This Dashboard"):
     """)
 
 st.caption("📊 Data Source: AMFI & Yahoo Finance | ⚠️ For informational purposes only. Not investment advice.")
-st.caption(f"🕐 Last data update: {last_updated.strftime('%d %B %Y at %H:%M')} ({days_old} day{'s' if days_old != 1 else ''} ago)")
