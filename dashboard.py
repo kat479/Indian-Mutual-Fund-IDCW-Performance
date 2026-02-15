@@ -164,12 +164,19 @@ overall_rank = overall_rank.sort_values(
 
 overall_rank["Overall_IDCW_Rank"] = overall_rank.index + 1
 
-# Merge with trend KPIs
+# Merge with overall rank - rename columns to avoid conflicts
 ranking = latest_rank.merge(
     overall_rank,
     on=["fund_name", "yahoo_symbol", "AMC", "Plan", "Option"],
-    how="left"
+    how="left",
+    suffixes=("_latest", "_overall")
 )
+
+# Standardize column names
+if "IDCW_Yield_pct_latest" in ranking.columns:
+    ranking.rename(columns={"IDCW_Yield_pct_latest": "IDCW_Yield_pct"}, inplace=True)
+elif "IDCW_Yield_pct" not in ranking.columns and "IDCW_Yield_pct_overall" in ranking.columns:
+    ranking.rename(columns={"IDCW_Yield_pct_overall": "IDCW_Yield_pct"}, inplace=True)
 
 # Safely merge trend KPIs if available
 if not trend_kpis.empty and "Years" in trend_kpis.columns:
@@ -207,7 +214,7 @@ else:
 if "Trend_Slope" in ranking.columns and "Max_Consecutive_Increases" in ranking.columns:
     ranking["Composite_Score"] = (
         0.4 * ranking["IDCW_Yield_pct"] +
-        0.3 * ranking["Avg_IDCW_Yield_pct"] +
+        0.3 * ranking["Avg_IDCW_Yield_pct"].fillna(0) +
         0.2 * ranking["Trend_Slope"].fillna(0) +
         0.1 * ranking["Max_Consecutive_Increases"].fillna(0)
     )
@@ -422,8 +429,14 @@ show.rename(columns={"IDCW_Yield_pct_y": "Yield_Trend"}, inplace=True)
 
 if len(show) > 0:
     # Build list of columns to display based on what exists
-    display_cols = ["Composite_Rank", "fund_name", "AMC", "Plan", "FY", 
-                    "IDCW_Yield_pct_x", "Avg_IDCW_Yield_pct"]
+    display_cols = ["Composite_Rank", "fund_name", "AMC", "Plan", "FY"]
+    
+    # Add yield columns (handle both naming conventions)
+    if "IDCW_Yield_pct" in show.columns:
+        display_cols.append("IDCW_Yield_pct")
+    
+    if "Avg_IDCW_Yield_pct" in show.columns:
+        display_cols.append("Avg_IDCW_Yield_pct")
     
     # Add trend columns if they exist
     optional_cols = ["CAGR_Yield", "Trend_Slope", "Max_Consecutive_Increases", 
@@ -438,8 +451,8 @@ if len(show) > 0:
     
     # Rename for display
     rename_map = {
-        "IDCW_Yield_pct_x": "Latest_Yield",
-        "Composite_Rank": "Rank"
+        "Composite_Rank": "Rank",
+        "IDCW_Yield_pct": "Latest_Yield"
     }
     
     # Build column config
@@ -487,7 +500,7 @@ if len(show) > 0:
         show[display_cols].rename(columns=rename_map),
         column_config=column_config,
         hide_index=True,
-        use_container_width=True,
+        width=None,  # Full width
         height=600
     )
     
@@ -526,7 +539,13 @@ if len(available_funds) > 0:
         st.metric("Plan", fund_info["Plan"])
     
     with col3:
-        st.metric("Latest Yield", f"{fund_info['IDCW_Yield_pct_x']:.2f}%")
+        # Handle different possible column names for latest yield
+        if "IDCW_Yield_pct" in fund_info:
+            st.metric("Latest Yield", f"{fund_info['IDCW_Yield_pct']:.2f}%")
+        elif "IDCW_Yield_pct_latest" in fund_info:
+            st.metric("Latest Yield", f"{fund_info['IDCW_Yield_pct_latest']:.2f}%")
+        else:
+            st.metric("Latest Yield", "N/A")
     
     with col4:
         if "CAGR_Yield" in fund_info and pd.notna(fund_info['CAGR_Yield']):
@@ -574,7 +593,7 @@ if len(available_funds) > 0:
             ),
             hovermode="x unified"
         )
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, use_container_width="stretch")
     
     with col2:
         # Yield trend with trendline
@@ -608,7 +627,7 @@ if len(available_funds) > 0:
             hovermode="x unified"
         )
         
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, use_container_width="stretch")
     
     # YoY Growth Chart
     if len(fdf) > 1:
@@ -635,7 +654,7 @@ if len(available_funds) > 0:
             hovermode="x"
         )
         
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, use_container_width="stretch")
     
     # Detailed data table
     st.subheader("Historical Data")
@@ -657,7 +676,7 @@ if len(available_funds) > 0:
             "IDCW_Yield_pct": st.column_config.NumberColumn("IDCW Yield (%)", format="%.2f%%")
         },
         hide_index=True,
-        use_container_width=True
+        width=None
     )
 else:
     st.info("👆 Select filters in the sidebar to view funds")
