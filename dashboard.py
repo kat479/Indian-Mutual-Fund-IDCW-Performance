@@ -592,7 +592,7 @@ if len(available_funds) > 0:
             ),
             hovermode="x unified"
         )
-        st.plotly_chart(fig, use_container_width="stretch")
+        st.plotly_chart(fig, width="stretch")
     
     with col2:
         # Yield trend with trendline
@@ -626,7 +626,7 @@ if len(available_funds) > 0:
             hovermode="x unified"
         )
         
-        st.plotly_chart(fig, use_container_width="stretch")
+        st.plotly_chart(fig, width="stretch")
     
     # YoY Growth Chart
     if len(fdf) > 1:
@@ -653,7 +653,7 @@ if len(available_funds) > 0:
             hovermode="x"
         )
         
-        st.plotly_chart(fig, use_container_width="stretch")
+        st.plotly_chart(fig, width="stretch")
     
     # Detailed data table
     st.subheader("Historical Data")
