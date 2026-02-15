@@ -500,7 +500,6 @@ if len(show) > 0:
         show[display_cols].rename(columns=rename_map),
         column_config=column_config,
         hide_index=True,
-        width=None,  # Full width
         height=600
     )
     
@@ -675,8 +674,7 @@ if len(available_funds) > 0:
             "FY_Return": st.column_config.NumberColumn("FY Return", format="%.2f"),
             "IDCW_Yield_pct": st.column_config.NumberColumn("IDCW Yield (%)", format="%.2f%%")
         },
-        hide_index=True,
-        width=None
+        hide_index=True
     )
 else:
     st.info("👆 Select filters in the sidebar to view funds")
