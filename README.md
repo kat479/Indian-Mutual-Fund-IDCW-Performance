@@ -313,36 +313,6 @@ jobs:
 
 ---
 
-## 💡 Pro Tips
-
-### Faster Development
-Run data generator once, then iterate on dashboard:
-```bash
-# One-time data generation
-python data_generator.py
-
-# Make changes to dashboard.py
-# Test instantly
-streamlit run dashboard.py
-```
-
-### Sample Data for Testing
-Generate a small sample first:
-```python
-# In data_generator.py, line 163
-# Limit to first 100 ISINs for testing
-for i, isin in enumerate(amfi["ISIN"].unique()[:100]):
-```
-
-### Pre-filter During Generation
-Only generate data for specific AMCs by filtering in `data_generator.py`:
-```python
-# After line 46
-amfi = amfi[amfi["Scheme Name"].str.contains("HDFC|ICICI", case=False)]
-```
-
----
-
 ## 📊 Data Statistics
 
 Typical output sizes:
