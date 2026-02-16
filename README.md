@@ -219,25 +219,6 @@ If not provided, script uses a default list.
 
 ---
 
-## 🐛 Troubleshooting
-
-### "Data directory not found"
-**Solution**: Run `python data_generator.py` first
-
-### "Missing required files"
-**Solution**: Ensure data generator completed successfully. Check `data/` folder for all 4 CSV files.
-
-### "No funds match your filters"
-**Solution**: Relax filter criteria in dashboard sidebar
-
-### Data generator taking too long
-**Solution**: Normal! Downloading 7,000+ funds takes 1-2 hours. Progress is shown.
-
-### Yahoo Finance rate limiting
-**Solution**: Script includes automatic delays. If errors persist, increase `SLEEP_RANGE`.
-
----
-
 ## 📅 Recommended Update Frequency
 
 - **Daily**: Not recommended (minimal changes)
