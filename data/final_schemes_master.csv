@@ -1683,7 +1683,6 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0001QKS2.BO,UTI Long Duration Fund - Regular Plan - Half Yearly IDCW Option,UTI Mutual Fund,Regular,IDCW
 0P0001QKS1.BO,UTI Long Duration Fund - Regular Plan - Quarterly IDCW Option,UTI Mutual Fund,Regular,IDCW
 0P0000XVVV.BO,Aditya Birla Sun Life Low duration Fund - Growth - Direct Plan,Aditya Birla Sun Life Mutual Fund,Direct,Growth
-0P00005V5X.BO,Aditya Birla Sun Life Low Duration Fund - Growth Plan,Aditya Birla Sun Life Mutual Fund,Unknown,Growth
 0P00005V60.BO,Aditya Birla Sun Life Low Duration Fund - Institutional Plan - Growth,Aditya Birla Sun Life Mutual Fund,Unknown,Growth
 0P0000XVVU.BO,Aditya Birla Sun Life Low Duration Fund -Direct - daily IDCW,Aditya Birla Sun Life Mutual Fund,Direct,IDCW
 ,Aditya Birla Sun Life Low Duration Fund -Direct - weekly IDCW,Aditya Birla Sun Life Mutual Fund,Direct,IDCW
@@ -1691,6 +1690,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 ,Aditya Birla Sun Life Low Duration Fund -Institutional - weekly  IDCW,Aditya Birla Sun Life Mutual Fund,Unknown,IDCW
 ,Aditya Birla Sun Life Low Duration Fund -Regular - DAILY IDCW,Aditya Birla Sun Life Mutual Fund,Regular,IDCW
 ,Aditya Birla Sun Life Low Duration Fund -REGULAR - WEEKLY IDCW,Aditya Birla Sun Life Mutual Fund,Regular,IDCW
+0P00005V5X.BO,Aditya Birla Sun Life Low Duration Fund -Regular- Growth Plan,Aditya Birla Sun Life Mutual Fund,Regular,Growth
 ,Axis Treasury Advantage Fund - Direct Plan - Bonus Option,Axis Mutual Fund,Direct,Unknown
 ,Axis Treasury Advantage Fund - Direct Plan - Daily IDCW,Axis Mutual Fund,Direct,IDCW
 0P0000XVUV.BO,Axis Treasury Advantage Fund - Direct Plan - Growth Option,Axis Mutual Fund,Direct,Growth
@@ -1843,6 +1843,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0002PQVN.BO,Kotak Low Duration Fund - Direct Plan - Monthly - Reinvestment & Payout of Income Distribution cum Capital Withdrawal Option,Kotak Mahindra Mutual Fund,Direct,IDCW
 0P00035FSN.BO,Kotak Low Duration Fund - Direct Plan - Weekly - Reinvestment & Payout of Income Distribution cum Capital Withdrawal Option,Kotak Mahindra Mutual Fund,Direct,IDCW
 0P0000XVB9.BO,Kotak Low Duration Fund - Direct Plan- Standard Income Distribution cum capital withdrawal option,Kotak Mahindra Mutual Fund,Direct,Unknown
+,Kotak Low Duration Fund - Regular Plan - Monthly - Reinvestment & Payout of Income Distribution cum Capital Withdrawal Option,Kotak Mahindra Mutual Fund,Regular,IDCW
 0P0000XVBB.BO,Kotak Low Duration Fund- Direct Plan- Growth Option,Kotak Mahindra Mutual Fund,Direct,Growth
 0P0000GBDS.BO,Kotak Low Duration Fund- Regular Plan-Growth Option,Kotak Mahindra Mutual Fund,Regular,Unknown
 0P0000GBBO.BO,Kotak Low Duration Fund- Regular Plan-Standard Income Distribution cum capital withdrawal option,Kotak Mahindra Mutual Fund,Regular,Unknown
@@ -2300,6 +2301,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0000XW2Z.BO,DSP Savings Fund - Direct Plan - Growth,DSP Mutual Fund,Direct,Growth
 0P0000XW2Y.BO,DSP Savings Fund - Direct Plan - IDCW,DSP Mutual Fund,Direct,IDCW
 0P0000XW30.BO,DSP Savings Fund - Direct Plan - IDCW - Monthly,DSP Mutual Fund,Direct,IDCW
+,DSP Savings Fund - Direct Plan - IDCW Weekly,DSP Mutual Fund,Direct,IDCW
 0P00005V9K.BO,DSP Savings Fund - Regular Plan - Growth,DSP Mutual Fund,Regular,Growth
 0P00005V9I.BO,DSP Savings Fund - Regular Plan - IDCW,DSP Mutual Fund,Regular,IDCW
 ,DSP Savings Fund - Regular Plan - IDCW - Daily,DSP Mutual Fund,Regular,IDCW
@@ -2353,7 +2355,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 ,ICICI Prudential Money Market Fund Retail Growth (erstwhile Cash Option),ICICI Prudential Mutual Fund,Unknown,Growth
 0P00005WD2.BO,ICICI Prudential Money Market Fund Option - Daily IDCW,ICICI Prudential Mutual Fund,Unknown,IDCW
 0P00005WD3.BO,ICICI Prudential Money Market Fund Option - Growth,ICICI Prudential Mutual Fund,Unknown,Growth
-0P0001BAF8.BO,ICICI Prudential Money Market Fund Option - IDCW Others,ICICI Prudential Mutual Fund,Unknown,IDCW
+0P000135C7.BO,ICICI Prudential Money Market Fund Option - IDCW Others,ICICI Prudential Mutual Fund,Unknown,IDCW
 ,ICICI Prudential Money Market Fund Option - Monthly IDCW,ICICI Prudential Mutual Fund,Unknown,IDCW
 0P00005WD5.BO,ICICI Prudential Money Market Fund Option - Weekly IDCW,ICICI Prudential Mutual Fund,Unknown,IDCW
 ,ICICI Prudential Money Market Fund Option -Fortnightly IDCW,ICICI Prudential Mutual Fund,Unknown,IDCW
@@ -3301,7 +3303,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0001HABV.BO,UTI Ultra Short Duration Fund - Direct Plan - Half-Yearly IDCW,UTI Mutual Fund,Direct,IDCW
 0P00015O64.BO,UTI Ultra Short Duration Fund - Direct Plan - Monthly IDCW,UTI Mutual Fund,Direct,IDCW
 0P00014MHA.BO,UTI Ultra Short Duration Fund - Direct Plan - Quarterly IDCW,UTI Mutual Fund,Direct,IDCW
-0P0000XVSS.BO,UTI Ultra Short Duration Fund - Direct Plan - Weekly IDCW (Reinvestment),UTI Mutual Fund,Direct,IDCW
+0P0001BBH0.BO,UTI Ultra Short Duration Fund - Direct Plan - Weekly IDCW (Reinvestment),UTI Mutual Fund,Direct,IDCW
 0P0000KQP5.BO,UTI Ultra Short Duration Fund - Discontinued - INSTN GROWTH OPTION,UTI Mutual Fund,Unknown,Growth
 ,UTI Ultra Short Duration Fund - Discontinued - INSTN PLAN - PERIODIC DIVIDEND OPTION,UTI Mutual Fund,Unknown,IDCW
 0P00015QSB.BO,UTI Ultra Short Duration Fund - Regular Plan - Annual IDCW,UTI Mutual Fund,Regular,IDCW
@@ -4015,10 +4017,10 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0000XVOO.BO,Tata Large & Mid Cap Fund Direct Plan - Payout of IDCW Option,Tata Mutual Fund,Direct,IDCW
 0P00005WGX.BO,Tata Large & Mid Cap Fund Regular Plan - Payout of IDCW Option,Tata Mutual Fund,Regular,IDCW
 0P00005WGY.BO,Tata Large & Mid Cap Fund- Regular Plan - Growth Option,Tata Mutual Fund,Regular,Growth
-,The Wealth Company Large & Mid Cap Fund Direct Growth,The Wealth Company Mutual Fund,Direct,Growth
-,The Wealth Company Large & Mid Cap Fund Direct IDCW,The Wealth Company Mutual Fund,Direct,IDCW
-,The Wealth Company Large & Mid Cap Fund Regular Growth,The Wealth Company Mutual Fund,Regular,Growth
-,The Wealth Company Large & Mid Cap Fund Regular IDCW,The Wealth Company Mutual Fund,Regular,IDCW
+0P00034BCT.BO,The Wealth Company Large & Mid Cap Fund Direct Growth,The Wealth Company Mutual Fund,Direct,Growth
+0P00034BCU.BO,The Wealth Company Large & Mid Cap Fund Direct IDCW,The Wealth Company Mutual Fund,Direct,IDCW
+0P00034BCW.BO,The Wealth Company Large & Mid Cap Fund Regular Growth,The Wealth Company Mutual Fund,Regular,Growth
+0P00034BCX.BO,The Wealth Company Large & Mid Cap Fund Regular IDCW,The Wealth Company Mutual Fund,Regular,IDCW
 0P0001IPOX.BO,Union Large & Midcap Fund - Direct Plan - Growth Option,Union Mutual Fund,Direct,Growth
 0P0001IPOY.BO,Union Large & Midcap Fund - Direct Plan - IDCW Option,Union Mutual Fund,Direct,IDCW
 0P0001IPP1.BO,Union Large & Midcap Fund - Regular Plan - Growth Option,Union Mutual Fund,Regular,Growth
@@ -8131,6 +8133,10 @@ GOLDCASE.NS,Zerodha Gold ETF,Zerodha Mutual Fund,Unknown,Unknown
 0P0001SDCW.BO,Groww Nifty Smallcap 250 Index Fund - Direct Plan - IDCW,Groww Mutual Fund,Direct,IDCW
 0P0001SDCY.BO,Groww Nifty Smallcap 250 Index Fund - Regular Plan - Growth,Groww Mutual Fund,Regular,Growth
 0P0001SDCZ.BO,Groww Nifty Smallcap 250 Index Fund - Regular Plan - Regular Plan - IDCW,Groww Mutual Fund,Regular,IDCW
+,Groww Nifty Smallcap 250 Momentum Quality 100 Index Fund Direct Growth,Groww Mutual Fund,Direct,Growth
+,Groww Nifty Smallcap 250 Momentum Quality 100 Index Fund Direct IDCW,Groww Mutual Fund,Direct,IDCW
+,Groww Nifty Smallcap 250 Momentum Quality 100 Index Fund Regular Growth,Groww Mutual Fund,Regular,Growth
+,Groww Nifty Smallcap 250 Momentum Quality 100 Index Fund Regular IDCW,Groww Mutual Fund,Regular,IDCW
 0P0001RNUZ.BO,Groww Nifty Total Market Index Fund - Direct Plan - Growth,Groww Mutual Fund,Direct,Growth
 0P0001RNV0.BO,Groww Nifty Total Market Index Fund - Direct Plan - IDCW,Groww Mutual Fund,Direct,IDCW
 0P0001RNV2.BO,Groww Nifty Total Market Index Fund - Regular Plan - Growth,Groww Mutual Fund,Regular,Growth
@@ -8963,7 +8969,7 @@ ABSLLIQUID.NS,Aditya Birla Sun Life CRISIL Liquid Overnight ETF - IDCW Daily Rei
 ABSLMSCIN.NS,Aditya Birla Sun Life MSCI India ETF,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 MOMENTUM.NS,Aditya Birla Sun Life Nifty 200 Momentum 30 ETF,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 NIFTYQLITY.NS,Aditya Birla Sun Life Nifty 200 Quality 30 ETF,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
-,Aditya Birla Sun Life Nifty 50 ETF,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
+BSLNIFTY.NS,Aditya Birla Sun Life Nifty 50 ETF,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 ,Aditya Birla Sun Life Nifty Bank ETF,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 HEALTHY.NS,Aditya Birla Sun Life Nifty Healthcare ETF,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 TECH.NS,Aditya Birla Sun Life Nifty IT ETF,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
@@ -9025,14 +9031,14 @@ ELM250.NS,Edelweiss Nifty LargeMidcap 250 ETF - Growth,Edelweiss Mutual Fund,Unk
 ENEXT50.NS,Edelweiss Nifty Next 50 ETF,Edelweiss Mutual Fund,Unknown,Unknown
 EMULTIMQ.NS,Edelweiss Nifty500 Multicap Momentum Quality 50 ETF - Growth,Edelweiss Mutual Fund,Unknown,Growth
 ESILVER.NS,Edelweiss Silver ETF,Edelweiss Mutual Fund,Unknown,Unknown
-GROWWHOSPI.NS,Groww BSE Hospitals ETF,Groww Mutual Fund,Unknown,Unknown
+,Groww BSE Hospitals ETF,Groww Mutual Fund,Unknown,Unknown
 GROWWPOWER.NS,Groww BSE Power ETF,Groww Mutual Fund,Unknown,Unknown
 GROWWLIQID.NS,Groww Nifty 1D Rate Liquid ETF,Groww Mutual Fund,Unknown,Unknown
 GROWWN200.NS,Groww Nifty 200 ETF,Groww Mutual Fund,Unknown,Unknown
 GROWWNIFTY.NS,Groww Nifty 50 ETF,Groww Mutual Fund,Unknown,Unknown
 GROWWLOVOL.NS,Groww Nifty 500 Low Volatility 50 ETF,Groww Mutual Fund,Unknown,Unknown
 GROWWMOM50.NS,Groww Nifty 500 Momentum 50 ETF,Groww Mutual Fund,Unknown,Unknown
-,Groww Nifty Capital Markets ETF,Groww Mutual Fund,Unknown,Unknown
+GROWWCAPM.NS,Groww Nifty Capital Markets ETF,Groww Mutual Fund,Unknown,Unknown
 GROWWCHEM.NS,Groww Nifty Chemicals ETF,Groww Mutual Fund,Unknown,Unknown
 GROWWEV.NS,GROWW NIFTY EV & NEW AGE AUTOMOTIVE ETF,Groww Mutual Fund,Unknown,Unknown
 GROWWDEFNC.NS,Groww Nifty India Defence ETF,Groww Mutual Fund,Unknown,Unknown
@@ -9046,11 +9052,12 @@ GROWWPSE.NS,Groww Nifty PSE ETF,Groww Mutual Fund,Unknown,Unknown
 GROWWPSUBK.NS,Groww Nifty PSU Bank ETF,Groww Mutual Fund,Unknown,Unknown
 GROWWRLTY.NS,Groww Nifty Realty ETF,Groww Mutual Fund,Unknown,Unknown
 GROWWSC250.NS,Groww Nifty Smallcap250 ETF,Groww Mutual Fund,Unknown,Unknown
+SMALLGROWW.NS,Groww Nifty Smallcap 250 Momentum Quality 100 ETF,Groww Mutual Fund,Unknown,Unknown
 GROWWSLVR.NS,Groww Silver ETF,Groww Mutual Fund,Unknown,Unknown
 HDFCBSE500.NS,HDFC BSE 500 ETF - Growth Option,HDFC Mutual Fund,Unknown,Growth
 ,HDFC BSE Sensex ETF - Growth Plan,HDFC Mutual Fund,Unknown,Growth
 ,HDFC NIFTY 100 ETF - Growth Option,HDFC Mutual Fund,Unknown,Growth
-,HDFC NIFTY 1D RATE LIQUID ETF GROWTH,HDFC Mutual Fund,Unknown,Growth
+HDFCLIQUID.NS,HDFC NIFTY 1D RATE LIQUID ETF GROWTH,HDFC Mutual Fund,Unknown,Growth
 ,HDFC NIFTY 50 ETF - Growth Plan,HDFC Mutual Fund,Unknown,Growth
 ,HDFC NIFTY Bank ETF - GROWTH,HDFC Mutual Fund,Unknown,Growth
 HDFCGROWTH.NS,HDFC NIFTY GROWTH SECTORS 15 ETF - Growth Option,HDFC Mutual Fund,Unknown,Growth
@@ -9069,7 +9076,7 @@ HDFCVALUE.NS,HDFC NIFTY 50 VALUE 20 ETF - Growth Option,HDFC Mutual Fund,Unknown
 ,ICICI Prudential BSE 500 ETF,ICICI Prudential Mutual Fund,Unknown,Unknown
 CASHIETF.NS,ICICI Prudential BSE Liquid Rate ETF - Growth,ICICI Prudential Mutual Fund,Unknown,Growth
 ,ICICI Prudential BSE Liquid Rate ETF - IDCW,ICICI Prudential Mutual Fund,Unknown,IDCW
-,ICICI Prudential BSE Midcap Select ETF,ICICI Prudential Mutual Fund,Unknown,Unknown
+MIDSELIETF.NS,ICICI Prudential BSE Midcap Select ETF,ICICI Prudential Mutual Fund,Unknown,Unknown
 ,ICICI Prudential BSE Sensex ETF,ICICI Prudential Mutual Fund,Unknown,Unknown
 GSEC10IETF.NS,ICICI Prudential Nifty 10 yr Benchmark G-sec ETF,ICICI Prudential Mutual Fund,Unknown,Unknown
 NIF100IETF.NS,ICICI Prudential Nifty 100 ETF,ICICI Prudential Mutual Fund,Unknown,Unknown
@@ -9109,7 +9116,7 @@ MOMENTUM30.NS,Kotak Nifty 200 Momentum 30 ETF,Kotak Mahindra Mutual Fund,Unknown
 ,Kotak Nifty 50 ETF,Kotak Mahindra Mutual Fund,Unknown,Unknown
 ,Kotak Nifty 50 Value 20 ETF - Payout of Income Distribution cum capital withdrawal option,Kotak Mahindra Mutual Fund,Unknown,IDCW
 ALPHA.NS,Kotak Nifty Alpha 50 ETF,Kotak Mahindra Mutual Fund,Unknown,Unknown
-,Kotak Nifty Bank ETF,Kotak Mahindra Mutual Fund,Unknown,Unknown
+BANKNIFTY1.NS,Kotak Nifty Bank ETF,Kotak Mahindra Mutual Fund,Unknown,Unknown
 CHEMICAL.NS,Kotak Nifty Chemicals ETF,Kotak Mahindra Mutual Fund,Unknown,Unknown
 CONS.NS,Kotak Nifty India Consumption ETF,Kotak Mahindra Mutual Fund,Unknown,Unknown
 IT.NS,Kotak Nifty IT ETF,Kotak Mahindra Mutual Fund,Unknown,Unknown
@@ -9129,7 +9136,7 @@ EQUAL200.NS,Mirae Asset BSE 200 Equal Weight ETF,Mirae Asset Mutual Fund,Unknown
 DIVIDEND.NS,Mirae Asset BSE 500 Dividend Leaders 50 ETF,Mirae Asset Mutual Fund,Unknown,IDCW
 DEFENCE.NS,Mirae Asset BSE India Defence ETF,Mirae Asset Mutual Fund,Unknown,Unknown
 SELECTIPO.NS,Mirae Asset BSE Select IPO ETF,Mirae Asset Mutual Fund,Unknown,Unknown
-,Mirae Asset BSE Sensex ETF,Mirae Asset Mutual Fund,Unknown,Unknown
+SENSEXETF.NS,Mirae Asset BSE Sensex ETF,Mirae Asset Mutual Fund,Unknown,Unknown
 MAHKTECH.NS,Mirae Asset Hang Seng TECH ETF,Mirae Asset Mutual Fund,Unknown,Unknown
 ,Mirae Asset Nifty 100 ESG Sector Leaders ETF,Mirae Asset Mutual Fund,Unknown,Unknown
 ,Mirae Asset Nifty 100 Low Volatility 30 ETF,Mirae Asset Mutual Fund,Unknown,Unknown
@@ -9145,7 +9152,7 @@ ENERGY.NS,Mirae Asset Nifty Energy ETF,Mirae Asset Mutual Fund,Unknown,Unknown
 ,Mirae Asset Nifty EV and New Age Automotive ETF,Mirae Asset Mutual Fund,Unknown,Unknown
 ,Mirae Asset Nifty Financial Services ETF,Mirae Asset Mutual Fund,Unknown,Unknown
 INFRA.NS,Mirae Asset Nifty India Infrastructure & Logistics ETF,Mirae Asset Mutual Fund,Unknown,Unknown
-INTERNET.NS,Mirae Asset Nifty India Internet ETF,Mirae Asset Mutual Fund,Unknown,Unknown
+,Mirae Asset Nifty India Internet ETF,Mirae Asset Mutual Fund,Unknown,Unknown
 MAKEINDIA.NS,Mirae Asset Nifty India Manufacturing ETF,Mirae Asset Mutual Fund,Unknown,Unknown
 CONSUMER.NS,Mirae Asset Nifty India New Age Consumption ETF,Mirae Asset Mutual Fund,Unknown,Unknown
 ,Mirae Asset Nifty IT ETF,Mirae Asset Mutual Fund,Unknown,Unknown
@@ -9155,7 +9162,7 @@ MIDCAPETF.NS,Mirae Asset Nifty Midcap 150 ETF,Mirae Asset Mutual Fund,Unknown,Un
 ,Mirae Asset Nifty Next 50 ETF,Mirae Asset Mutual Fund,Unknown,Unknown
 BANKPSU.NS,Mirae Asset Nifty PSU Bank ETF,Mirae Asset Mutual Fund,Unknown,Unknown
 SMALL250.NS,Mirae Asset Nifty Smallcap 250 ETF,Mirae Asset Mutual Fund,Unknown,Unknown
-SMALLCAP.NS,Mirae Asset Nifty Smallcap 250 Momentum Quality 100 ETF,Mirae Asset Mutual Fund,Unknown,Unknown
+,Mirae Asset Nifty Smallcap 250 Momentum Quality 100 ETF,Mirae Asset Mutual Fund,Unknown,Unknown
 TOP20.NS,Mirae Asset Nifty Top 20 Equal Weight ETF,Mirae Asset Mutual Fund,Unknown,Unknown
 EQUAL50.NS,Mirae Asset Nifty 50 Equal Weight ETF,Mirae Asset Mutual Fund,Unknown,Unknown
 MULTICAP.NS,Mirae Asset Nifty500 Multicap 50:25:25 ETF,Mirae Asset Mutual Fund,Unknown,Unknown
@@ -9165,7 +9172,7 @@ MAFANG.NS,Mirae Asset NYSE FANG + ETF,Mirae Asset Mutual Fund,Unknown,Unknown
 ,Motilal Oswal BSE Enhanced Value ETF,Motilal Oswal Mutual Fund,Unknown,Unknown
 ,Motilal Oswal BSE Healthcare ETF,Motilal Oswal Mutual Fund,Unknown,Unknown
 MOINFRA.NS,Motilal Oswal BSE India Infrastructure ETF,Motilal Oswal Mutual Fund,Unknown,Unknown
-MOLOWVOL.NS,Motilal Oswal BSE Low Volatility ETF,Motilal Oswal Mutual Fund,Unknown,Unknown
+,Motilal Oswal BSE Low Volatility ETF,Motilal Oswal Mutual Fund,Unknown,Unknown
 ,Motilal Oswal BSE Quality ETF,Motilal Oswal Mutual Fund,Unknown,Unknown
 MOIPO.NS,Motilal Oswal BSE Select IPO ETF,Motilal Oswal Mutual Fund,Unknown,Unknown
 MOBANK10.NS,Motilal Oswal BSE Top 10 Banks ETF,Motilal Oswal Mutual Fund,Unknown,Unknown
@@ -9190,7 +9197,7 @@ MOMNC.NS,Motilal Oswal Nifty MNC ETF,Motilal Oswal Mutual Fund,Unknown,Unknown
 MONEXT50.NS,MOTILAL OSWAL NIFTY NEXT 50 ETF,Motilal Oswal Mutual Fund,Unknown,Unknown
 MOPSE.NS,Motilal Oswal Nifty PSE ETF,Motilal Oswal Mutual Fund,Unknown,Unknown
 MOREALTY.NS,Motilal Oswal Nifty Realty ETF,Motilal Oswal Mutual Fund,Unknown,Unknown
-,Motilal Oswal Nifty Services Sector ETF,Motilal Oswal Mutual Fund,Unknown,Unknown
+MOSERVICE.NS,Motilal Oswal Nifty Services Sector ETF,Motilal Oswal Mutual Fund,Unknown,Unknown
 MOSMALL250.NS,Motilal Oswal Nifty Smallcap 250 ETF,Motilal Oswal Mutual Fund,Unknown,Unknown
 MOSILVER.NS,Motilal Oswal Silver ETF,Motilal Oswal Mutual Fund,Unknown,Unknown
 ,CPSE ETF,Unknown,Unknown,Unknown
@@ -9202,7 +9209,7 @@ NIF100BEES.NS,Nippon India ETF Nifty 100,Nippon India Mutual Fund,Unknown,Unknow
 ,Nippon India ETF Nifty 1D Rate Liquid BeES - DAILY IDCW Option,Nippon India Mutual Fund,Unknown,IDCW
 GILT5YBEES.NS,Nippon India ETF Nifty 5 yr Benchmark G-Sec,Nippon India Mutual Fund,Unknown,Unknown
 NIFTYBEES.NS,Nippon India ETF Nifty 50 BeES,Nippon India Mutual Fund,Unknown,Unknown
-SHARIABEES.NS,Nippon India ETF Nifty 50 Shariah BeES,Nippon India Mutual Fund,Unknown,Unknown
+,Nippon India ETF Nifty 50 Shariah BeES,Nippon India Mutual Fund,Unknown,Unknown
 NV20BEES.NS,Nippon India ETF Nifty 50 Value 20,Nippon India Mutual Fund,Unknown,Unknown
 LTGILTBEES.NS,Nippon India ETF Nifty 8-13 yr G-Sec Long Term Gilt,Nippon India Mutual Fund,Unknown,Unknown
 ,Nippon India ETF Nifty Bank BeES,Nippon India Mutual Fund,Unknown,Unknown
