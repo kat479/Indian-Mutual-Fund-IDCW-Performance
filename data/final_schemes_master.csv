@@ -761,10 +761,10 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0000V188.BO,PGIM India Dynamic Bond Fund - Dividend Option - Quarterly,PGIM India Mutual Fund,Unknown,IDCW
 0P0000V186.BO,PGIM India Dynamic Bond Fund - Growth Option,PGIM India Mutual Fund,Unknown,Growth
 ,PGIM India Dynamic Bond Fund-Bonus Option,PGIM India Mutual Fund,Unknown,Unknown
-0P000162RE.BO,Quantum Dynamic Bond Fund - Direct Plan Growth Option,Quantum Mutual Fund,Direct,Growth
-0P000162RD.BO,Quantum Dynamic Bond Fund - Direct Plan Monthly IDCW,Quantum Mutual Fund,Direct,IDCW
-0P0001A3EY.BO,Quantum Dynamic Bond Fund - Regular Plan Growth Option,Quantum Mutual Fund,Regular,Growth
-0P0001A3EZ.BO,Quantum Dynamic Bond Fund - Regular Plan Monthly IDCW,Quantum Mutual Fund,Regular,IDCW
+0P000162RE.BO,Quantum Dynamic Term Fund - Direct Plan Growth Option,Quantum Mutual Fund,Direct,Growth
+0P000162RD.BO,Quantum Dynamic Term Fund - Direct Plan Monthly IDCW,Quantum Mutual Fund,Direct,IDCW
+0P0001A3EY.BO,Quantum Dynamic Term Fund - Regular Plan Growth Option,Quantum Mutual Fund,Regular,Growth
+0P0001A3EZ.BO,Quantum Dynamic Term Fund - Regular Plan Monthly IDCW,Quantum Mutual Fund,Regular,IDCW
 0P0000XVJG.BO,SBI Dynamic Bond Fund - DIRECT PLAN - Growth,SBI Mutual Fund,Direct,Growth
 0P0000XVJA.BO,SBI Dynamic Bond Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),SBI Mutual Fund,Direct,IDCW
 0P00005USC.BO,SBI Dynamic Bond Fund - REGULAR PLAN - Growth,SBI Mutual Fund,Regular,Growth
@@ -2342,7 +2342,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 ,ICICI Prudential Money Market Fund Retail Growth (erstwhile Cash Option),ICICI Prudential Mutual Fund,Unknown,Growth
 0P00005WD2.BO,ICICI Prudential Money Market Fund Option - Daily IDCW,ICICI Prudential Mutual Fund,Unknown,IDCW
 0P00005WD3.BO,ICICI Prudential Money Market Fund Option - Growth,ICICI Prudential Mutual Fund,Unknown,Growth
-0P000135C7.BO,ICICI Prudential Money Market Fund Option - IDCW Others,ICICI Prudential Mutual Fund,Unknown,IDCW
+0P0001BAF8.BO,ICICI Prudential Money Market Fund Option - IDCW Others,ICICI Prudential Mutual Fund,Unknown,IDCW
 ,ICICI Prudential Money Market Fund Option - Monthly IDCW,ICICI Prudential Mutual Fund,Unknown,IDCW
 0P00005WD5.BO,ICICI Prudential Money Market Fund Option - Weekly IDCW,ICICI Prudential Mutual Fund,Unknown,IDCW
 ,ICICI Prudential Money Market Fund Option -Fortnightly IDCW,ICICI Prudential Mutual Fund,Unknown,IDCW
@@ -2645,7 +2645,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0001IK1C.BO,ITI Overnight Fund - Direct Plan - Growth Option,ITI Mutual Fund,Direct,Growth
 0P0001IK1E.BO,ITI Overnight Fund - Direct Plan - Monthly IDCW Option,ITI Mutual Fund,Direct,IDCW
 ,ITI Overnight Fund - Direct Plan - Weekly IDCW option,ITI Mutual Fund,Direct,IDCW
-0P0001IK1O.BO,ITI Overnight Fund - Regular Plan - Annual IDCW Option,ITI Mutual Fund,Regular,IDCW
+,ITI Overnight Fund - Regular Plan - Annual IDCW Option,ITI Mutual Fund,Regular,IDCW
 ,ITI Overnight Fund - Regular Plan - Daily IDCW Option,ITI Mutual Fund,Regular,IDCW
 0P0001IK1M.BO,ITI Overnight Fund - Regular Plan - Fortnightly IDCW Option,ITI Mutual Fund,Regular,IDCW
 0P0001IK1L.BO,ITI Overnight Fund - Regular Plan - Growth Option,ITI Mutual Fund,Regular,Growth
@@ -3148,6 +3148,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0000RZA0.BO,Invesco India Ultra Short Duration Fund - Regular Plan - Growth,Invesco Mutual Fund,Regular,Growth
 0P0000RZA1.BO,Invesco India Ultra Short Duration Fund - Regular Plan - Monthly IDCW (Payout / Reinvestment),Invesco Mutual Fund,Regular,IDCW
 0P0000RZA2.BO,Invesco India Ultra Short Duration Fund - Regular Plan - Quarterly IDCW (Payout / Reinvestment),Invesco Mutual Fund,Regular,IDCW
+,Invesco India Ultra Short Duration Fund - Regular Plan - Weekly IDCW (Payout / Reinvestment),Invesco Mutual Fund,Regular,IDCW
 0P0001M4E5.BO,ITI Ultra Short Duration Fund - Direct Plan - Annually IDCW Option,ITI Mutual Fund,Direct,IDCW
 ,ITI Ultra Short Duration Fund - Direct Plan - Daily IDCW,ITI Mutual Fund,Direct,IDCW
 0P0001M4E3.BO,ITI Ultra Short Duration Fund - Direct Plan - Fortnightly IDCW Option,ITI Mutual Fund,Direct,IDCW
@@ -5905,6 +5906,8 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P00005WK8.BO,UTI Aggressive Hybrid Fund - Regular Plan - Growth,UTI Mutual Fund,Regular,Growth
 0P00005WK7.BO,UTI Aggressive Hybrid Fund - Regular Plan - IDCW,UTI Mutual Fund,Regular,IDCW
 0P0000XVSB.BO,UTI Aggressive Hybrid Fund -Direct Plan - Growth,UTI Mutual Fund,Direct,Growth
+,WhiteOak Capital Aggressive Hybrid Fund Direct Plan Growth,WhiteOak Capital Mutual Fund,Direct,Growth
+,WhiteOak Capital Aggressive Hybrid Fund Regular Plan Growth,WhiteOak Capital Mutual Fund,Regular,Growth
 0P0000XVWB.BO,Aditya Birla Sun Life Arbitrage Fund - Growth - Direct Plan,Aditya Birla Sun Life Mutual Fund,Direct,Growth
 0P0000L16O.BO,Aditya BIRLA SUN LIFE ARBITRAGE FUND - REGULAR PLAN - GROWTH,Aditya Birla Sun Life Mutual Fund,Regular,Growth
 0P0000Z6XG.BO,Aditya Birla Sun Life Arbitrage Fund-DIRECT - IDCW,Aditya Birla Sun Life Mutual Fund,Unknown,IDCW
@@ -6493,7 +6496,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 ,NIPPON INDIA EQUITY SAVINGS FUND -  SEGREGATED PORTFOLIO 2 - Direct Plan - IDCW Option,Nippon India Mutual Fund,Direct,IDCW
 ,NIPPON INDIA EQUITY SAVINGS FUND -  SEGREGATED PORTFOLIO 2 - Direct Plan - MONTHLY IDCW Option,Nippon India Mutual Fund,Direct,IDCW
 ,NIPPON INDIA EQUITY SAVINGS FUND -  SEGREGATED PORTFOLIO 2 - Direct Plan - QUARTERLY IDCW Option,Nippon India Mutual Fund,Direct,IDCW
-08DPD.BO,NIPPON INDIA EQUITY SAVINGS FUND -  SEGREGATED PORTFOLIO 2 - IDCW Option,Nippon India Mutual Fund,Unknown,IDCW
+,NIPPON INDIA EQUITY SAVINGS FUND -  SEGREGATED PORTFOLIO 2 - IDCW Option,Nippon India Mutual Fund,Unknown,IDCW
 08MPD.BO,NIPPON INDIA EQUITY SAVINGS FUND -  SEGREGATED PORTFOLIO 2 - MONTHLY IDCW Option,Nippon India Mutual Fund,Unknown,IDCW
 ,NIPPON INDIA EQUITY SAVINGS FUND -  SEGREGATED PORTFOLIO 2 - QUARTERLY IDCW Option,Nippon India Mutual Fund,Unknown,IDCW
 0P0001664B.BO,NIPPON INDIA EQUITY SAVINGS FUND - Direct Plan - IDCW Option,Nippon India Mutual Fund,Direct,IDCW
@@ -7344,12 +7347,12 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0000KRBF.BO,Quantum Diversified Equity All Cap Active FOF - Direct Plan IDCW,Quantum Mutual Fund,Direct,IDCW
 0P0001A3F1.BO,Quantum Diversified Equity All Cap Active FOF - Regular Plan Growth Option,Quantum Mutual Fund,Regular,Growth
 0P0001A3F0.BO,Quantum Diversified Equity All Cap Active FOF - Regular Plan IDCW,Quantum Mutual Fund,Regular,IDCW
-0P0000TDG9.BO,Quantum Gold Savings Fund - Direct Plan Growth Option,Quantum Mutual Fund,Direct,Growth
-0P0001A3F2.BO,Quantum Gold Savings Fund - Regular Plan Growth Option,Quantum Mutual Fund,Regular,Growth
+0P0000TDG9.BO,Quantum Gold ETF FOF - Direct Plan Growth Option,Quantum Mutual Fund,Direct,Growth
+0P0001A3F2.BO,Quantum Gold ETF FOF - Regular Plan Growth Option,Quantum Mutual Fund,Regular,Growth
 0P0000WECS.BO,Quantum Multi Asset Active FOF - Direct Plan Growth Option,Quantum Mutual Fund,Direct,Growth
 0P0001A3F8.BO,Quantum Multi Asset Active FOF - Regular Plan Growth Option,Quantum Mutual Fund,Regular,Growth
-0P0001PE99.BO,Quantum Nifty 50 ETF Fund of Fund - Direct Plan - Growth,Quantum Mutual Fund,Direct,Growth
-0P0001PE9A.BO,Quantum Nifty 50 ETF Fund of Fund - Regular Plan - Growth,Quantum Mutual Fund,Regular,Growth
+0P0001PE99.BO,Quantum Nifty 50 ETF FOF - Direct Plan - Growth,Quantum Mutual Fund,Direct,Growth
+0P0001PE9A.BO,Quantum Nifty 50 ETF FOF - Regular Plan - Growth,Quantum Mutual Fund,Regular,Growth
 0P0001XD15.BO,SBI Dynamic Asset Allocation Active FoF - Direct Plan - Growth,SBI Mutual Fund,Direct,Growth
 0P0001XD19.BO,SBI Dynamic Asset Allocation Active FoF - Regular Plan - Growth,SBI Mutual Fund,Regular,Growth
 0P0001XD1A.BO,SBI Dynamic Asset Allocation Active FoF - Regular Plan - Income Distribution Cum Capital Withdrawal Option,SBI Mutual Fund,Regular,Unknown
@@ -7627,7 +7630,7 @@ HSBCGOLD.NS,HSBC Gold ETF,HSBC Mutual Fund,Unknown,Unknown
 ,Mirae Asset Gold ETF,Mirae Asset Mutual Fund,Unknown,Unknown
 MOGOLD.NS,Motilal Oswal Gold ETF,Motilal Oswal Mutual Fund,Unknown,Unknown
 ,Nippon India ETF Gold BeES,Nippon India Mutual Fund,Unknown,Unknown
-,Quantum Gold Fund,Quantum Mutual Fund,Unknown,Unknown
+,Quantum Gold ETF,Quantum Mutual Fund,Unknown,Unknown
 ,SBI Gold ETF,SBI Mutual Fund,Unknown,Unknown
 TATAGOLD.NS,Tata Gold Exchange Traded Fund,Tata Mutual Fund,Unknown,Unknown
 TWCGOLDETF.NS,The Wealth Company Gold ETF,The Wealth Company Mutual Fund,Unknown,Unknown
@@ -7865,7 +7868,7 @@ GOLDCASE.NS,Zerodha Gold ETF,Zerodha Mutual Fund,Unknown,Unknown
 0P0001US05.BO,Bandhan CRISIL-IBX 10:90 Gilt Plus SDL Index - Dec 2029 Fund-Direct Plan-IDCW,Bandhan Mutual Fund,Unknown,Unknown
 0P0001US07.BO,Bandhan CRISIL-IBX 10:90 Gilt Plus SDL Index - Dec 2029 Fund-Regular Plan-Growth,Bandhan Mutual Fund,Unknown,Unknown
 0P0001US08.BO,Bandhan CRISIL-IBX 10:90 Gilt Plus SDL Index - Dec 2029 Fund-Regular Plan-IDCW,Bandhan Mutual Fund,Unknown,Unknown
-,Bandhan CRISIL-IBX Financial Services 3-6 Months Debt Index Fund - Direct Plan - Growth,Bandhan Mutual Fund,Direct,Growth
+0P0001UU2W.BO,Bandhan CRISIL-IBX Financial Services 3-6 Months Debt Index Fund - Direct Plan - Growth,Bandhan Mutual Fund,Direct,Growth
 0P0001UU2X.BO,Bandhan CRISIL-IBX Financial Services 3-6 Months Debt Index Fund - Regular Plan - Growth,Bandhan Mutual Fund,Regular,Growth
 0P0001ODLY.BO,BANDHAN NIFTY 100 INDEX FUND - DIRECT PLAN - GROWTH,Bandhan Mutual Fund,Direct,Growth
 0P0001ODLZ.BO,BANDHAN NIFTY 100 INDEX FUND - DIRECT PLAN - IDCW,Bandhan Mutual Fund,Direct,IDCW
@@ -8382,10 +8385,10 @@ GOLDCASE.NS,Zerodha Gold ETF,Zerodha Mutual Fund,Unknown,Unknown
 0P0001X3X9.BO,Kotak Nifty Alpha 50 Index Fund - Direct Plan - IDCW - Payout & Reinvestment,Kotak Mahindra Mutual Fund,Direct,IDCW
 0P0001X3XB.BO,Kotak Nifty Alpha 50 Index Fund - Regular Plan - Growth,Kotak Mahindra Mutual Fund,Regular,Growth
 0P0001X3XC.BO,Kotak Nifty Alpha 50 Index Fund - Regular Plan - IDCW - Payout & Reinvestment,Kotak Mahindra Mutual Fund,Regular,IDCW
-,Kotak Nifty Alpha Low Volatility 30 Index Fund - Direct- Growth,Kotak Mahindra Mutual Fund,Direct,Growth
-,Kotak Nifty Alpha Low Volatility 30 Index Fund - Direct- IDCW,Kotak Mahindra Mutual Fund,Direct,IDCW
-,Kotak Nifty Alpha Low Volatility 30 Index Fund - Regular - Growth,Kotak Mahindra Mutual Fund,Regular,Growth
-,Kotak Nifty Alpha Low Volatility 30 Index Fund - Regular - IDCW,Kotak Mahindra Mutual Fund,Regular,IDCW
+0P00035GEG.BO,Kotak Nifty Alpha Low Volatility 30 Index Fund - Direct- Growth,Kotak Mahindra Mutual Fund,Direct,Growth
+0P00035GEH.BO,Kotak Nifty Alpha Low Volatility 30 Index Fund - Direct- IDCW,Kotak Mahindra Mutual Fund,Direct,IDCW
+0P00035GEJ.BO,Kotak Nifty Alpha Low Volatility 30 Index Fund - Regular - Growth,Kotak Mahindra Mutual Fund,Regular,Growth
+0P00035GEK.BO,Kotak Nifty Alpha Low Volatility 30 Index Fund - Regular - IDCW,Kotak Mahindra Mutual Fund,Regular,IDCW
 0P0001UPI5.BO,Kotak Nifty Commodities Index Fund-Direct Growth,Kotak Mahindra Mutual Fund,Unknown,Growth
 0P0001UPI6.BO,KOTAK NIFTY COMMODITIES INDEX FUND-DIRECT-IDCW-PAYOUT & REINVESTMENT,Kotak Mahindra Mutual Fund,Unknown,IDCW
 0P0001UPI8.BO,KOTAK NIFTY COMMODITIES INDEX FUND-REGULAR GROWTH,Kotak Mahindra Mutual Fund,Unknown,Growth
@@ -8500,6 +8503,8 @@ GOLDCASE.NS,Zerodha Gold ETF,Zerodha Mutual Fund,Unknown,Unknown
 0P0001TUOX.BO,Mirae Asset Nifty Total Market Index Fund - Regular Plan - IDCW,Mirae Asset Mutual Fund,Regular,IDCW
 0P0001VHSW.BO,Motilal Oswal BSE 1000 Index Fund - Direct Plan - Growth,Motilal Oswal Mutual Fund,Direct,Growth
 0P0001VHSX.BO,Motilal Oswal BSE 1000 Index Fund - Regular Plan - Growth,Motilal Oswal Mutual Fund,Regular,Growth
+,Motilal Oswal BSE Clean Environment Index Fund - Direct,Motilal Oswal Mutual Fund,Direct,Unknown
+,Motilal Oswal BSE Clean Environment Index Fund - Growth,Motilal Oswal Mutual Fund,Unknown,Growth
 0P0001PHVM.BO,Motilal Oswal BSE Enhanced Value Index Fund-Direct plan,Motilal Oswal Mutual Fund,Unknown,Unknown
 0P0001PHVN.BO,Motilal Oswal BSE Enhanced Value Index Fund-Regular plan,Motilal Oswal Mutual Fund,Unknown,Unknown
 0P0001PEG9.BO,Motilal Oswal BSE Financials ex Bank 30 Index Fund Direct Growth,Motilal Oswal Mutual Fund,Direct,Growth
@@ -8970,13 +8975,13 @@ AONETOTAL.NS,ANGEL ONE NIFTY TOTAL MARKET ETF,Angel One Mutual Fund,Unknown,Unkn
 AONETMMQ50.NS,ANGEL ONE NIFTY TOTAL MARKET MOMENTUM QUALITY 50 ETF,Angel One Mutual Fund,Unknown,Unknown
 AONESILVER.NS,ANGEL ONE SILVER ETF,Angel One Mutual Fund,Unknown,Unknown
 ,Axis BSE Sensex ETF,Axis Mutual Fund,Unknown,Unknown
-AXISNIFTY.NS,Axis Nifty 50 ETF,Axis Mutual Fund,Unknown,Unknown
-AXISBNKETF.NS,Axis NIFTY Bank ETF,Axis Mutual Fund,Unknown,Unknown
-AXISHCETF.NS,Axis NIFTY Healthcare ETF,Axis Mutual Fund,Unknown,Unknown
+NIFTYAXIS.NS,Axis Nifty 50 ETF,Axis Mutual Fund,Unknown,Unknown
+BNKETFAXIS.NS,Axis NIFTY Bank ETF,Axis Mutual Fund,Unknown,Unknown
+HEALTHAXIS.NS,Axis NIFTY Healthcare ETF,Axis Mutual Fund,Unknown,Unknown
 ,Axis NIFTY India Consumption ETF,Axis Mutual Fund,Unknown,Unknown
-AXISTECETF.NS,Axis IT ETF,Axis Mutual Fund,Unknown,Unknown
+ITAXIS.NS,Axis IT ETF,Axis Mutual Fund,Unknown,Unknown
 AXISVALUE.NS,Axis Nifty500 Value 50 ETF,Axis Mutual Fund,Unknown,Unknown
-AXISILVER.NS,Axis Silver ETF,Axis Mutual Fund,Unknown,Unknown
+SILVERAXIS.NS,Axis Silver ETF,Axis Mutual Fund,Unknown,Unknown
 ,Bajaj Finserv Nifty 1D Rate Liquid ETF,Bajaj Finserv Mutual Fund,Unknown,Unknown
 NIFTYBETF.NS,Bajaj Finserv Nifty 50 ETF,Bajaj Finserv Mutual Fund,Unknown,Unknown
 BANKBETF.NS,Bajaj Finserv Nifty Bank ETF,Bajaj Finserv Mutual Fund,Unknown,Unknown
@@ -9045,7 +9050,7 @@ GROWWSLVR.NS,Groww Silver ETF,Groww Mutual Fund,Unknown,Unknown
 HDFCBSE500.NS,HDFC BSE 500 ETF - Growth Option,HDFC Mutual Fund,Unknown,Growth
 ,HDFC BSE Sensex ETF - Growth Plan,HDFC Mutual Fund,Unknown,Growth
 ,HDFC NIFTY 100 ETF - Growth Option,HDFC Mutual Fund,Unknown,Growth
-,HDFC NIFTY 1D RATE LIQUID ETF GROWTH,HDFC Mutual Fund,Unknown,Growth
+HDFCLIQUID.NS,HDFC NIFTY 1D RATE LIQUID ETF GROWTH,HDFC Mutual Fund,Unknown,Growth
 ,HDFC NIFTY 50 ETF - Growth Plan,HDFC Mutual Fund,Unknown,Growth
 ,HDFC NIFTY Bank ETF - GROWTH,HDFC Mutual Fund,Unknown,Growth
 HDFCGROWTH.NS,HDFC NIFTY GROWTH SECTORS 15 ETF - Growth Option,HDFC Mutual Fund,Unknown,Growth
@@ -9053,7 +9058,7 @@ HDFCGROWTH.NS,HDFC NIFTY GROWTH SECTORS 15 ETF - Growth Option,HDFC Mutual Fund,
 HDFCMID150.NS,HDFC NIFTY Midcap 150 ETF - Growth Option,HDFC Mutual Fund,Unknown,Growth
 ,HDFC NIFTY NEXT 50 ETF - Growth Option,HDFC Mutual Fund,Unknown,Growth
 HDFCPVTBAN.NS,HDFC NIFTY Private Bank ETF - Growth Option,HDFC Mutual Fund,Unknown,Growth
-,HDFC NIFTY PSU BANK ETF,HDFC Mutual Fund,Unknown,Unknown
+HDFCPSUBK.NS,HDFC NIFTY PSU BANK ETF,HDFC Mutual Fund,Unknown,Unknown
 HDFCSML250.NS,HDFC NIFTY Smallcap 250 ETF - Growth Option,HDFC Mutual Fund,Unknown,Growth
 ,HDFC NIFTY100 Low Volatility 30 ETF - Growth Option,HDFC Mutual Fund,Unknown,Growth
 HDFCQUAL.NS,HDFC NIFTY100 QUALITY 30 ETF - Growth Option,HDFC Mutual Fund,Unknown,Growth
@@ -9460,10 +9465,6 @@ SILVERCASE.NS,Zerodha Silver ETF,Zerodha Mutual Fund,Unknown,Unknown
 ,ICICI Prudential R.I.G.H.T. Fund Growth,ICICI Prudential Mutual Fund,Unknown,Growth
 ,Reliance Equity Linked Saving Fund - Series I - Dividend Plan,Unknown,Unknown,IDCW
 ,Reliance Equity Linked Saving Fund - Series I - Growth Plan,Unknown,Unknown,Growth
-,SBI Long Term Advantage Fund - Series III - Direct Plan - Growth,SBI Mutual Fund,Direct,Growth
-,SBI Long Term Advantage Fund - Series III - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),SBI Mutual Fund,Direct,IDCW
-,SBI Long Term Advantage Fund - Series III - Regular Plan - Growth,SBI Mutual Fund,Regular,Growth
-,SBI Long Term Advantage Fund - Series III - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),SBI Mutual Fund,Regular,IDCW
 0P00019JDK.BO,SBI Long Term Advantage Fund - Series IV - Direct Plan - Growth,SBI Mutual Fund,Direct,Growth
 0P00019JDL.BO,SBI Long Term Advantage Fund - Series IV - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),SBI Mutual Fund,Direct,IDCW
 0P00019JDI.BO,SBI Long Term Advantage Fund - Series IV - Regular Plan - Growth,SBI Mutual Fund,Regular,Growth
@@ -9831,10 +9832,10 @@ SILVERCASE.NS,Zerodha Silver ETF,Zerodha Mutual Fund,Unknown,Unknown
 ,DSP FMP Series - 267 - 1172 Days - Direct - IDCW,DSP Mutual Fund,Direct,IDCW
 ,DSP FMP Series - 267 - 1172 Days - Regular - Growth,DSP Mutual Fund,Regular,Growth
 ,DSP FMP Series - 267 - 1172 Days - Regular - IDCW,DSP Mutual Fund,Regular,IDCW
-0P0001Q0T4.BO,DSP FMP Series - 268 - 1281 Days - Direct - Growth,DSP Mutual Fund,Direct,Growth
-0P0001Q0T5.BO,DSP FMP Series - 268 - 1281 Days - Direct - IDCW,DSP Mutual Fund,Direct,IDCW
-0P0001Q0T7.BO,DSP FMP Series - 268 - 1281 Days - Regular - Growth,DSP Mutual Fund,Regular,Growth
-0P0001Q0T8.BO,DSP FMP Series - 268 - 1281 Days - Regular - IDCW,DSP Mutual Fund,Regular,IDCW
+,DSP FMP Series - 268 - 1281 Days - Direct - Growth,DSP Mutual Fund,Direct,Growth
+,DSP FMP Series - 268 - 1281 Days - Direct - IDCW,DSP Mutual Fund,Direct,IDCW
+,DSP FMP Series - 268 - 1281 Days - Regular - Growth,DSP Mutual Fund,Regular,Growth
+,DSP FMP Series - 268 - 1281 Days - Regular - IDCW,DSP Mutual Fund,Regular,IDCW
 ,DSP FMP Series - 270 - 1172 Days - Direct - Growth,DSP Mutual Fund,Direct,Growth
 ,DSP FMP Series - 270 - 1172 Days - Direct - IDCW,DSP Mutual Fund,Direct,IDCW
 ,DSP FMP Series - 270 - 1172 Days - Regular - Growth,DSP Mutual Fund,Regular,Growth
@@ -12004,10 +12005,10 @@ SILVERCASE.NS,Zerodha Silver ETF,Zerodha Mutual Fund,Unknown,Unknown
 ,Kotak FMP Series 267-Direct PLan-Growth Option,Kotak Mahindra Mutual Fund,Unknown,Unknown
 ,Kotak FMP Series 267-Regular Plan-Growth Option,Kotak Mahindra Mutual Fund,Unknown,Unknown
 ,Kotak FMP series 267-Regular Plan-Payout of Income Distribution cum capital withdrawal option ,Kotak Mahindra Mutual Fund,Unknown,Unknown
-0P0001N33H.BO,Kotak FMP Series 292 - Direct Plan - Growth,Kotak Mahindra Mutual Fund,Direct,Growth
-0P0001N33E.BO,Kotak FMP Series 292 - Direct Plan - IDCW Payout,Kotak Mahindra Mutual Fund,Direct,IDCW
-0P0001N33F.BO,Kotak FMP Series 292 - Regular Plan - Growth,Kotak Mahindra Mutual Fund,Regular,Growth
-0P0001N33G.BO,Kotak FMP Series 292 - Regular Plan - IDCW Payout,Kotak Mahindra Mutual Fund,Regular,IDCW
+,Kotak FMP Series 292 - Direct Plan - Growth,Kotak Mahindra Mutual Fund,Direct,Growth
+,Kotak FMP Series 292 - Direct Plan - IDCW Payout,Kotak Mahindra Mutual Fund,Direct,IDCW
+,Kotak FMP Series 292 - Regular Plan - Growth,Kotak Mahindra Mutual Fund,Regular,Growth
+,Kotak FMP Series 292 - Regular Plan - IDCW Payout,Kotak Mahindra Mutual Fund,Regular,IDCW
 ,Kotak FMP Series 294-105 days - Regular Plan - IDCW Payout,Kotak Mahindra Mutual Fund,Regular,IDCW
 ,Kotak FMP Series 294-105 days-Regular Plan-Growth,Kotak Mahindra Mutual Fund,Unknown,Unknown
 ,Kotak FMP Series 294-Direct Plan-IDCW Payout,Kotak Mahindra Mutual Fund,Unknown,IDCW
@@ -12039,10 +12040,10 @@ SILVERCASE.NS,Zerodha Silver ETF,Zerodha Mutual Fund,Unknown,Unknown
 0P0001QAB6.BO,Kotak FMP Series 304-Direct Plan-Payout of IDCW,Kotak Mahindra Mutual Fund,Unknown,IDCW
 0P0001QAB7.BO,Kotak FMP Series 304-Regular Plan-Growth Option,Kotak Mahindra Mutual Fund,Unknown,Unknown
 0P0001QAB8.BO,Kotak FMP Series 304-Regular Plan-Payout of IDCW,Kotak Mahindra Mutual Fund,Unknown,IDCW
-0P0001QBAP.BO,Kotak FMP Series 305 - Direct Plan - Growth,Kotak Mahindra Mutual Fund,Direct,Growth
-0P0001QBAQ.BO,Kotak FMP Series 305 - Direct Plan - IDCW,Kotak Mahindra Mutual Fund,Direct,IDCW
-0P0001QBAR.BO,Kotak FMP Series 305 - Regular Plan - Growth,Kotak Mahindra Mutual Fund,Regular,Growth
-0P0001QBAS.BO,Kotak FMP Series 305 - Regular Plan - IDCW,Kotak Mahindra Mutual Fund,Regular,IDCW
+,Kotak FMP Series 305 - Direct Plan - Growth,Kotak Mahindra Mutual Fund,Direct,Growth
+,Kotak FMP Series 305 - Direct Plan - IDCW,Kotak Mahindra Mutual Fund,Direct,IDCW
+,Kotak FMP Series 305 - Regular Plan - Growth,Kotak Mahindra Mutual Fund,Regular,Growth
+,Kotak FMP Series 305 - Regular Plan - IDCW,Kotak Mahindra Mutual Fund,Regular,IDCW
 ,Kotak FMP Series 306 - Direct Plan - Growth,Kotak Mahindra Mutual Fund,Direct,Growth
 ,Kotak FMP Series 306 - Direct Plan - IDCW Payout,Kotak Mahindra Mutual Fund,Direct,IDCW
 ,Kotak FMP Series 306 - Regular Plan - Growth,Kotak Mahindra Mutual Fund,Regular,Growth
@@ -12058,9 +12059,9 @@ SILVERCASE.NS,Zerodha Silver ETF,Zerodha Mutual Fund,Unknown,Unknown
 ,Kotak FMP Series 309 - Direct Plan - Growth,Kotak Mahindra Mutual Fund,Direct,Growth
 ,Kotak FMP Series 309 - Regular Plan - Growth,Kotak Mahindra Mutual Fund,Regular,Growth
 ,Kotak FMP Series 309 - Regular Plan - IDCW Payout,Kotak Mahindra Mutual Fund,Regular,IDCW
-0P0001QNEG.BO,Kotak FMP Series 310 - Direct Plan - Growth Option,Kotak Mahindra Mutual Fund,Direct,Growth
-0P0001QNEI.BO,Kotak FMP Series 310 - Regular Plan - Growth Option,Kotak Mahindra Mutual Fund,Regular,Growth
-0P0001QNEJ.BO,Kotak FMP Series 310 - Regular Plan - IDCW Payout option,Kotak Mahindra Mutual Fund,Regular,IDCW
+,Kotak FMP Series 310 - Direct Plan - Growth Option,Kotak Mahindra Mutual Fund,Direct,Growth
+,Kotak FMP Series 310 - Regular Plan - Growth Option,Kotak Mahindra Mutual Fund,Regular,Growth
+,Kotak FMP Series 310 - Regular Plan - IDCW Payout option,Kotak Mahindra Mutual Fund,Regular,IDCW
 ,Kotak FMP Series 311 - Direct Plan - Growth Option,Kotak Mahindra Mutual Fund,Direct,Growth
 ,Kotak FMP Series 311 - Direct Plan - IDCW Option,Kotak Mahindra Mutual Fund,Direct,IDCW
 ,Kotak FMP Series 311 - Regular Plan - Growth Option,Kotak Mahindra Mutual Fund,Regular,Growth
@@ -13342,18 +13343,18 @@ SILVERCASE.NS,Zerodha Silver ETF,Zerodha Mutual Fund,Unknown,Unknown
 ,SBI Fixed Maturity Plan (FMP) - Series 73 (1226 Days) - Direct Plan - IDCW Payout,SBI Mutual Fund,Direct,IDCW
 ,SBI Fixed Maturity Plan (FMP) - Series 73 (1226 Days) - Regular Plan - Growth,SBI Mutual Fund,Regular,Growth
 ,SBI Fixed Maturity Plan (FMP) - Series 73 (1226 Days) - Regular Plan - IDCW Payout,SBI Mutual Fund,Regular,IDCW
-0P0001QACM.BO,SBI Fixed Maturity Plan (FMP)-Series 74 (1243 Days)- Direct Plan- Growth,SBI Mutual Fund,Direct,Growth
-0P0001QACN.BO,SBI Fixed Maturity Plan (FMP)-Series 74 (1243 Days)- Direct Plan- Income Distribution Cum Capital Withdrawal Payout,SBI Mutual Fund,Direct,IDCW
-0P0001QACP.BO,SBI Fixed Maturity Plan (FMP)-Series 74 (1243 Days)- Regular Plan- Growth,SBI Mutual Fund,Regular,Growth
-0P0001QACQ.BO,SBI Fixed Maturity Plan (FMP)-Series 74 (1243 Days)- Regular Plan- Income Distribution Cum Capital Withdrawal Payout,SBI Mutual Fund,Regular,IDCW
-0P0001QD7G.BO,SBI Fixed Maturity Plan (FMP) - Series 76 (1221 Days) - Direct Plan - Growth,SBI Mutual Fund,Direct,Growth
-0P0001QD7H.BO,SBI Fixed Maturity Plan (FMP) - Series 76 (1221 Days) - Direct Plan - Income Distribution Cum Capital Withdrawal Payout,SBI Mutual Fund,Direct,IDCW
-0P0001QD7J.BO,SBI Fixed Maturity Plan (FMP) - Series 76 (1221 Days) - Regular Plan - Growth,SBI Mutual Fund,Regular,Growth
-0P0001QD7K.BO,SBI Fixed Maturity Plan (FMP) - Series 76 (1221 Days) - Regular Plan - Income Distribution Cum Capital Withdrawal Payout,SBI Mutual Fund,Regular,IDCW
-0P0001QGVK.BO,SBI Fixed Maturity Plan (FMP)-Series 78 (1170 Days) Direct Plan- Growth,SBI Mutual Fund,Direct,Growth
-0P0001QGVL.BO,SBI Fixed Maturity Plan (FMP)-Series 78 (1170 Days) Direct Plan- Income Distribution Cum Capital Withdrawal Payout,SBI Mutual Fund,Direct,IDCW
-0P0001QGVM.BO,SBI Fixed Maturity Plan (FMP)-Series 78 (1170 Days) Regular Plan- Growth,SBI Mutual Fund,Regular,Growth
-0P0001QGVN.BO,SBI Fixed Maturity Plan (FMP)-Series 78 (1170 Days) Regular Plan- Income Distribution Cum Capital Withdrawal Payout,SBI Mutual Fund,Regular,IDCW
+,SBI Fixed Maturity Plan (FMP)-Series 74 (1243 Days)- Direct Plan- Growth,SBI Mutual Fund,Direct,Growth
+,SBI Fixed Maturity Plan (FMP)-Series 74 (1243 Days)- Direct Plan- Income Distribution Cum Capital Withdrawal Payout,SBI Mutual Fund,Direct,IDCW
+,SBI Fixed Maturity Plan (FMP)-Series 74 (1243 Days)- Regular Plan- Growth,SBI Mutual Fund,Regular,Growth
+,SBI Fixed Maturity Plan (FMP)-Series 74 (1243 Days)- Regular Plan- Income Distribution Cum Capital Withdrawal Payout,SBI Mutual Fund,Regular,IDCW
+,SBI Fixed Maturity Plan (FMP) - Series 76 (1221 Days) - Direct Plan - Growth,SBI Mutual Fund,Direct,Growth
+,SBI Fixed Maturity Plan (FMP) - Series 76 (1221 Days) - Direct Plan - Income Distribution Cum Capital Withdrawal Payout,SBI Mutual Fund,Direct,IDCW
+,SBI Fixed Maturity Plan (FMP) - Series 76 (1221 Days) - Regular Plan - Growth,SBI Mutual Fund,Regular,Growth
+,SBI Fixed Maturity Plan (FMP) - Series 76 (1221 Days) - Regular Plan - Income Distribution Cum Capital Withdrawal Payout,SBI Mutual Fund,Regular,IDCW
+,SBI Fixed Maturity Plan (FMP)-Series 78 (1170 Days) Direct Plan- Growth,SBI Mutual Fund,Direct,Growth
+,SBI Fixed Maturity Plan (FMP)-Series 78 (1170 Days) Direct Plan- Income Distribution Cum Capital Withdrawal Payout,SBI Mutual Fund,Direct,IDCW
+,SBI Fixed Maturity Plan (FMP)-Series 78 (1170 Days) Regular Plan- Growth,SBI Mutual Fund,Regular,Growth
+,SBI Fixed Maturity Plan (FMP)-Series 78 (1170 Days) Regular Plan- Income Distribution Cum Capital Withdrawal Payout,SBI Mutual Fund,Regular,IDCW
 0P0001QNGT.BO,SBI Fixed Maturity Plan (FMP)-Series 81 (1157 Days) Direct Plan- Growth,SBI Mutual Fund,Direct,Growth
 0P0001QNGU.BO,SBI Fixed Maturity Plan (FMP)-Series 81 (1157 Days) Direct Plan- Income Distribution Cum Capital Withdrawal Payout,SBI Mutual Fund,Direct,IDCW
 0P0001QNGW.BO,SBI Fixed Maturity Plan (FMP)-Series 81 (1157 Days) Regular Plan- Growth,SBI Mutual Fund,Regular,Growth
