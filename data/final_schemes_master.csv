@@ -13,7 +13,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0000GBBQ.BO,Aditya Birla Sun Life Banking & PSU Debt Fund,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 0P0000IX84.BO,Aditya Birla Sun Life Banking & PSU Debt Fund,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 0P0000GBBW.BO,Aditya Birla Sun Life Banking & PSU Debt Fund,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
-0P0000GBCG.BO,Aditya Birla Sun Life Banking & PSU Debt Fund,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
+,Aditya Birla Sun Life Banking & PSU Debt Fund,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 0P0000XVYH.BO,Aditya Birla Sun Life Banking & PSU Debt Fund,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 0P00012U47.BO,Franklin India Banking & PSU Debt Fund,Franklin Templeton Mutual Fund,Unknown,Unknown
 0P00012U43.BO,Franklin India Banking & PSU Debt Fund,Franklin Templeton Mutual Fund,Unknown,Unknown
@@ -39,9 +39,9 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0000ZRGD.BO,Aditya Birla Sun Life Corporate Bond Fund,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 0P00005V6A.BO,Aditya Birla Sun Life Corporate Bond Fund,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 0P00018DD7.BO,BANDHAN Corporate Bond Fund,Bandhan Mutual Fund,Unknown,Unknown
-0P00017AYV.BO,BANDHAN Corporate Bond Fund,Bandhan Mutual Fund,Unknown,Unknown
+,BANDHAN Corporate Bond Fund,Bandhan Mutual Fund,Unknown,Unknown
 0P0001HG59.BO,BANDHAN Corporate Bond Fund,Bandhan Mutual Fund,Unknown,Unknown
-0P0001839G.BO,BANDHAN Corporate Bond Fund,Bandhan Mutual Fund,Unknown,Unknown
+,BANDHAN Corporate Bond Fund,Bandhan Mutual Fund,Unknown,Unknown
 0P00017AYW.BO,BANDHAN Corporate Bond Fund,Bandhan Mutual Fund,Unknown,Unknown
 0P00017TOY.BO,BANDHAN Corporate Bond Fund,Bandhan Mutual Fund,Unknown,Unknown
 0P0001AGI2.BO,BANDHAN Corporate Bond Fund,Bandhan Mutual Fund,Unknown,Unknown
@@ -50,18 +50,6 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P00017XDY.BO,BANDHAN Corporate Bond Fund,Bandhan Mutual Fund,Unknown,Unknown
 0P00017AYU.BO,BANDHAN Corporate Bond Fund,Bandhan Mutual Fund,Unknown,Unknown
 0P00017TOX.BO,BANDHAN Corporate Bond Fund,Bandhan Mutual Fund,Unknown,Unknown
-0P0000JXG2.BO,BARODA BNP PARIBAS CORPORATE BOND FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-0P0000IUIA.BO,BARODA BNP PARIBAS CORPORATE BOND FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-0P0000JWVH.BO,BARODA BNP PARIBAS CORPORATE BOND FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-0P0000JXFZ.BO,BARODA BNP PARIBAS CORPORATE BOND FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-0P0000XVYJ.BO,BARODA BNP PARIBAS CORPORATE BOND FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-0P0000XVYK.BO,BARODA BNP PARIBAS CORPORATE BOND FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-0P0000XVYL.BO,BARODA BNP PARIBAS CORPORATE BOND FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-0P0000XVYM.BO,BARODA BNP PARIBAS CORPORATE BOND FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-0P0000VHDR.BO,BARODA BNP PARIBAS CORPORATE BOND FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-0P0000IULM.BO,BARODA BNP PARIBAS CORPORATE BOND FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-0P0000JXG7.BO,BARODA BNP PARIBAS CORPORATE BOND FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-0P0000JXG5.BO,BARODA BNP PARIBAS CORPORATE BOND FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
 0P0001EDLE.BO,DSP Corporate Bond Fund,DSP Mutual Fund,Unknown,Unknown
 0P0001EDLC.BO,DSP Corporate Bond Fund,DSP Mutual Fund,Unknown,Unknown
 0P0001EDLF.BO,DSP Corporate Bond Fund,DSP Mutual Fund,Unknown,Unknown
@@ -107,7 +95,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0000XVF5.BO,Nippon India Corporate Bond Fund,Nippon India Mutual Fund,Unknown,Unknown
 0P0000XX0M.BO,Nippon India Corporate Bond Fund,Nippon India Mutual Fund,Unknown,Unknown
 0P0000XVF0.BO,Nippon India Corporate Bond Fund,Nippon India Mutual Fund,Unknown,Unknown
-0P00005UQ8.BO,Nippon India Corporate Bond Fund,Nippon India Mutual Fund,Unknown,Unknown
+,Nippon India Corporate Bond Fund,Nippon India Mutual Fund,Unknown,Unknown
 0P00005UQ9.BO,Nippon India Corporate Bond Fund,Nippon India Mutual Fund,Unknown,Unknown
 0P000123HG.BO,Nippon India Corporate Bond Fund,Nippon India Mutual Fund,Unknown,Unknown
 0P00005UQA.BO,Nippon India Corporate Bond Fund,Nippon India Mutual Fund,Unknown,Unknown
@@ -360,10 +348,6 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0001540X.BO,Bandhan Gilt   Fund,Bandhan Mutual Fund,Unknown,Unknown
 0P0000XQ8V.BO,Bandhan Gilt  Fund,Bandhan Mutual Fund,Unknown,Unknown
 0P0000XYE8.BO,Bandhan Gilt Fund,Bandhan Mutual Fund,Unknown,Unknown
-0P0000XVV4.BO,BARODA BNP PARIBAS GILT FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-0P0000XY0C.BO,BARODA BNP PARIBAS GILT FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-0P00005V6S.BO,BARODA BNP PARIBAS GILT FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-0P00005V6R.BO,BARODA BNP PARIBAS GILT FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
 0P0000XW1Q.BO,DSP Gilt Fund,DSP Mutual Fund,Unknown,Unknown
 0P0000XW1P.BO,DSP Gilt Fund,DSP Mutual Fund,Unknown,Unknown
 0P0000XW1R.BO,DSP Gilt Fund,DSP Mutual Fund,Unknown,Unknown
@@ -433,7 +417,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0001PDQB.BO,Union Gilt Fund,Union Mutual Fund,Unknown,Unknown
 0P0001PDQA.BO,Union Gilt Fund,Union Mutual Fund,Unknown,Unknown
 0P0001PDQ2.BO,Union Gilt Fund,Union Mutual Fund,Unknown,Unknown
-0P0001PDQ4.BO,Union Gilt Fund,Union Mutual Fund,Unknown,Unknown
+,Union Gilt Fund,Union Mutual Fund,Unknown,Unknown
 0P0001PDQ3.BO,Union Gilt Fund,Union Mutual Fund,Unknown,Unknown
 0P00005V43.BO,Aditya Birla Sun Life Liquid Fund,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 0P0000XVVY.BO,Aditya Birla Sun Life Liquid Fund,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
@@ -481,21 +465,6 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 ,BANK OF INDIA LIQUID FUND,Bank of India Mutual Fund,Unknown,Unknown
 0P0000IO54.BO,BANK OF INDIA LIQUID FUND,Bank of India Mutual Fund,Unknown,Unknown
 ,BANK OF INDIA LIQUID FUND,Bank of India Mutual Fund,Unknown,Unknown
-0P0000XVV9.BO,BARODA BNP PARIBAS LIQUID FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-0P0000XVVA.BO,BARODA BNP PARIBAS LIQUID FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-0P0000XZRV.BO,BARODA BNP PARIBAS LIQUID FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-,BARODA BNP PARIBAS LIQUID FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-,BARODA BNP PARIBAS LIQUID FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-0P0000JWUJ.BO,BARODA BNP PARIBAS LIQUID FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-0P0000JWUH.BO,BARODA BNP PARIBAS LIQUID FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-0P0000JWUB.BO,BARODA BNP PARIBAS LIQUID FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-,BARODA BNP PARIBAS LIQUID FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-,BARODA BNP PARIBAS LIQUID FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-,BARODA BNP PARIBAS LIQUID FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-,BARODA BNP PARIBAS LIQUID FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-0P00005X3B.BO,BARODA BNP PARIBAS LIQUID FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-0P00005V6X.BO,BARODA BNP PARIBAS LIQUID FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-,BARODA BNP PARIBAS LIQUID FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
 0P0001Y8YD.BO,Capitalmind Liquid Fund,Capitalmind Mutual Fund,Unknown,Unknown
 0P0001Y8YE.BO,Capitalmind Liquid Fund,Capitalmind Mutual Fund,Unknown,Unknown
 0P000123FW.BO,Edelweiss Liquid Fund,Edelweiss Mutual Fund,Unknown,Unknown
@@ -588,8 +557,6 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0001HCBT.BO,ITI Liquid Fund,ITI Mutual Fund,Unknown,Unknown
 0P0001HCBV.BO,ITI Liquid Fund,ITI Mutual Fund,Unknown,Unknown
 ,ITI Liquid Fund,ITI Mutual Fund,Unknown,Unknown
-0P00005V24.BO,JM Liquid Fund - Bonus Option,JM Financial Mutual Fund,Unknown,Unknown
-,JM Liquid Fund - Daily Dividend Option,JM Financial Mutual Fund,Unknown,IDCW
 0P0000XV9D.BO,LIC MF Liquid Fund,LIC Mutual Fund,Unknown,Unknown
 0P0000XV9G.BO,LIC MF Liquid Fund,LIC Mutual Fund,Unknown,Unknown
 ,LIC MF Liquid Fund,LIC Mutual Fund,Unknown,Unknown
@@ -598,7 +565,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P00005WVU.BO,LIC MF Liquid Fund,LIC Mutual Fund,Unknown,Unknown
 ,LIC MF Liquid Fund,LIC Mutual Fund,Unknown,Unknown
 ,LIC MF Liquid Fund,LIC Mutual Fund,Unknown,Unknown
-0P0001F9YH.BO,Motilal Oswal Liquid Fund,Motilal Oswal Mutual Fund,Unknown,Unknown
+,Motilal Oswal Liquid Fund,Motilal Oswal Mutual Fund,Unknown,Unknown
 0P0001F9YI.BO,Motilal Oswal Liquid Fund,Motilal Oswal Mutual Fund,Unknown,Unknown
 ,Motilal Oswal Liquid Fund,Motilal Oswal Mutual Fund,Unknown,Unknown
 ,Motilal Oswal Liquid Fund,Motilal Oswal Mutual Fund,Unknown,Unknown
@@ -616,7 +583,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 ,Motilal Oswal Liquid Fund,Motilal Oswal Mutual Fund,Unknown,Unknown
 ,Navi Liquid Fund,Navi Mutual Fund,Unknown,Unknown
 0P0000Y0IA.BO,Navi Liquid Fund,Navi Mutual Fund,Unknown,Unknown
-0P0000Y0IB.BO,Navi Liquid Fund,Navi Mutual Fund,Unknown,Unknown
+,Navi Liquid Fund,Navi Mutual Fund,Unknown,Unknown
 ,Navi Liquid Fund,Navi Mutual Fund,Unknown,Unknown
 0P0000N9S4.BO,Navi Liquid Fund,Navi Mutual Fund,Unknown,Unknown
 0P0000N9S3.BO,Navi Liquid Fund,Navi Mutual Fund,Unknown,Unknown
@@ -726,7 +693,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 ,Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund),Sundaram Mutual Fund,Unknown,Unknown
 ,Tata Liquid Fund,Tata Mutual Fund,Unknown,Unknown
 ,Tata Liquid Fund,Tata Mutual Fund,Unknown,Unknown
-0P00005UVO.BO,Tata Liquid Fund,Tata Mutual Fund,Unknown,Unknown
+,Tata Liquid Fund,Tata Mutual Fund,Unknown,Unknown
 ,Tata Liquid Fund,Tata Mutual Fund,Unknown,Unknown
 0P0000XVPB.BO,Tata Liquid Fund,Tata Mutual Fund,Unknown,Unknown
 ,Tata Liquid Fund,Tata Mutual Fund,Unknown,Unknown
@@ -746,7 +713,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0001LYTF.BO,TRUSTMF Liquid Fund,Unknown,Unknown,Unknown
 ,TRUSTMF Liquid Fund,Unknown,Unknown,Unknown
 0P0001LYTH.BO,TRUSTMF Liquid Fund,Unknown,Unknown,Unknown
-0P0001LYTM.BO,TRUSTMF Liquid Fund,Unknown,Unknown,Unknown
+,TRUSTMF Liquid Fund,Unknown,Unknown,Unknown
 0P0001LYTL.BO,TRUSTMF Liquid Fund,Unknown,Unknown,Unknown
 0P0001VENG.BO,UNIFI LIQUID FUND,Unifi Mutual Fund,Unknown,Unknown
 0P0001VENH.BO,UNIFI LIQUID FUND,Unifi Mutual Fund,Unknown,Unknown
@@ -845,7 +812,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0000XY0Z.BO,BANK OF INDIA CONSERVATIVE HYBRID FUND,Bank of India Mutual Fund,Unknown,Unknown
 0P000147CH.BO,BANK OF INDIA CONSERVATIVE HYBRID FUND,Bank of India Mutual Fund,Unknown,Unknown
 0P0000YF31.BO,BANK OF INDIA CONSERVATIVE HYBRID FUND,Bank of India Mutual Fund,Unknown,Unknown
-0P0000K1CD.BO,BANK OF INDIA CONSERVATIVE HYBRID FUND,Bank of India Mutual Fund,Unknown,Unknown
+,BANK OF INDIA CONSERVATIVE HYBRID FUND,Bank of India Mutual Fund,Unknown,Unknown
 0P0000K1CM.BO,BANK OF INDIA CONSERVATIVE HYBRID FUND,Bank of India Mutual Fund,Unknown,Unknown
 0P0000JXHM.BO,BANK OF INDIA CONSERVATIVE HYBRID FUND,Bank of India Mutual Fund,Unknown,Unknown
 0P0000K1CF.BO,BANK OF INDIA CONSERVATIVE HYBRID FUND,Bank of India Mutual Fund,Unknown,Unknown
@@ -868,21 +835,13 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P00005VF7.BO,Bandhan Money Market  Fund,Bandhan Mutual Fund,Unknown,Unknown
 0P00005VF8.BO,Bandhan Money Market Fund,Bandhan Mutual Fund,Unknown,Unknown
 ,Bank of India Money Market Fund,Bank of India Mutual Fund,Unknown,Unknown
-0P0001ULRQ.BO,Bank of India Money Market Fund,Bank of India Mutual Fund,Unknown,Unknown
+,Bank of India Money Market Fund,Bank of India Mutual Fund,Unknown,Unknown
 0P0001ULRT.BO,Bank of India Money Market Fund,Bank of India Mutual Fund,Unknown,Unknown
 ,Bank of India Money Market Fund,Bank of India Mutual Fund,Unknown,Unknown
 ,Bank of India Money Market Fund,Bank of India Mutual Fund,Unknown,Unknown
 0P0001ULRX.BO,Bank of India Money Market Fund,Bank of India Mutual Fund,Unknown,Unknown
 0P0001ULS0.BO,Bank of India Money Market Fund,Bank of India Mutual Fund,Unknown,Unknown
 ,Bank of India Money Market Fund,Bank of India Mutual Fund,Unknown,Unknown
-0P0001HRX2.BO,Baroda BNP Paribas Money Market Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-,Baroda BNP Paribas Money Market Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-0P0001HRX4.BO,Baroda BNP Paribas Money Market Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-,Baroda BNP Paribas Money Market Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-0P0001FI7J.BO,Baroda BNP Paribas Money Market Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-0P0001FI7M.BO,Baroda BNP Paribas Money Market Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-,Baroda BNP Paribas Money Market Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-,Baroda BNP Paribas Money Market Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
 0P00014JBK.BO,Edelweiss Money Market Fund,Edelweiss Mutual Fund,Unknown,Unknown
 0P0000XV55.BO,Edelweiss Money Market Fund,Edelweiss Mutual Fund,Unknown,Unknown
 0P000125VE.BO,Edelweiss Money Market Fund,Edelweiss Mutual Fund,Unknown,Unknown
@@ -914,7 +873,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 ,ICICI Prudential Money Market Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
 ,ICICI Prudential Money Market Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
 0P0000XUYQ.BO,ICICI Prudential Money Market Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
-0P0001BAF4.BO,ICICI Prudential Money Market Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
+,ICICI Prudential Money Market Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
 ,ICICI Prudential Money Market Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
 0P0001BAF7.BO,ICICI Prudential Money Market Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
 ,ICICI Prudential Money Market Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
@@ -981,7 +940,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 ,Sundaram Money Market Fund,Sundaram Mutual Fund,Unknown,Unknown
 ,Sundaram Money Market Fund,Sundaram Mutual Fund,Unknown,Unknown
 ,Sundaram Money Market Fund,Sundaram Mutual Fund,Unknown,Unknown
-0P0001EKFY.BO,Sundaram Money Market Fund,Sundaram Mutual Fund,Unknown,Unknown
+,Sundaram Money Market Fund,Sundaram Mutual Fund,Unknown,Unknown
 ,Tata Money Market Fund,Tata Mutual Fund,Unknown,Unknown
 0P0000XVP4.BO,Tata Money Market Fund,Tata Mutual Fund,Unknown,Unknown
 ,Tata Money Market Fund,Tata Mutual Fund,Unknown,Unknown
@@ -991,7 +950,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0001PI2D.BO,TRUSTMF Money Market Fund,Unknown,Unknown,Unknown
 0P0001PI2C.BO,TRUSTMF Money Market Fund,Unknown,Unknown,Unknown
 0P0001N2MH.BO,Union Money Market Fund,Union Mutual Fund,Unknown,Unknown
-0P0001N2MI.BO,Union Money Market Fund,Union Mutual Fund,Unknown,Unknown
+,Union Money Market Fund,Union Mutual Fund,Unknown,Unknown
 ,Union Money Market Fund,Union Mutual Fund,Unknown,Unknown
 ,Union Money Market Fund,Union Mutual Fund,Unknown,Unknown
 0P0001N2MP.BO,Union Money Market Fund,Union Mutual Fund,Unknown,Unknown
@@ -1016,7 +975,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 ,UTI - Money Market Fund,UTI Mutual Fund,Unknown,Unknown
 0P00016MTY.BO,UTI - Money Market Fund,UTI Mutual Fund,Unknown,Unknown
 0P000165Q5.BO,UTI - Money Market Fund,UTI Mutual Fund,Unknown,Unknown
-0P000156DD.BO,UTI - Money Market Fund,UTI Mutual Fund,Unknown,Unknown
+,UTI - Money Market Fund,UTI Mutual Fund,Unknown,Unknown
 0P00018ELG.BO,UTI - Money Market Fund,UTI Mutual Fund,Unknown,Unknown
 0P0000KPLK.BO,UTI - Money Market Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001EWOO.BO,ADITYA BIRLA SUN LIFE OVERNIGHT FUND,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
@@ -1041,7 +1000,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0001R8UB.BO,Bajaj Finserv Overnight Fund,Bajaj Finserv Mutual Fund,Unknown,Unknown
 0P0001FINY.BO,BANDHAN Overnight Fund,Bandhan Mutual Fund,Unknown,Unknown
 0P0001FHX1.BO,BANDHAN Overnight Fund,Bandhan Mutual Fund,Unknown,Unknown
-0P0001FHXA.BO,BANDHAN Overnight Fund,Bandhan Mutual Fund,Unknown,Unknown
+,BANDHAN Overnight Fund,Bandhan Mutual Fund,Unknown,Unknown
 0P0001FHXJ.BO,BANDHAN Overnight Fund,Bandhan Mutual Fund,Unknown,Unknown
 0P0001FINZ.BO,BANDHAN Overnight Fund,Bandhan Mutual Fund,Unknown,Unknown
 0P0001FINX.BO,BANDHAN Overnight Fund,Bandhan Mutual Fund,Unknown,Unknown
@@ -1061,16 +1020,6 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 ,BANK OF INDIA OVERNIGHT FUND,Bank of India Mutual Fund,Unknown,Unknown
 ,BANK OF INDIA OVERNIGHT FUND,Bank of India Mutual Fund,Unknown,Unknown
 ,BANK OF INDIA OVERNIGHT FUND,Bank of India Mutual Fund,Unknown,Unknown
-,Baroda BNP Paribas Overnight Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-0P0001HBWY.BO,Baroda BNP Paribas Overnight Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-,Baroda BNP Paribas Overnight Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-,Baroda BNP Paribas Overnight Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-,Baroda BNP Paribas Overnight Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-,Baroda BNP Paribas Overnight Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-,Baroda BNP Paribas Overnight Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-,Baroda BNP Paribas Overnight Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-0P0001HBX1.BO,Baroda BNP Paribas Overnight Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-,Baroda BNP Paribas Overnight Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
 0P0001FFDY.BO,DSP Overnight Fund,DSP Mutual Fund,Unknown,Unknown
 ,DSP Overnight Fund,DSP Mutual Fund,Unknown,Unknown
 ,DSP Overnight Fund,DSP Mutual Fund,Unknown,Unknown
@@ -1246,7 +1195,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P00005VA8.BO,DSP Short Term Fund,DSP Mutual Fund,Unknown,Unknown
 0P00005VA6.BO,DSP Short Term Fund,DSP Mutual Fund,Unknown,Unknown
 0P00005VA7.BO,DSP Short Term Fund,DSP Mutual Fund,Unknown,Unknown
-0P00005VAA.BO,DSP Short Term Fund,DSP Mutual Fund,Unknown,Unknown
+,DSP Short Term Fund,DSP Mutual Fund,Unknown,Unknown
 ,Franklin India Short-Term Income Plan (no. of segregated portfolios- 3),Franklin Templeton Mutual Fund,Unknown,Unknown
 ,Franklin India Short-Term Income Plan (no. of segregated portfolios- 3),Franklin Templeton Mutual Fund,Unknown,Unknown
 ,Franklin India Short-Term Income Plan (no. of segregated portfolios- 3),Franklin Templeton Mutual Fund,Unknown,Unknown
@@ -1426,7 +1375,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0001QHKN.BO,SBI Dividend Yield Fund,SBI Mutual Fund,Unknown,IDCW
 0P0000XVCB.BO,Sundaram Dividend Yield Fund (Formerly Known as Principal Dividend Yield Fund),Sundaram Mutual Fund,Unknown,IDCW
 0P0000XVCE.BO,Sundaram Dividend Yield Fund (Formerly Known as Principal Dividend Yield Fund),Sundaram Mutual Fund,Unknown,IDCW
-0P00005WX3.BO,Sundaram Dividend Yield Fund (Formerly Known as Principal Dividend Yield Fund),Sundaram Mutual Fund,Unknown,IDCW
+,Sundaram Dividend Yield Fund (Formerly Known as Principal Dividend Yield Fund),Sundaram Mutual Fund,Unknown,IDCW
 0P00005WX5.BO,Sundaram Dividend Yield Fund (Formerly Known as Principal Dividend Yield Fund),Sundaram Mutual Fund,Unknown,IDCW
 0P0001MAER.BO,Tata Dividend Yield Fund,Tata Mutual Fund,Unknown,IDCW
 0P0001MAES.BO,Tata Dividend Yield Fund,Tata Mutual Fund,Unknown,IDCW
@@ -1445,7 +1394,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0000XW5P.BO,Franklin India ELSS Tax Saver Fund,Franklin Templeton Mutual Fund,Unknown,Unknown
 0P0000XW5O.BO,Franklin India ELSS Tax Saver Fund,Franklin Templeton Mutual Fund,Unknown,Unknown
 0P00005VDH.BO,Franklin India ELSS Tax Saver Fund,Franklin Templeton Mutual Fund,Unknown,Unknown
-0P00005VDI.BO,Franklin India ELSS Tax Saver Fund,Franklin Templeton Mutual Fund,Unknown,Unknown
+,Franklin India ELSS Tax Saver Fund,Franklin Templeton Mutual Fund,Unknown,Unknown
 ,HDFC Long Term Advantage Plan,HDFC Mutual Fund,Unknown,Unknown
 ,HDFC Long Term Advantage Plan,HDFC Mutual Fund,Unknown,Unknown
 ,HDFC Long Term Advantage Plan,HDFC Mutual Fund,Unknown,Unknown
@@ -1516,7 +1465,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P00005VCJ.BO,Quant ELSS Tax Saver Fund,quant Mutual Fund,Unknown,Unknown
 0P0000XW50.BO,Quant ELSS Tax Saver Fund,quant Mutual Fund,Unknown,Unknown
 0P00005VCK.BO,Quant ELSS Tax Saver Fund,quant Mutual Fund,Unknown,Unknown
-0P0000JXIT.BO,Quantum ELSS Tax Saver Fund,Quantum Mutual Fund,Unknown,Unknown
+,Quantum ELSS Tax Saver Fund,Quantum Mutual Fund,Unknown,Unknown
 0P0000K003.BO,Quantum ELSS Tax Saver Fund,Quantum Mutual Fund,Unknown,Unknown
 0P0001A3FA.BO,Quantum ELSS Tax Saver Fund,Quantum Mutual Fund,Unknown,Unknown
 0P0001A3F9.BO,Quantum ELSS Tax Saver Fund,Quantum Mutual Fund,Unknown,Unknown
@@ -1573,7 +1522,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0001WY9L.BO,Capitalmind Flexi Cap Fund,Capitalmind Mutual Fund,Unknown,Unknown
 0P0001WY9M.BO,Capitalmind Flexi Cap Fund,Capitalmind Mutual Fund,Unknown,Unknown
 0P0000XW1M.BO,DSP Flexi Cap Fund,DSP Mutual Fund,Unknown,Unknown
-0P0000XW1L.BO,DSP Flexi Cap Fund,DSP Mutual Fund,Unknown,Unknown
+,DSP Flexi Cap Fund,DSP Mutual Fund,Unknown,Unknown
 0P00009J3N.BO,DSP Flexi Cap Fund,DSP Mutual Fund,Unknown,Unknown
 0P00005V93.BO,DSP Flexi Cap Fund,DSP Mutual Fund,Unknown,Unknown
 0P00015BYU.BO,Edelweiss Flexi Cap Fund,Edelweiss Mutual Fund,Unknown,Unknown
@@ -1582,8 +1531,8 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P00015BYS.BO,Edelweiss Flexi Cap Fund,Edelweiss Mutual Fund,Unknown,Unknown
 0P0000XW5L.BO,Franklin India Flexi Cap Fund,Franklin Templeton Mutual Fund,Unknown,Unknown
 0P0000XW5K.BO,Franklin India Flexi Cap Fund,Franklin Templeton Mutual Fund,Unknown,Unknown
-0P00005VDE.BO,Franklin India Flexi Cap Fund,Franklin Templeton Mutual Fund,Unknown,Unknown
-0P00005VDD.BO,Franklin India Flexi Cap Fund,Franklin Templeton Mutual Fund,Unknown,Unknown
+,Franklin India Flexi Cap Fund,Franklin Templeton Mutual Fund,Unknown,Unknown
+,Franklin India Flexi Cap Fund,Franklin Templeton Mutual Fund,Unknown,Unknown
 0P0000XW77.BO,HDFC Flexi Cap Fund,HDFC Mutual Fund,Unknown,Unknown
 0P00005WLZ.BO,HDFC Flexi Cap Fund,HDFC Mutual Fund,Unknown,Unknown
 0P0000XW76.BO,HDFC Flexi Cap Fund,HDFC Mutual Fund,Unknown,Unknown
@@ -1605,7 +1554,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0001DJBB.BO,Navi Flexi Cap Fund,Navi Mutual Fund,Unknown,Unknown
 0P0001DJB3.BO,Navi Flexi Cap Fund,Navi Mutual Fund,Unknown,Unknown
 0P0001DJAZ.BO,Navi Flexi Cap Fund,Navi Mutual Fund,Unknown,Unknown
-0P0001DJB7.BO,Navi Flexi Cap Fund,Navi Mutual Fund,Unknown,Unknown
+,Navi Flexi Cap Fund,Navi Mutual Fund,Unknown,Unknown
 0P0001DJAV.BO,Navi Flexi Cap Fund,Navi Mutual Fund,Unknown,Unknown
 0P0001DJBD.BO,Navi Flexi Cap Fund,Navi Mutual Fund,Unknown,Unknown
 0P0001DJB9.BO,Navi Flexi Cap Fund,Navi Mutual Fund,Unknown,Unknown
@@ -1687,7 +1636,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0001BL90.BO,Baroda BNP Paribas Focused Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
 0P0001BL91.BO,Baroda BNP Paribas Focused Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
 0P0001BL8Z.BO,Baroda BNP Paribas Focused Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-0P0001BL8Y.BO,Baroda BNP Paribas Focused Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+,Baroda BNP Paribas Focused Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
 0P0000XW1O.BO,DSP Focused Fund,DSP Mutual Fund,Unknown,Unknown
 0P0000XW1N.BO,DSP Focused Fund,DSP Mutual Fund,Unknown,Unknown
 0P0000NR4T.BO,DSP Focused Fund,DSP Mutual Fund,Unknown,Unknown
@@ -1756,7 +1705,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P00005X1R.BO,Aditya Birla Sun Life Large & Mid Cap Fund,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 0P0000XVVK.BO,Aditya Birla Sun Life Large & Mid Cap Fund,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 0P00005V3V.BO,Aditya Birla Sun Life Large & Mid Cap Fund,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
-0P0000XV0E.BO,Bandhan Large & Mid Cap Fund,Bandhan Mutual Fund,Unknown,Unknown
+,Bandhan Large & Mid Cap Fund,Bandhan Mutual Fund,Unknown,Unknown
 0P0000XV0B.BO,Bandhan Large & Mid Cap Fund,Bandhan Mutual Fund,Unknown,Unknown
 0P00005WFH.BO,Bandhan Large & Mid Cap Fund,Bandhan Mutual Fund,Unknown,Unknown
 0P00005WFG.BO,Bandhan Large & Mid Cap Fund,Bandhan Mutual Fund,Unknown,Unknown
@@ -1810,7 +1759,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0001D3MU.BO,Navi Large & Midcap Fund,Navi Mutual Fund,Unknown,Unknown
 0P0001LLNV.BO,Navi Large & Midcap Fund,Navi Mutual Fund,Unknown,Unknown
 0P000174O1.BO,Navi Large & Midcap Fund,Navi Mutual Fund,Unknown,Unknown
-0P000174O2.BO,Navi Large & Midcap Fund,Navi Mutual Fund,Unknown,Unknown
+,Navi Large & Midcap Fund,Navi Mutual Fund,Unknown,Unknown
 0P000174O0.BO,Navi Large & Midcap Fund,Navi Mutual Fund,Unknown,Unknown
 0P0000XVG7.BO,Nippon India Vision Large & Mid Cap Fund,Nippon India Mutual Fund,Unknown,Unknown
 0P0000XVG4.BO,Nippon India Vision Large & Mid Cap Fund,Nippon India Mutual Fund,Unknown,Unknown
@@ -1883,7 +1832,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0000K8MV.BO,Edelweiss Large Cap Fund,Edelweiss Mutual Fund,Unknown,Unknown
 0P0000K8MR.BO,Edelweiss Large Cap Fund,Edelweiss Mutual Fund,Unknown,Unknown
 0P0000K8MS.BO,Edelweiss Large Cap Fund,Edelweiss Mutual Fund,Unknown,Unknown
-0P0000K8MU.BO,Edelweiss Large Cap Fund,Edelweiss Mutual Fund,Unknown,Unknown
+,Edelweiss Large Cap Fund,Edelweiss Mutual Fund,Unknown,Unknown
 0P0000K8MW.BO,Edelweiss Large Cap Fund,Edelweiss Mutual Fund,Unknown,Unknown
 0P0000XW56.BO,Franklin India Large Cap Fund,Franklin Templeton Mutual Fund,Unknown,Unknown
 0P00005VCY.BO,Franklin India Large Cap Fund,Franklin Templeton Mutual Fund,Unknown,Unknown
@@ -1919,19 +1868,19 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0000XVG3.BO,Nippon India Large Cap Fund,Nippon India Mutual Fund,Unknown,Unknown
 0P0000XVG6.BO,Nippon India Large Cap Fund,Nippon India Mutual Fund,Unknown,Unknown
 0P00009JAP.BO,Nippon India Large Cap Fund,Nippon India Mutual Fund,Unknown,Unknown
-0P00009JAO.BO,Nippon India Large Cap Fund,Nippon India Mutual Fund,Unknown,Unknown
+,Nippon India Large Cap Fund,Nippon India Mutual Fund,Unknown,Unknown
 ,Nippon India Large Cap Fund,Nippon India Mutual Fund,Unknown,Unknown
 ,PGIM India Large Cap Fund,PGIM India Mutual Fund,Unknown,Unknown
 ,PGIM India Large Cap Fund,PGIM India Mutual Fund,Unknown,Unknown
 0P0000XW3C.BO,PGIM India Large Cap Fund,PGIM India Mutual Fund,Unknown,Unknown
-0P0000XW3D.BO,PGIM India Large Cap Fund,PGIM India Mutual Fund,Unknown,Unknown
+,PGIM India Large Cap Fund,PGIM India Mutual Fund,Unknown,Unknown
 0P00005VAF.BO,PGIM India Large Cap Fund,PGIM India Mutual Fund,Unknown,Unknown
 0P00005VAG.BO,PGIM India Large Cap Fund,PGIM India Mutual Fund,Unknown,Unknown
 ,PGIM India Large Cap Fund,PGIM India Mutual Fund,Unknown,Unknown
 ,PGIM India Large Cap Fund,PGIM India Mutual Fund,Unknown,Unknown
 0P0001YO9G.BO,Parag Parikh Large Cap Fund,Unknown,Unknown,Unknown
 ,Parag Parikh Large Cap Fund,Unknown,Unknown,Unknown
-0P0001YO9J.BO,Parag Parikh Large Cap Fund,Unknown,Unknown,Unknown
+,Parag Parikh Large Cap Fund,Unknown,Unknown,Unknown
 ,Parag Parikh Large Cap Fund,Unknown,Unknown,Unknown
 0P0001PEU6.BO,quant Large Cap Fund,quant Mutual Fund,Unknown,Unknown
 0P0001PEU9.BO,quant Large Cap Fund,quant Mutual Fund,Unknown,Unknown
@@ -1983,7 +1932,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P00008TEZ.BO,DSP Midcap Fund,DSP Mutual Fund,Unknown,Unknown
 0P0000XV5C.BO,Edelweiss Mid Cap Fund,Edelweiss Mutual Fund,Unknown,Unknown
 0P0000XV5B.BO,Edelweiss Mid Cap Fund,Edelweiss Mutual Fund,Unknown,Unknown
-0P0000A4KC.BO,Edelweiss Mid Cap Fund,Edelweiss Mutual Fund,Unknown,Unknown
+,Edelweiss Mid Cap Fund,Edelweiss Mutual Fund,Unknown,Unknown
 0P0000A3Y6.BO,Edelweiss Mid Cap Fund,Edelweiss Mutual Fund,Unknown,Unknown
 0P0000XW5J.BO,Franklin India Mid Cap Fund,Franklin Templeton Mutual Fund,Unknown,Unknown
 0P0000XW5I.BO,Franklin India Mid Cap Fund,Franklin Templeton Mutual Fund,Unknown,Unknown
@@ -2043,7 +1992,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0001JBA6.BO,Union Midcap Fund,Union Mutual Fund,Unknown,Unknown
 0P0001JBA7.BO,Union Midcap Fund,Union Mutual Fund,Unknown,Unknown
 0P0001JBAA.BO,Union Midcap Fund,Union Mutual Fund,Unknown,Unknown
-0P0001JBAB.BO,Union Midcap Fund,Union Mutual Fund,Unknown,Unknown
+,Union Midcap Fund,Union Mutual Fund,Unknown,Unknown
 0P0000XVTM.BO,UTI - Mid Cap Fund,UTI Mutual Fund,Unknown,Unknown
 0P00005UZZ.BO,UTI - Mid Cap Fund,UTI Mutual Fund,Unknown,Unknown
 0P00005V00.BO,UTI - Mid Cap Fund,UTI Mutual Fund,Unknown,Unknown
@@ -2093,7 +2042,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0001SY5B.BO,Motilal Oswal Multi Cap Fund,Motilal Oswal Mutual Fund,Unknown,Unknown
 0P0001SY5C.BO,Motilal Oswal Multi Cap Fund,Motilal Oswal Mutual Fund,Unknown,Unknown
 0P0000XVDK.BO,Nippon India Multi Cap Fund,Nippon India Mutual Fund,Unknown,Unknown
-0P0000XVDD.BO,Nippon India Multi Cap Fund,Nippon India Mutual Fund,Unknown,Unknown
+,Nippon India Multi Cap Fund,Nippon India Mutual Fund,Unknown,Unknown
 0P0000XVDF.BO,Nippon India Multi Cap Fund,Nippon India Mutual Fund,Unknown,Unknown
 0P00005WDR.BO,Nippon India Multi Cap Fund,Nippon India Mutual Fund,Unknown,Unknown
 ,Nippon India Multi Cap Fund,Nippon India Mutual Fund,Unknown,Unknown
@@ -2254,7 +2203,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P00020A6A.BO,Baroda BNP Paribas ESG Best-in-Class Strategy Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
 0P0001VI8N.BO,Baroda BNP Paribas Health and Wellness Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
 0P0001VI8O.BO,Baroda BNP Paribas Health and Wellness Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-0P0001VI8Q.BO,Baroda BNP Paribas Health and Wellness Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+,Baroda BNP Paribas Health and Wellness Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
 0P0001VI8R.BO,Baroda BNP Paribas Health and Wellness Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
 0P0001ECFP.BO,Baroda BNP Paribas India Consumption Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
 0P0001ECFN.BO,Baroda BNP Paribas India Consumption Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
@@ -2353,7 +2302,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0000GB5K.BO,ICICI Prudential Banking & Financial Services Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
 0P0000GB5M.BO,ICICI Prudential Banking & Financial Services Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
 0P0000XWA3.BO,ICICI Prudential Banking & Financial Services Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
-0P0000XWA4.BO,ICICI Prudential Banking & Financial Services Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
+,ICICI Prudential Banking & Financial Services Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
 0P0001H4ZR.BO,ICICI Prudential Bharat Consumption Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
 0P0001H4ZV.BO,ICICI Prudential Bharat Consumption Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
 0P0001H505.BO,ICICI Prudential Bharat Consumption Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
@@ -2440,12 +2389,12 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0001PS72.BO,ICICI PRUDENTIAL TRANSPORTATION AND LOGISTICS FUND,ICICI Prudential Mutual Fund,Unknown,Unknown
 0P0000XUZC.BO,ICICI Prudential US Bluechip Equity Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
 0P0000XUZB.BO,ICICI Prudential US Bluechip Equity Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
-0P0000WD5E.BO,ICICI Prudential US Bluechip Equity Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
+,ICICI Prudential US Bluechip Equity Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
 0P0000WD5F.BO,ICICI Prudential US Bluechip Equity Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
 0P0001NQJN.BO,ITI Banking and Financial Services Fund,ITI Mutual Fund,Unknown,Unknown
 0P0001NQJO.BO,ITI Banking and Financial Services Fund,ITI Mutual Fund,Unknown,Unknown
 0P0001NQJR.BO,ITI Banking and Financial Services Fund,ITI Mutual Fund,Unknown,Unknown
-0P0001NQJQ.BO,ITI Banking and Financial Services Fund,ITI Mutual Fund,Unknown,Unknown
+,ITI Banking and Financial Services Fund,ITI Mutual Fund,Unknown,Unknown
 0P0001UMO6.BO,ITI Bharat Consumption Fund,ITI Mutual Fund,Unknown,Unknown
 0P0001UMO7.BO,ITI Bharat Consumption Fund,ITI Mutual Fund,Unknown,Unknown
 0P0001UMOA.BO,ITI Bharat Consumption Fund,ITI Mutual Fund,Unknown,Unknown
@@ -2470,7 +2419,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0001POHP.BO,Kotak Business Cycle Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
 0P0001POHR.BO,Kotak Business Cycle Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
 0P0001POHS.BO,Kotak Business Cycle Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
-0P0001RRWM.BO,Kotak Consumption Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
+,Kotak Consumption Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
 0P0001RRWN.BO,Kotak Consumption Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
 0P0001RRWP.BO,Kotak Consumption Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
 0P0001RRWQ.BO,Kotak Consumption Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
@@ -2500,7 +2449,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0001TQ0R.BO,Kotak MNC Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
 0P0001IJSF.BO,Kotak Pioneer Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
 0P0001IJSI.BO,Kotak Pioneer Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
-0P0001IJSJ.BO,Kotak Pioneer Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
+,Kotak Pioneer Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
 0P0001IJSG.BO,Kotak Pioneer Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
 0P0001RARX.BO,Kotak Quant Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
 0P0001RARY.BO,Kotak Quant Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
@@ -2508,7 +2457,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0001RAS1.BO,Kotak Quant Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
 0P0001Y4VK.BO,Kotak Rural Opportunities Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
 0P0001Y4VM.BO,Kotak Rural Opportunities Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
-0P0001Y4VP.BO,Kotak Rural Opportunities Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
+,Kotak Rural Opportunities Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
 0P0001Y4VQ.BO,Kotak Rural Opportunities Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
 0P0001YPW4.BO,Kotak Services Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
 0P0001YPW5.BO,Kotak Services Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
@@ -2553,7 +2502,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0001URGA.BO,Motilal Oswal Active Momentum Fund,Motilal Oswal Mutual Fund,Unknown,Unknown
 0P0001URG6.BO,Motilal Oswal Active Momentum Fund,Motilal Oswal Mutual Fund,Unknown,Unknown
 0P0001URG8.BO,Motilal Oswal Active Momentum Fund,Motilal Oswal Mutual Fund,Unknown,Unknown
-0P0001URG7.BO,Motilal Oswal Active Momentum Fund,Motilal Oswal Mutual Fund,Unknown,Unknown
+,Motilal Oswal Active Momentum Fund,Motilal Oswal Mutual Fund,Unknown,Unknown
 0P0001TG7Y.BO,Motilal Oswal Business Cycle Fund,Motilal Oswal Mutual Fund,Unknown,Unknown
 0P0001TG7Z.BO,Motilal Oswal Business Cycle Fund,Motilal Oswal Mutual Fund,Unknown,Unknown
 0P0001TG81.BO,Motilal Oswal Business Cycle Fund,Motilal Oswal Mutual Fund,Unknown,Unknown
@@ -2607,7 +2556,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0001R3FQ.BO,quant BFSI Fund,quant Mutual Fund,Unknown,Unknown
 0P0001R3FT.BO,quant BFSI Fund,quant Mutual Fund,Unknown,Unknown
 0P0001R3FR.BO,quant BFSI Fund,quant Mutual Fund,Unknown,Unknown
-0P0001R3FU.BO,quant BFSI Fund,quant Mutual Fund,Unknown,Unknown
+,quant BFSI Fund,quant Mutual Fund,Unknown,Unknown
 0P0001QZRN.BO,quant Business Cycle Fund,quant Mutual Fund,Unknown,Unknown
 0P0001QZRQ.BO,quant Business Cycle Fund,quant Mutual Fund,Unknown,Unknown
 0P0001QZRO.BO,quant Business Cycle Fund,quant Mutual Fund,Unknown,Unknown
@@ -2648,7 +2597,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0001M4P7.BO,quant Quantamental Fund,quant Mutual Fund,Unknown,Unknown
 0P0001M4P5.BO,quant Quantamental Fund,quant Mutual Fund,Unknown,Unknown
 0P0001M4P8.BO,quant Quantamental Fund,quant Mutual Fund,Unknown,Unknown
-0P0001RIHF.BO,quant Teck Fund,quant Mutual Fund,Unknown,Unknown
+,quant Teck Fund,quant Mutual Fund,Unknown,Unknown
 0P0001RIHI.BO,quant Teck Fund,quant Mutual Fund,Unknown,Unknown
 0P0001RIHG.BO,quant Teck Fund,quant Mutual Fund,Unknown,Unknown
 0P0001RIHJ.BO,quant Teck Fund,quant Mutual Fund,Unknown,Unknown
@@ -2675,7 +2624,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0000Z34R.BO,SBI CONSUMPTION OPPORTUNITIES FUND,SBI Mutual Fund,Unknown,Unknown
 0P00005USH.BO,SBI CONSUMPTION OPPORTUNITIES FUND,SBI Mutual Fund,Unknown,Unknown
 0P0001SCLD.BO,SBI Energy Opportunities Fund,SBI Mutual Fund,Unknown,Unknown
-0P0001SCLE.BO,SBI Energy Opportunities Fund,SBI Mutual Fund,Unknown,Unknown
+,SBI Energy Opportunities Fund,SBI Mutual Fund,Unknown,Unknown
 0P0001SCLH.BO,SBI Energy Opportunities Fund,SBI Mutual Fund,Unknown,Unknown
 0P0001SCLI.BO,SBI Energy Opportunities Fund,SBI Mutual Fund,Unknown,Unknown
 0P0001H0VM.BO,SBI Equity Minimum Variance Fund,SBI Mutual Fund,Unknown,Unknown
@@ -2683,12 +2632,12 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0001H0VP.BO,SBI Equity Minimum Variance Fund,SBI Mutual Fund,Unknown,Unknown
 0P0001H0VQ.BO,SBI Equity Minimum Variance Fund,SBI Mutual Fund,Unknown,Unknown
 0P0000XVJY.BO,SBI ESG Exclusionary Strategy Fund,SBI Mutual Fund,Unknown,Unknown
-0P0000XVJV.BO,SBI ESG Exclusionary Strategy Fund,SBI Mutual Fund,Unknown,Unknown
+,SBI ESG Exclusionary Strategy Fund,SBI Mutual Fund,Unknown,Unknown
 0P00009J47.BO,SBI ESG Exclusionary Strategy Fund,SBI Mutual Fund,Unknown,Unknown
 0P00005UQU.BO,SBI ESG Exclusionary Strategy Fund,SBI Mutual Fund,Unknown,Unknown
 0P0000XVL1.BO,SBI HEALTHCARE OPPORTUNITIES FUND,SBI Mutual Fund,Unknown,Unknown
 0P0000XVL7.BO,SBI HEALTHCARE OPPORTUNITIES FUND,SBI Mutual Fund,Unknown,Unknown
-0P00005USK.BO,SBI HEALTHCARE OPPORTUNITIES FUND,SBI Mutual Fund,Unknown,Unknown
+,SBI HEALTHCARE OPPORTUNITIES FUND,SBI Mutual Fund,Unknown,Unknown
 0P00005USJ.BO,SBI HEALTHCARE OPPORTUNITIES FUND,SBI Mutual Fund,Unknown,Unknown
 0P0000XVJM.BO,SBI INFRASTRUCTURE FUND,SBI Mutual Fund,Unknown,Unknown
 0P00009JAR.BO,SBI INFRASTRUCTURE FUND,SBI Mutual Fund,Unknown,Unknown
@@ -2718,7 +2667,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0000XVKM.BO,SBI TECHNOLOGY OPPORTUNITIES FUND,SBI Mutual Fund,Unknown,Unknown
 0P0000Z34X.BO,SBI TECHNOLOGY OPPORTUNITIES FUND,SBI Mutual Fund,Unknown,Unknown
 0P00005USI.BO,SBI TECHNOLOGY OPPORTUNITIES FUND,SBI Mutual Fund,Unknown,Unknown
-0P0001U38T.BO,Shriram Multi Sector Rotation Fund,Shriram Mutual Fund,Unknown,Unknown
+,Shriram Multi Sector Rotation Fund,Shriram Mutual Fund,Unknown,Unknown
 0P0001U38U.BO,Shriram Multi Sector Rotation Fund,Shriram Mutual Fund,Unknown,Unknown
 0P0001T20A.BO,Sundaram Business Cycle Fund,Sundaram Mutual Fund,Unknown,Unknown
 0P0001T20B.BO,Sundaram Business Cycle Fund,Sundaram Mutual Fund,Unknown,Unknown
@@ -2730,7 +2679,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 ,Sundaram Consumption Fund (Formerly Known as Sundaram Rural and Consumption Fund),Sundaram Mutual Fund,Unknown,Unknown
 0P00005UU5.BO,Sundaram Consumption Fund (Formerly Known as Sundaram Rural and Consumption Fund),Sundaram Mutual Fund,Unknown,Unknown
 0P0000XVNH.BO,Sundaram Consumption Fund (Formerly Known as Sundaram Rural and Consumption Fund),Sundaram Mutual Fund,Unknown,Unknown
-0P00005UU6.BO,Sundaram Consumption Fund (Formerly Known as Sundaram Rural and Consumption Fund),Sundaram Mutual Fund,Unknown,Unknown
+,Sundaram Consumption Fund (Formerly Known as Sundaram Rural and Consumption Fund),Sundaram Mutual Fund,Unknown,Unknown
 0P0000XVM5.BO,Sundaram Financial Services Opportunities Fund,Sundaram Mutual Fund,Unknown,Unknown
 0P0000XVMA.BO,Sundaram Financial Services Opportunities Fund,Sundaram Mutual Fund,Unknown,Unknown
 ,Sundaram Financial Services Opportunities Fund,Sundaram Mutual Fund,Unknown,Unknown
@@ -2839,7 +2788,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0001U53E.BO,Union Active Momentum Fund,Union Mutual Fund,Unknown,Unknown
 0P0001SDTV.BO,Union Business Cycle Fund,Union Mutual Fund,Unknown,Unknown
 0P0001SDTW.BO,Union Business Cycle Fund,Union Mutual Fund,Unknown,Unknown
-0P0001SDTZ.BO,Union Business Cycle Fund,Union Mutual Fund,Unknown,Unknown
+,Union Business Cycle Fund,Union Mutual Fund,Unknown,Unknown
 0P0001SDU0.BO,Union Business Cycle Fund,Union Mutual Fund,Unknown,Unknown
 0P0001YEFL.BO,Union Consumption Fund,Union Mutual Fund,Unknown,Unknown
 0P0001YEFM.BO,Union Consumption Fund,Union Mutual Fund,Unknown,Unknown
@@ -2876,7 +2825,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0001VON1.BO,Bajaj Finserv Small Cap Fund,Bajaj Finserv Mutual Fund,Unknown,Unknown
 0P0001VON2.BO,Bajaj Finserv Small Cap Fund,Bajaj Finserv Mutual Fund,Unknown,Unknown
 0P0001J6FU.BO,BANDHAN Small Cap Fund,Bandhan Mutual Fund,Unknown,Unknown
-0P0001J6FV.BO,BANDHAN Small Cap Fund,Bandhan Mutual Fund,Unknown,Unknown
+,BANDHAN Small Cap Fund,Bandhan Mutual Fund,Unknown,Unknown
 0P0001J6FX.BO,BANDHAN Small Cap Fund,Bandhan Mutual Fund,Unknown,Unknown
 0P0001J6FY.BO,BANDHAN Small Cap Fund,Bandhan Mutual Fund,Unknown,Unknown
 0P0001F5O4.BO,BANK OF INDIA SMALL CAP FUND,Bank of India Mutual Fund,Unknown,Unknown
@@ -2889,14 +2838,14 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0001RP1A.BO,Baroda BNP Paribas Small Cap Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
 0P0000XW24.BO,DSP Small Cap Fund,DSP Mutual Fund,Unknown,Unknown
 0P0000XW23.BO,DSP Small Cap Fund,DSP Mutual Fund,Unknown,Unknown
-0P00009J3J.BO,DSP Small Cap Fund,DSP Mutual Fund,Unknown,Unknown
+,DSP Small Cap Fund,DSP Mutual Fund,Unknown,Unknown
 0P0000PYHC.BO,DSP Small Cap Fund,DSP Mutual Fund,Unknown,Unknown
 0P0001FI59.BO,Edelweiss Small Cap Fund,Edelweiss Mutual Fund,Unknown,Unknown
 0P0001FI5A.BO,Edelweiss Small Cap Fund,Edelweiss Mutual Fund,Unknown,Unknown
 0P0001FI5D.BO,Edelweiss Small Cap Fund,Edelweiss Mutual Fund,Unknown,Unknown
 0P0001FI5E.BO,Edelweiss Small Cap Fund,Edelweiss Mutual Fund,Unknown,Unknown
 0P0000XW5N.BO,Franklin India Small Cap Fund,Franklin Templeton Mutual Fund,Unknown,Unknown
-0P0000XW5M.BO,Franklin India Small Cap Fund,Franklin Templeton Mutual Fund,Unknown,Unknown
+,Franklin India Small Cap Fund,Franklin Templeton Mutual Fund,Unknown,Unknown
 0P00005VDF.BO,Franklin India Small Cap Fund,Franklin Templeton Mutual Fund,Unknown,Unknown
 0P00005VDG.BO,Franklin India Small Cap Fund,Franklin Templeton Mutual Fund,Unknown,Unknown
 0P0000AEKG.BO,HDFC Small Cap Fund,HDFC Mutual Fund,Unknown,Unknown
@@ -2985,7 +2934,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P00005WIY.BO,Templeton India Value Fund,Unknown,Unknown,Unknown
 0P0000XW6R.BO,HDFC Value Fund,HDFC Mutual Fund,Unknown,Unknown
 0P00005WLM.BO,HDFC Value Fund,HDFC Mutual Fund,Unknown,Unknown
-0P0000XW6Q.BO,HDFC Value Fund,HDFC Mutual Fund,Unknown,Unknown
+,HDFC Value Fund,HDFC Mutual Fund,Unknown,Unknown
 0P00005WLL.BO,HDFC Value Fund,HDFC Mutual Fund,Unknown,Unknown
 0P0000XWAB.BO,ICICI Prudential Value Fund (erstwhile Value Discovery Fund),ICICI Prudential Mutual Fund,Unknown,Unknown
 0P0000XWAA.BO,ICICI Prudential Value Fund (erstwhile Value Discovery Fund),ICICI Prudential Mutual Fund,Unknown,Unknown
@@ -3010,10 +2959,10 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P00005WDG.BO,Quantum Value Fund,Quantum Mutual Fund,Unknown,Unknown
 0P00005WDF.BO,Quantum Value Fund,Quantum Mutual Fund,Unknown,Unknown
 0P0001A3F7.BO,Quantum Value Fund,Quantum Mutual Fund,Unknown,Unknown
-0P0001A3F6.BO,Quantum Value Fund,Quantum Mutual Fund,Unknown,Unknown
+,Quantum Value Fund,Quantum Mutual Fund,Unknown,Unknown
 0P0000XVNY.BO,Sundaram Value Fund,Sundaram Mutual Fund,Unknown,Unknown
 0P0000XVO1.BO,Sundaram Value Fund,Sundaram Mutual Fund,Unknown,Unknown
-0P00005UUN.BO,Sundaram Value Fund,Sundaram Mutual Fund,Unknown,Unknown
+,Sundaram Value Fund,Sundaram Mutual Fund,Unknown,Unknown
 0P00005UUM.BO,Sundaram Value Fund,Sundaram Mutual Fund,Unknown,Unknown
 0P0000N3OO.BO,Tata Value Fund,Tata Mutual Fund,Unknown,Unknown
 0P00005WH0.BO,Tata Value Fund,Tata Mutual Fund,Unknown,Unknown
@@ -3030,9 +2979,9 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P00036U5F.BO,Bandhan Contra Fund,Bandhan Mutual Fund,Unknown,Unknown
 0P00036U5E.BO,Bandhan Contra Fund,Bandhan Mutual Fund,Unknown,Unknown
 0P0000XVGR.BO,Invesco India Contra Fund,Invesco Mutual Fund,Unknown,Unknown
-0P0000XVGM.BO,Invesco India Contra Fund,Invesco Mutual Fund,Unknown,Unknown
+,Invesco India Contra Fund,Invesco Mutual Fund,Unknown,Unknown
 0P000093TB.BO,Invesco India Contra Fund,Invesco Mutual Fund,Unknown,Unknown
-0P000093SU.BO,Invesco India Contra Fund,Invesco Mutual Fund,Unknown,Unknown
+,Invesco India Contra Fund,Invesco Mutual Fund,Unknown,Unknown
 0P000134CI.BO,ICICI Prudential Dividend Yield Fund,ICICI Prudential Mutual Fund,Unknown,IDCW
 0P000134CJ.BO,ICICI Prudential Dividend Yield Fund,ICICI Prudential Mutual Fund,Unknown,IDCW
 0P000134CG.BO,ICICI Prudential Dividend Yield Fund,ICICI Prudential Mutual Fund,Unknown,IDCW
@@ -3040,7 +2989,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0000XVSM.BO,UTI - Dividend Yield Fund,UTI Mutual Fund,Unknown,IDCW
 0P00005UYE.BO,UTI - Dividend Yield Fund,UTI Mutual Fund,Unknown,IDCW
 0P00005UYF.BO,UTI - Dividend Yield Fund,UTI Mutual Fund,Unknown,IDCW
-0P0000XVSK.BO,UTI - Dividend Yield Fund,UTI Mutual Fund,Unknown,IDCW
+,UTI - Dividend Yield Fund,UTI Mutual Fund,Unknown,IDCW
 0P00036T6I.BO,WhiteOak Capital Dividend Yield Fund,WhiteOak Capital Mutual Fund,Unknown,IDCW
 0P00036T6J.BO,WhiteOak Capital Dividend Yield Fund,WhiteOak Capital Mutual Fund,Unknown,IDCW
 0P00036T6L.BO,WhiteOak Capital Dividend Yield Fund,WhiteOak Capital Mutual Fund,Unknown,IDCW
@@ -3057,11 +3006,11 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0000XV1J.BO,BANDHAN ELSS - Tax Saver Fund,Bandhan Mutual Fund,Unknown,Unknown
 0P0000JXJE.BO,BANDHAN ELSS - Tax Saver Fund,Bandhan Mutual Fund,Unknown,Unknown
 0P0000K0LR.BO,BANDHAN ELSS - Tax Saver Fund,Bandhan Mutual Fund,Unknown,Unknown
+0P0000K1PL.BO,BANK OF INDIA ELSS TAX SAVER FUND,Bank of India Mutual Fund,Unknown,Unknown
 0P0000XVZR.BO,BANK OF INDIA ELSS TAX SAVER FUND,Bank of India Mutual Fund,Unknown,Unknown
 0P0000XVZQ.BO,BANK OF INDIA ELSS TAX SAVER FUND,Bank of India Mutual Fund,Unknown,Unknown
 0P0000K1C0.BO,BANK OF INDIA ELSS TAX SAVER FUND,Bank of India Mutual Fund,Unknown,Unknown
 0P0000JTF3.BO,BANK OF INDIA ELSS TAX SAVER FUND,Bank of India Mutual Fund,Unknown,Unknown
-0P0000K1PL.BO,BANK OF INDIA ELSS TAX SAVER FUND,Bank of India Mutual Fund,Unknown,Unknown
 0P0000K1PK.BO,BANK OF INDIA ELSS TAX SAVER FUND,Bank of India Mutual Fund,Unknown,Unknown
 0P00005V7F.BO,Canara Robeco ELSS - Tax Saver Fund,Canara Robeco Mutual Fund,Unknown,Unknown
 0P0000XW04.BO,Canara Robeco ELSS - Tax Saver Fund,Canara Robeco Mutual Fund,Unknown,Unknown
@@ -3114,7 +3063,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P00015E15.BO,Nippon India ELSS Tax Saver Fund,Nippon India Mutual Fund,Unknown,Unknown
 0P00015E14.BO,Nippon India ELSS Tax Saver Fund,Nippon India Mutual Fund,Unknown,Unknown
 0P0000XVG1.BO,Nippon India ELSS Tax Saver Fund,Nippon India Mutual Fund,Unknown,Unknown
-0P0000XVG0.BO,Nippon India ELSS Tax Saver Fund,Nippon India Mutual Fund,Unknown,Unknown
+,Nippon India ELSS Tax Saver Fund,Nippon India Mutual Fund,Unknown,Unknown
 0P00005UQK.BO,Nippon India ELSS Tax Saver Fund,Nippon India Mutual Fund,Unknown,Unknown
 0P00005UQM.BO,Nippon India ELSS Tax Saver Fund,Nippon India Mutual Fund,Unknown,Unknown
 0P0001QM1Y.BO,NJ ELSS Tax Saver Fund,NJ Mutual Fund,Unknown,Unknown
@@ -3132,9 +3081,9 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0001R3NQ.BO,360 ONE Flexicap Fund,360 ONE Mutual Fund,Unknown,Unknown
 0P0001R3NR.BO,360 ONE Flexicap Fund,360 ONE Mutual Fund,Unknown,Unknown
 0P0001R3NT.BO,360 ONE Flexicap Fund,360 ONE Mutual Fund,Unknown,Unknown
-0P0001R3NU.BO,360 ONE Flexicap Fund,360 ONE Mutual Fund,Unknown,Unknown
+,360 ONE Flexicap Fund,360 ONE Mutual Fund,Unknown,Unknown
 0P00036A1V.BO,AlphaGrep Flexi Cap Fund,Unknown,Unknown,Unknown
-0P00036A1O.BO,AlphaGrep Flexi Cap Fund,Unknown,Unknown,Unknown
+,AlphaGrep Flexi Cap Fund,Unknown,Unknown,Unknown
 0P00036A1Q.BO,AlphaGrep Flexi Cap Fund,Unknown,Unknown,Unknown
 0P00036A1R.BO,AlphaGrep Flexi Cap Fund,Unknown,Unknown,Unknown
 0P0001BURF.BO,Axis Flexi Cap Fund,Axis Mutual Fund,Unknown,Unknown
@@ -3151,7 +3100,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0001RR6N.BO,Helios Flexi Cap Fund,Helios Mutual Fund,Unknown,Unknown
 0P0000XW9L.BO,HSBC Flexi Cap Fund,HSBC Mutual Fund,Unknown,Unknown
 0P0000XW9K.BO,HSBC Flexi Cap Fund,HSBC Mutual Fund,Unknown,Unknown
-0P00005V18.BO,HSBC Flexi Cap Fund,HSBC Mutual Fund,Unknown,Unknown
+,HSBC Flexi Cap Fund,HSBC Mutual Fund,Unknown,Unknown
 0P00005V17.BO,HSBC Flexi Cap Fund,HSBC Mutual Fund,Unknown,Unknown
 0P0001M23B.BO,ICICI Prudential Flexi Cap fund,ICICI Prudential Mutual Fund,Unknown,Unknown
 0P0001M23D.BO,ICICI Prudential Flexi Cap fund,ICICI Prudential Mutual Fund,Unknown,Unknown
@@ -3183,8 +3132,8 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0001REJV.BO,NJ Flexi Cap Fund,NJ Mutual Fund,Unknown,Unknown
 0P0001REJW.BO,NJ Flexi Cap Fund,NJ Mutual Fund,Unknown,Unknown
 0P0001REJX.BO,NJ Flexi Cap Fund,NJ Mutual Fund,Unknown,Unknown
-,Quantum Flexi Cap Fund,Quantum Mutual Fund,Unknown,Unknown
-,Quantum Flexi Cap Fund,Quantum Mutual Fund,Unknown,Unknown
+0P00036A1T.BO,Quantum Flexi Cap Fund,Quantum Mutual Fund,Unknown,Unknown
+0P00036A1U.BO,Quantum Flexi Cap Fund,Quantum Mutual Fund,Unknown,Unknown
 0P0001OSOX.BO,WhiteOak Capital Flexi Cap Fund,WhiteOak Capital Mutual Fund,Unknown,Unknown
 0P0001OSOW.BO,WhiteOak Capital Flexi Cap Fund,WhiteOak Capital Mutual Fund,Unknown,Unknown
 0P0001OSP0.BO,WhiteOak Capital Flexi Cap Fund,WhiteOak Capital Mutual Fund,Unknown,Unknown
@@ -3238,7 +3187,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0001SCPM.BO,Bajaj Finserv Large & Mid Cap Fund,Bajaj Finserv Mutual Fund,Unknown,Unknown
 0P0001SCPN.BO,Bajaj Finserv Large & Mid Cap Fund,Bajaj Finserv Mutual Fund,Unknown,Unknown
 0P0000XW00.BO,Canara Robeco Large and Mid Cap Fund,Canara Robeco Mutual Fund,Unknown,Unknown
-0P0000XVZZ.BO,Canara Robeco Large and Mid Cap Fund,Canara Robeco Mutual Fund,Unknown,Unknown
+,Canara Robeco Large and Mid Cap Fund,Canara Robeco Mutual Fund,Unknown,Unknown
 0P00005V77.BO,Canara Robeco Large and Mid Cap Fund,Canara Robeco Mutual Fund,Unknown,Unknown
 0P00005X3H.BO,Canara Robeco Large and Mid Cap Fund,Canara Robeco Mutual Fund,Unknown,Unknown
 0P0000JCBY.BO,HDFC Large & Mid Cap Fund,HDFC Mutual Fund,Unknown,Unknown
@@ -3248,7 +3197,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0001TSW4.BO,Helios Large & Mid Cap Fund,Helios Mutual Fund,Unknown,Unknown
 0P0001TSW5.BO,Helios Large & Mid Cap Fund,Helios Mutual Fund,Unknown,Unknown
 0P0001TSW8.BO,Helios Large & Mid Cap Fund,Helios Mutual Fund,Unknown,Unknown
-0P0001TSW9.BO,Helios Large & Mid Cap Fund,Helios Mutual Fund,Unknown,Unknown
+,Helios Large & Mid Cap Fund,Helios Mutual Fund,Unknown,Unknown
 0P0001H273.BO,HSBC Large & Mid Cap Fund,HSBC Mutual Fund,Unknown,Unknown
 0P0001H274.BO,HSBC Large & Mid Cap Fund,HSBC Mutual Fund,Unknown,Unknown
 0P0001H276.BO,HSBC Large & Mid Cap Fund,HSBC Mutual Fund,Unknown,Unknown
@@ -3258,12 +3207,12 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P00009J43.BO,Invesco India Large & Mid Cap Fund,Invesco Mutual Fund,Unknown,Unknown
 0P00009J3Y.BO,Invesco India Large & Mid Cap Fund,Invesco Mutual Fund,Unknown,Unknown
 0P0001VOT5.BO,JM Large & Mid Cap Fund,JM Financial Mutual Fund,Unknown,Unknown
-0P0001VOT6.BO,JM Large & Mid Cap Fund,JM Financial Mutual Fund,Unknown,Unknown
+,JM Large & Mid Cap Fund,JM Financial Mutual Fund,Unknown,Unknown
 0P0001VOT8.BO,JM Large & Mid Cap Fund,JM Financial Mutual Fund,Unknown,Unknown
 0P0001VOT9.BO,JM Large & Mid Cap Fund,JM Financial Mutual Fund,Unknown,Unknown
 0P0000XV6P.BO,Kotak Large & Mid Cap Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
 0P00005WUK.BO,Kotak Large & Mid Cap Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
-0P0000XV6M.BO,Kotak Large & Mid Cap Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
+,Kotak Large & Mid Cap Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
 0P00005WUJ.BO,Kotak Large & Mid Cap Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
 0P0001IUCC.BO,Mahindra Manulife Large & Mid Cap Fund,Mahindra Manulife Mutual Fund,Unknown,Unknown
 0P0001IUCB.BO,Mahindra Manulife Large & Mid Cap Fund,Mahindra Manulife Mutual Fund,Unknown,Unknown
@@ -3321,7 +3270,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0001GXTR.BO,Mahindra Manulife Large Cap Fund,Mahindra Manulife Mutual Fund,Unknown,Unknown
 0P0001GXTU.BO,Mahindra Manulife Large Cap Fund,Mahindra Manulife Mutual Fund,Unknown,Unknown
 0P0001GXTV.BO,Mahindra Manulife Large Cap Fund,Mahindra Manulife Mutual Fund,Unknown,Unknown
-0P0000XVA0.BO,Mirae Asset Large Cap Fund,Mirae Asset Mutual Fund,Unknown,Unknown
+,Mirae Asset Large Cap Fund,Mirae Asset Mutual Fund,Unknown,Unknown
 0P0000XVA1.BO,Mirae Asset Large Cap Fund,Mirae Asset Mutual Fund,Unknown,Unknown
 0P0000AEJZ.BO,Mirae Asset Large Cap Fund,Mirae Asset Mutual Fund,Unknown,Unknown
 0P0000AEK0.BO,Mirae Asset Large Cap Fund,Mirae Asset Mutual Fund,Unknown,Unknown
@@ -3334,7 +3283,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0001PF4E.BO,BANDHAN MID CAP FUND,Bandhan Mutual Fund,Unknown,Unknown
 0P0001PF4I.BO,BANDHAN MID CAP FUND,Bandhan Mutual Fund,Unknown,Unknown
 0P0001WN79.BO,BANK OF INDIA MID CAP FUND,Bank of India Mutual Fund,Unknown,Unknown
-0P0001WN7B.BO,BANK OF INDIA MID CAP FUND,Bank of India Mutual Fund,Unknown,Unknown
+,BANK OF INDIA MID CAP FUND,Bank of India Mutual Fund,Unknown,Unknown
 0P0001WN7D.BO,BANK OF INDIA MID CAP FUND,Bank of India Mutual Fund,Unknown,Unknown
 0P0001WN7E.BO,BANK OF INDIA MID CAP FUND,Bank of India Mutual Fund,Unknown,Unknown
 0P0001PZQI.BO,Canara Robeco Mid Cap Fund,Canara Robeco Mutual Fund,Unknown,Unknown
@@ -3377,7 +3326,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P00036044.BO,The Wealth Company Mid Cap Fund,The Wealth Company Mutual Fund,Unknown,Unknown
 0P00036047.BO,The Wealth Company Mid Cap Fund,The Wealth Company Mutual Fund,Unknown,Unknown
 0P00036048.BO,The Wealth Company Mid Cap Fund,The Wealth Company Mutual Fund,Unknown,Unknown
-0P0001PL1Q.BO,WhiteOak Capital Mid Cap Fund,WhiteOak Capital Mutual Fund,Unknown,Unknown
+,WhiteOak Capital Mid Cap Fund,WhiteOak Capital Mutual Fund,Unknown,Unknown
 0P0001PL1P.BO,WhiteOak Capital Mid Cap Fund,WhiteOak Capital Mutual Fund,Unknown,Unknown
 0P0001PL1N.BO,WhiteOak Capital Mid Cap Fund,WhiteOak Capital Mutual Fund,Unknown,Unknown
 0P0001PL1M.BO,WhiteOak Capital Mid Cap Fund,WhiteOak Capital Mutual Fund,Unknown,Unknown
@@ -3420,7 +3369,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0001REJ6.BO,Mirae Asset Multicap Fund,Mirae Asset Mutual Fund,Unknown,Unknown
 0P0001REJ7.BO,Mirae Asset Multicap Fund,Mirae Asset Mutual Fund,Unknown,Unknown
 0P0001REJ9.BO,Mirae Asset Multicap Fund,Mirae Asset Mutual Fund,Unknown,Unknown
-0P0001REJA.BO,Mirae Asset Multicap Fund,Mirae Asset Mutual Fund,Unknown,Unknown
+,Mirae Asset Multicap Fund,Mirae Asset Mutual Fund,Unknown,Unknown
 0P0001V4PF.BO,UTI Multi Cap Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001V4PG.BO,UTI Multi Cap Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001RIYM.BO,WhiteOak Capital Multi Cap Fund,WhiteOak Capital Mutual Fund,Unknown,Unknown
@@ -3469,10 +3418,10 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0000XVGI.BO,Invesco India Financial Services Fund,Invesco Mutual Fund,Unknown,Unknown
 0P0000GB26.BO,Invesco India Financial Services Fund,Invesco Mutual Fund,Unknown,Unknown
 0P0000GB38.BO,Invesco India Financial Services Fund,Invesco Mutual Fund,Unknown,Unknown
-,Invesco India Pharma and Healthcare Fund,Invesco Mutual Fund,Unknown,Unknown
-,Invesco India Pharma and Healthcare Fund,Invesco Mutual Fund,Unknown,Unknown
-,Invesco India Pharma and Healthcare Fund,Invesco Mutual Fund,Unknown,Unknown
-,Invesco India Pharma and Healthcare Fund,Invesco Mutual Fund,Unknown,Unknown
+0P00036UFY.BO,Invesco India Pharma and Healthcare Fund,Invesco Mutual Fund,Unknown,Unknown
+0P00036UFZ.BO,Invesco India Pharma and Healthcare Fund,Invesco Mutual Fund,Unknown,Unknown
+0P00036UG2.BO,Invesco India Pharma and Healthcare Fund,Invesco Mutual Fund,Unknown,Unknown
+0P00036UG1.BO,Invesco India Pharma and Healthcare Fund,Invesco Mutual Fund,Unknown,Unknown
 0P0001TKOK.BO,Invesco India Technology Fund,Invesco Mutual Fund,Unknown,Unknown
 0P0001TKOJ.BO,Invesco India Technology Fund,Invesco Mutual Fund,Unknown,Unknown
 0P0001TKOH.BO,Invesco India Technology Fund,Invesco Mutual Fund,Unknown,Unknown
@@ -3549,7 +3498,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0001L76R.BO,UTI Small Cap Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001L76S.BO,UTI Small Cap Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001L76U.BO,UTI Small Cap Fund,UTI Mutual Fund,Unknown,Unknown
-0P0001L76V.BO,UTI Small Cap Fund,UTI Mutual Fund,Unknown,Unknown
+,UTI Small Cap Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001NP7D.BO,360 ONE QUANT FUND,360 ONE Mutual Fund,Unknown,Unknown
 0P0001NP7E.BO,360 ONE QUANT FUND,360 ONE Mutual Fund,Unknown,Unknown
 0P0001NP7G.BO,360 ONE QUANT FUND,360 ONE Mutual Fund,Unknown,Unknown
@@ -3591,10 +3540,10 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0001SP7I.BO,BANDHAN INNOVATION FUND,Bandhan Mutual Fund,Unknown,Unknown
 0P0001SP7J.BO,BANDHAN INNOVATION FUND,Bandhan Mutual Fund,Unknown,Unknown
 0P0001WEBT.BO,Bandhan Multi-Factor Fund,Bandhan Mutual Fund,Unknown,Unknown
-0P0001WEBU.BO,Bandhan Multi-Factor Fund,Bandhan Mutual Fund,Unknown,Unknown
+,Bandhan Multi-Factor Fund,Bandhan Mutual Fund,Unknown,Unknown
 0P0001WEBX.BO,Bandhan Multi-Factor Fund,Bandhan Mutual Fund,Unknown,Unknown
 0P0001WEBY.BO,Bandhan Multi-Factor Fund,Bandhan Mutual Fund,Unknown,Unknown
-0P0003603X.BO,Baroda BNP Paribas Services Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+,Baroda BNP Paribas Services Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
 0P0003603Y.BO,Baroda BNP Paribas Services Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
 0P00036040.BO,Baroda BNP Paribas Services Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
 0P00036042.BO,Baroda BNP Paribas Services Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
@@ -3649,7 +3598,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0001TICK.BO,HSBC India Export Opportunities Fund,HSBC Mutual Fund,Unknown,Unknown
 0P0001TICL.BO,HSBC India Export Opportunities Fund,HSBC Mutual Fund,Unknown,Unknown
 0P0001TICN.BO,HSBC India Export Opportunities Fund,HSBC Mutual Fund,Unknown,Unknown
-0P0001TICO.BO,HSBC India Export Opportunities Fund,HSBC Mutual Fund,Unknown,Unknown
+,HSBC India Export Opportunities Fund,HSBC Mutual Fund,Unknown,Unknown
 0P0001DJWW.BO,ICICI Prudential Healthcare Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
 0P0001DJWZ.BO,ICICI Prudential Healthcare Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
 0P0001DJX1.BO,ICICI Prudential Healthcare Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
@@ -3659,7 +3608,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0001ULFA.BO,Invesco India Business Cycle Fund,Invesco Mutual Fund,Unknown,Unknown
 0P0001ULFB.BO,Invesco India Business Cycle Fund,Invesco Mutual Fund,Unknown,Unknown
 0P0001XTO8.BO,Invesco India Consumption Fund,Invesco Mutual Fund,Unknown,Unknown
-0P0001XTO9.BO,Invesco India Consumption Fund,Invesco Mutual Fund,Unknown,Unknown
+,Invesco India Consumption Fund,Invesco Mutual Fund,Unknown,Unknown
 0P0001XTOB.BO,Invesco India Consumption Fund,Invesco Mutual Fund,Unknown,Unknown
 0P0001XTOC.BO,Invesco India Consumption Fund,Invesco Mutual Fund,Unknown,Unknown
 0P0001LSF9.BO,Invesco India ESG Integration Strategy Fund,Invesco Mutual Fund,Unknown,Unknown
@@ -3686,7 +3635,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0001RGOW.BO,Mahindra Manulife Business Cycle Fund,Mahindra Manulife Mutual Fund,Unknown,Unknown
 0P0001EUWU.BO,Mahindra Manulife Consumption Fund,Mahindra Manulife Mutual Fund,Unknown,Unknown
 0P0001EUWW.BO,Mahindra Manulife Consumption Fund,Mahindra Manulife Mutual Fund,Unknown,Unknown
-0P0001EUWX.BO,Mahindra Manulife Consumption Fund,Mahindra Manulife Mutual Fund,Unknown,Unknown
+,Mahindra Manulife Consumption Fund,Mahindra Manulife Mutual Fund,Unknown,Unknown
 0P0001EUWZ.BO,Mahindra Manulife Consumption Fund,Mahindra Manulife Mutual Fund,Unknown,Unknown
 0P0001YKF4.BO,Mahindra Manulife Innovation Opportunities Fund,Mahindra Manulife Mutual Fund,Unknown,Unknown
 0P0001YKF5.BO,Mahindra Manulife Innovation Opportunities Fund,Mahindra Manulife Mutual Fund,Unknown,Unknown
@@ -3700,7 +3649,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0001L5SG.BO,Mirae Asset Banking and Financial Services Fund,Mirae Asset Mutual Fund,Unknown,Unknown
 0P0001L5SI.BO,Mirae Asset Banking and Financial Services Fund,Mirae Asset Mutual Fund,Unknown,Unknown
 0P0001L5SJ.BO,Mirae Asset Banking and Financial Services Fund,Mirae Asset Mutual Fund,Unknown,Unknown
-0P0000XV9Y.BO,Mirae Asset Great Consumer Fund,Mirae Asset Mutual Fund,Unknown,Unknown
+,Mirae Asset Great Consumer Fund,Mirae Asset Mutual Fund,Unknown,Unknown
 0P0000XV9Z.BO,Mirae Asset Great Consumer Fund,Mirae Asset Mutual Fund,Unknown,Unknown
 0P0000TFYJ.BO,Mirae Asset Great Consumer Fund,Mirae Asset Mutual Fund,Unknown,Unknown
 0P0000TFYK.BO,Mirae Asset Great Consumer Fund,Mirae Asset Mutual Fund,Unknown,Unknown
@@ -3755,7 +3704,7 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P00009J3R.BO,UTI - India Consumer Fund,UTI Mutual Fund,Unknown,Unknown
 0P00009J3H.BO,UTI - India Consumer Fund,UTI Mutual Fund,Unknown,Unknown
 0P0000XVUM.BO,UTI - Transportation and Logistics Fund,UTI Mutual Fund,Unknown,Unknown
-0P00005UZR.BO,UTI - Transportation and Logistics Fund,UTI Mutual Fund,Unknown,Unknown
+,UTI - Transportation and Logistics Fund,UTI Mutual Fund,Unknown,Unknown
 0P00005UZS.BO,UTI - Transportation and Logistics Fund,UTI Mutual Fund,Unknown,Unknown
 0P0000XVUK.BO,UTI - Transportation and Logistics Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001RMJD.BO,UTI Innovation Fund,UTI Mutual Fund,Unknown,Unknown
@@ -3772,14 +3721,14 @@ yahoo_symbol,Scheme Name,AMC,Plan,Option
 0P0001UEZX.BO,WhiteOak Capital Quality Equity Fund,WhiteOak Capital Mutual Fund,Unknown,Unknown
 0P0001SXBV.BO,WhiteOak Capital Special Opportunities Fund,WhiteOak Capital Mutual Fund,Unknown,Unknown
 0P0001SXBW.BO,WhiteOak Capital Special Opportunities Fund,WhiteOak Capital Mutual Fund,Unknown,Unknown
-0P0001N6Z1.BO,Axis Value Fund,Axis Mutual Fund,Unknown,Unknown
+,Axis Value Fund,Axis Mutual Fund,Unknown,Unknown
 0P0001N6Z2.BO,Axis Value Fund,Axis Mutual Fund,Unknown,Unknown
 0P0001N6Z4.BO,Axis Value Fund,Axis Mutual Fund,Unknown,Unknown
 0P0001N6Z5.BO,Axis Value Fund,Axis Mutual Fund,Unknown,Unknown
 0P0001MZ24.BO,Canara Robeco Value Fund,Canara Robeco Mutual Fund,Unknown,Unknown
 0P0001MZ25.BO,Canara Robeco Value Fund,Canara Robeco Mutual Fund,Unknown,Unknown
 0P0001MZ27.BO,Canara Robeco Value Fund,Canara Robeco Mutual Fund,Unknown,Unknown
-0P0001MZ28.BO,Canara Robeco Value Fund,Canara Robeco Mutual Fund,Unknown,Unknown
+,Canara Robeco Value Fund,Canara Robeco Mutual Fund,Unknown,Unknown
 0P00016NTL.BO,Groww Value Fund,Groww Mutual Fund,Unknown,Unknown
 0P00016NTJ.BO,Groww Value Fund,Groww Mutual Fund,Unknown,Unknown
 0P00016NTM.BO,Groww Value Fund,Groww Mutual Fund,Unknown,Unknown
@@ -3817,14 +3766,14 @@ GROWWLIQID.NS,Groww Nifty 1D Rate Liquid ETF,Groww Mutual Fund,Unknown,Unknown
 ,Mirae Asset Nifty 1D Rate Liquid ETF-IDCW,Mirae Asset Mutual Fund,Unknown,Unknown
 GSEC10YEAR.NS,Mirae Asset Nifty 8-13 yr G-Sec ETF,Mirae Asset Mutual Fund,Unknown,Unknown
 ,Shriram Nifty 1D Rate Liquid ETF,Shriram Mutual Fund,Unknown,Unknown
-,UTI Nifty 10 yr Benchmark G-Sec ETF,UTI Mutual Fund,Unknown,Unknown
+GILT10BETA.NS,UTI Nifty 10 yr Benchmark G-Sec ETF,UTI Mutual Fund,Unknown,Unknown
 LIQUIDBETA.NS,UTI Nifty 1D Rate Liquid ETF - Growth,UTI Mutual Fund,Unknown,Growth
 GILT5BETA.NS,UTI Nifty 5 yr Benchmark G-Sec ETF,UTI Mutual Fund,Unknown,Unknown
 ,Aditya Birla Sun Life BSE Sensex ETF,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 ABSL10BANK.NS,Aditya Birla Sun Life BSE Top 10 Banks ETF,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 ,Aditya Birla Sun Life Gold ETF,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 ABSLMSCIN.NS,Aditya Birla Sun Life MSCI India ETF,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
-NIFTYQLITY.NS,Aditya Birla Sun Life Nifty 200 Quality 30 ETF,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
+,Aditya Birla Sun Life Nifty 200 Quality 30 ETF,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 BSLNIFTY.NS,Aditya Birla Sun Life Nifty 50 ETF,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 ,ADITYA BIRLA SUN LIFE NIFTY BANK ETF,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 HEALTHY.NS,Aditya Birla Sun Life Nifty Healthcare ETF,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
@@ -3839,7 +3788,7 @@ ENERGYAXIS.NS,Axis Nifty Energy ETF,Axis Mutual Fund,Unknown,Unknown
 HEALTHAXIS.NS,Axis NIFTY Healthcare ETF,Axis Mutual Fund,Unknown,Unknown
 ,Axis NIFTY India Consumption ETF,Axis Mutual Fund,Unknown,Unknown
 ITAXIS.NS,Axis NIFTY IT ETF,Axis Mutual Fund,Unknown,Unknown
-VALUEAXIS.NS,Axis Nifty500 Value 50 ETF,Axis Mutual Fund,Unknown,Unknown
+,Axis Nifty500 Value 50 ETF,Axis Mutual Fund,Unknown,Unknown
 BANK10BETF.NS,Bajaj Finserv BSE Top 10 Banks ETF,Bajaj Finserv Mutual Fund,Unknown,Unknown
 MIDBANKADD.NS,DSP BSE MidSmall Private Banks ETF,DSP Mutual Fund,Unknown,Unknown
 ELMDIV.NS,Edelweiss BSE LargeMid (60:40) Stable dividend 50 ETF,Edelweiss Mutual Fund,Unknown,IDCW
@@ -3848,7 +3797,7 @@ EMETAL.NS,Edelweiss Nifty Metal ETF,Edelweiss Mutual Fund,Unknown,Unknown
 ,HDFC Nifty Metal ETF,HDFC Mutual Fund,Unknown,Unknown
 IVZSENSEX.NS,Invesco India BSE Sensex ETF,Invesco Mutual Fund,Unknown,Unknown
 IVZINNIFTY.NS,Invesco India Nifty 50 Exchange Traded Fund,Invesco Mutual Fund,Unknown,Unknown
-IVZBANKNF.NS,Invesco India Nifty Bank ETF,Invesco Mutual Fund,Unknown,Unknown
+,Invesco India Nifty Bank ETF,Invesco Mutual Fund,Unknown,Unknown
 NIFTYJBLK.NS,JioBlackRock Nifty 50 ETF,Unknown,Unknown,Unknown
 PVTBANK.NS,Kotak Nifty Private Bank ETF,Kotak Mahindra Mutual Fund,Unknown,Unknown
 PSUBANK.NS,Kotak Nifty PSU Bank ETF,Kotak Mahindra Mutual Fund,Unknown,Unknown
@@ -3879,7 +3828,7 @@ MIDCAPETF.NS,Mirae Asset Nifty Midcap 150 ETF,Mirae Asset Mutual Fund,Unknown,Un
 ,Mirae Asset Nifty MidSmallcap400 Momentum Quality 100 ETF,Mirae Asset Mutual Fund,Unknown,Unknown
 ,Mirae Asset Nifty Next 50 ETF,Mirae Asset Mutual Fund,Unknown,Unknown
 BANKPSU.NS,Mirae Asset Nifty PSU Bank ETF,Mirae Asset Mutual Fund,Unknown,Unknown
-SMALL250.NS,Mirae Asset Nifty Smallcap 250 ETF,Mirae Asset Mutual Fund,Unknown,Unknown
+,Mirae Asset Nifty Smallcap 250 ETF,Mirae Asset Mutual Fund,Unknown,Unknown
 SMALLCAP.NS,Mirae Asset Nifty Smallcap 250 Momentum Quality 100 ETF,Mirae Asset Mutual Fund,Unknown,Unknown
 TOP20.NS,Mirae Asset Nifty Top 20 Equal Weight ETF,Mirae Asset Mutual Fund,Unknown,Unknown
 EQUAL50.NS,Mirae Asset Nifty50 Equal Weight ETF,Mirae Asset Mutual Fund,Unknown,Unknown
@@ -3888,12 +3837,11 @@ MULTICAP.NS,Mirae Asset Nifty500 Multicap 50:25:25 ETF,Mirae Asset Mutual Fund,U
 MOMETAL.NS,Motilal Oswal Nifty Metal ETF,Motilal Oswal Mutual Fund,Unknown,Unknown
 MOOILGAS.NS,Motilal Oswal Nifty Oil & Gas ETF,Motilal Oswal Mutual Fund,Unknown,Unknown
 ,UTI - BSE Sensex Next 50 Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
-,UTI - Nifty Next 50 Exchange Traded Fund.,UTI Mutual Fund,Unknown,Unknown
+,UTI - Nifty Next 50 Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
+,UTI BSE India Sector Leaders Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 ,UTI BSE Sensex ETF,UTI Mutual Fund,Unknown,Unknown
 ,UTI Nifty 50 ETF,UTI Mutual Fund,Unknown,Unknown
 NIF500BETA.NS,UTI Nifty 500 Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
-0P00036UG4.BO,UTI Nifty 500 Index Fund,UTI Mutual Fund,Unknown,Unknown
-0P00036UG5.BO,UTI Nifty 500 Index Fund,UTI Mutual Fund,Unknown,Unknown
 ,UTI Nifty Bank ETF,UTI Mutual Fund,Unknown,Unknown
 ,UTI Nifty IT ETF,UTI Mutual Fund,Unknown,Unknown
 ,UTI Nifty Midcap 150 Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
@@ -3901,6 +3849,7 @@ MAHKTECH.NS,Mirae Asset Hang Seng TECH ETF,Mirae Asset Mutual Fund,Unknown,Unkno
 MAFANG.NS,Mirae Asset NYSE FANG+ ETF,Mirae Asset Mutual Fund,Unknown,Unknown
 GOLD360.NS,360 ONE Gold ETF,360 ONE Mutual Fund,Unknown,Unknown
 ,Axis Gold ETF,Axis Mutual Fund,Unknown,Unknown
+BBNPPGOLD.NS,Baroda BNP Paribas Gold ETF,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
 ,DSP Gold ETF,DSP Mutual Fund,Unknown,Unknown
 GROWWGOLD.NS,Groww Gold ETF,Groww Mutual Fund,Unknown,Unknown
 ,Invesco India Gold Exchange Traded Fund,Invesco Mutual Fund,Unknown,Unknown
@@ -3916,7 +3865,7 @@ GROWWLOVOL.NS,Groww Nifty 500 Low Volatility 50 ETF,Groww Mutual Fund,Unknown,Un
 GROWWMOM50.NS,Groww Nifty 500 Momentum 50 ETF,Groww Mutual Fund,Unknown,Unknown
 GROWWCAPM.NS,Groww Nifty Capital Markets ETF,Groww Mutual Fund,Unknown,Unknown
 CEMNTGROWW.NS,Groww Nifty Cements ETF,Groww Mutual Fund,Unknown,Unknown
-GROWWCHEM.NS,Groww Nifty Chemicals ETF,Groww Mutual Fund,Unknown,Unknown
+,Groww Nifty Chemicals ETF,Groww Mutual Fund,Unknown,Unknown
 GROWWEV.NS,Groww Nifty EV & New Age Automotive ETF,Groww Mutual Fund,Unknown,Unknown
 GROWWDEFNC.NS,Groww Nifty India Defence ETF,Groww Mutual Fund,Unknown,Unknown
 GROWWNET.NS,Groww Nifty India Internet ETF,Groww Mutual Fund,Unknown,Unknown
@@ -3929,7 +3878,7 @@ GROWWPSE.NS,Groww Nifty PSE ETF,Groww Mutual Fund,Unknown,Unknown
 GROWWPSUBK.NS,Groww Nifty PSU Bank ETF,Groww Mutual Fund,Unknown,Unknown
 GROWWRLTY.NS,Groww Nifty Realty ETF,Groww Mutual Fund,Unknown,Unknown
 GROWWSC250.NS,Groww Nifty Smallcap 250 ETF,Groww Mutual Fund,Unknown,Unknown
-SMALLGROWW.NS,Groww Nifty Smallcap 250 Momentum Quality 100 ETF,Groww Mutual Fund,Unknown,Unknown
+,Groww Nifty Smallcap 250 Momentum Quality 100 ETF,Groww Mutual Fund,Unknown,Unknown
 INSUREIETF.NS,ICICI Prudential BSE Insurance ETF,ICICI Prudential Mutual Fund,Unknown,Unknown
 SILVER360.NS,360 ONE Silver ETF,360 ONE Mutual Fund,Unknown,Unknown
 SILVERAXIS.NS,Axis Silver ETF,Axis Mutual Fund,Unknown,Unknown
@@ -3980,6 +3929,12 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001PNK6.BO,Axis Silver Fund of Fund,Axis Mutual Fund,Unknown,Unknown
 0P0001PNK4.BO,Axis Silver Fund of Fund,Axis Mutual Fund,Unknown,Unknown
 0P0001PNK3.BO,Axis Silver Fund of Fund,Axis Mutual Fund,Unknown,Unknown
+0P0001X5PO.BO,Baroda BNP Paribas Gold ETF Fund of Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+0P0001X5PP.BO,Baroda BNP Paribas Gold ETF Fund of Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+0P0001V9V1.BO,Baroda BNP Paribas Multi Asset Active Fund of Funds,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+0P0001V9V2.BO,Baroda BNP Paribas Multi Asset Active Fund of Funds,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+0P0001V9V4.BO,Baroda BNP Paribas Multi Asset Active Fund of Funds,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+0P0001V9V5.BO,Baroda BNP Paribas Multi Asset Active Fund of Funds,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
 0P00020AOT.BO,Groww BSE Hospitals ETF FOF,Groww Mutual Fund,Unknown,Unknown
 0P00020AOU.BO,Groww BSE Hospitals ETF FOF,Groww Mutual Fund,Unknown,Unknown
 0P00020AOX.BO,Groww BSE Hospitals ETF FOF,Groww Mutual Fund,Unknown,Unknown
@@ -4020,7 +3975,7 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001VNYX.BO,Groww Nifty India Internet ETF FOF,Groww Mutual Fund,Unknown,Unknown
 0P0001VNYZ.BO,Groww Nifty India Internet ETF FOF,Groww Mutual Fund,Unknown,Unknown
 0P0001VNZ0.BO,Groww Nifty India Internet ETF FOF,Groww Mutual Fund,Unknown,Unknown
-0P0001YPXD.BO,Groww Nifty PSE ETF FOF,Groww Mutual Fund,Unknown,Unknown
+,Groww Nifty PSE ETF FOF,Groww Mutual Fund,Unknown,Unknown
 0P0001YPXE.BO,Groww Nifty PSE ETF FOF,Groww Mutual Fund,Unknown,Unknown
 0P0001YPXG.BO,Groww Nifty PSE ETF FOF,Groww Mutual Fund,Unknown,Unknown
 0P0001YPXH.BO,Groww Nifty PSE ETF FOF,Groww Mutual Fund,Unknown,Unknown
@@ -4048,6 +4003,8 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001314I.BO,HSBC Multi Asset Active FOF (erstwhile HSBC Managed Solutions India - Moderate Fund),HSBC Mutual Fund,Unknown,Unknown
 ,HSBC Multi Asset Active FOF (erstwhile HSBC Managed Solutions India - Moderate Fund),HSBC Mutual Fund,Unknown,Unknown
 0P0001314H.BO,HSBC Multi Asset Active FOF (erstwhile HSBC Managed Solutions India - Moderate Fund),HSBC Mutual Fund,Unknown,Unknown
+,ICICI Prudential Dynamic Asset Allocation Passive FOF,ICICI Prudential Mutual Fund,Unknown,Unknown
+,ICICI Prudential Dynamic Asset Allocation Passive FOF,ICICI Prudential Mutual Fund,Unknown,Unknown
 0P0000XVH4.BO,Invesco India Gold ETF Fund of Fund,Invesco Mutual Fund,Unknown,Unknown
 0P0000XVH7.BO,Invesco India Gold ETF Fund of Fund,Invesco Mutual Fund,Unknown,Unknown
 0P0000UNSF.BO,Invesco India Gold ETF Fund of Fund,Invesco Mutual Fund,Unknown,Unknown
@@ -4088,7 +4045,7 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001KMZH.BO,Mirae Asset Diversified Equity Allocator Passive FOF,Mirae Asset Mutual Fund,Unknown,Unknown
 0P0001TXZC.BO,Mirae Asset Gold ETF Fund of Fund,Mirae Asset Mutual Fund,Unknown,Unknown
 0P0001TXZ7.BO,Mirae Asset Gold ETF Fund of Fund,Mirae Asset Mutual Fund,Unknown,Unknown
-0P0001TXZ9.BO,Mirae Asset Gold ETF Fund of Fund,Mirae Asset Mutual Fund,Unknown,Unknown
+,Mirae Asset Gold ETF Fund of Fund,Mirae Asset Mutual Fund,Unknown,Unknown
 0P0001TXZA.BO,Mirae Asset Gold ETF Fund of Fund,Mirae Asset Mutual Fund,Unknown,Unknown
 0P0001X8T8.BO,Mirae Asset Gold Silver Passive FoF,Mirae Asset Mutual Fund,Unknown,Unknown
 0P0001X8T9.BO,Mirae Asset Gold Silver Passive FoF,Mirae Asset Mutual Fund,Unknown,Unknown
@@ -4130,13 +4087,13 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001SE5B.BO,Mirae Asset Nifty Smallcap 250 Momentum Quality 100 ETF Fund of Fund,Mirae Asset Mutual Fund,Unknown,Unknown
 0P0001T9IU.BO,Mirae Asset Nifty200 Alpha 30 ETF Fund of Fund,Mirae Asset Mutual Fund,Unknown,Unknown
 0P0001T9IV.BO,Mirae Asset Nifty200 Alpha 30 ETF Fund of Fund,Mirae Asset Mutual Fund,Unknown,Unknown
-0P0001T9IX.BO,Mirae Asset Nifty200 Alpha 30 ETF Fund of Fund,Mirae Asset Mutual Fund,Unknown,Unknown
+,Mirae Asset Nifty200 Alpha 30 ETF Fund of Fund,Mirae Asset Mutual Fund,Unknown,Unknown
 0P0001T9IY.BO,Mirae Asset Nifty200 Alpha 30 ETF Fund of Fund,Mirae Asset Mutual Fund,Unknown,Unknown
 0P0001M31R.BO,Mirae Asset NYSE FANG + ETF Fund of Fund,Mirae Asset Mutual Fund,Unknown,Unknown
 0P0001M31S.BO,Mirae Asset NYSE FANG + ETF Fund of Fund,Mirae Asset Mutual Fund,Unknown,Unknown
 0P0001N7A5.BO,Mirae Asset S&P 500 Top 50 ETF Fund of Fund,Mirae Asset Mutual Fund,Unknown,Unknown
 0P0001N7A6.BO,Mirae Asset S&P 500 Top 50 ETF Fund of Fund,Mirae Asset Mutual Fund,Unknown,Unknown
-0P00021FSY.BO,Mirae Asset Silver ETF FOF,Mirae Asset Mutual Fund,Unknown,Unknown
+,Mirae Asset Silver ETF FOF,Mirae Asset Mutual Fund,Unknown,Unknown
 0P00021FSZ.BO,Mirae Asset Silver ETF FOF,Mirae Asset Mutual Fund,Unknown,Unknown
 0P00021FT0.BO,Mirae Asset Silver ETF FOF,Mirae Asset Mutual Fund,Unknown,Unknown
 0P00021FT3.BO,Mirae Asset Silver ETF FOF,Mirae Asset Mutual Fund,Unknown,Unknown
@@ -4186,11 +4143,7 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P00019BN6.BO,Bandhan Aggressive Hybrid Fund,Bandhan Mutual Fund,Unknown,Unknown
 0P00019BN5.BO,Bandhan Aggressive Hybrid Fund,Bandhan Mutual Fund,Unknown,Unknown
 0P00019BN4.BO,Bandhan Aggressive Hybrid Fund,Bandhan Mutual Fund,Unknown,Unknown
-0P00019ZBS.BO,BARODA BNP PARIBAS AGGRESSIVE HYBRID FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-0P00019ZBR.BO,BARODA BNP PARIBAS AGGRESSIVE HYBRID FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-0P00019ZBQ.BO,BARODA BNP PARIBAS AGGRESSIVE HYBRID FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-0P00019ZBP.BO,BARODA BNP PARIBAS AGGRESSIVE HYBRID FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-0P0000XW1H.BO,DSP Aggressive Hybrid Fund,DSP Mutual Fund,Unknown,Unknown
+,DSP Aggressive Hybrid Fund,DSP Mutual Fund,Unknown,Unknown
 0P0000XW1G.BO,DSP Aggressive Hybrid Fund,DSP Mutual Fund,Unknown,Unknown
 0P00005V8W.BO,DSP Aggressive Hybrid Fund,DSP Mutual Fund,Unknown,Unknown
 0P00005V8V.BO,DSP Aggressive Hybrid Fund,DSP Mutual Fund,Unknown,Unknown
@@ -4393,12 +4346,6 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P0000XV0U.BO,BANDHAN CONSERVATIVE HYBRID FUND,Bandhan Mutual Fund,Unknown,Unknown
 0P0000XV0T.BO,BANDHAN CONSERVATIVE HYBRID FUND,Bandhan Mutual Fund,Unknown,Unknown
 0P0000XV0V.BO,BANDHAN CONSERVATIVE HYBRID FUND,Bandhan Mutual Fund,Unknown,Unknown
-0P0000XVZ1.BO,BARODA BNP PARIBAS CONSERVATIVE HYBRID FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-0P0000XVZ2.BO,BARODA BNP PARIBAS CONSERVATIVE HYBRID FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-0P0000XVZ3.BO,BARODA BNP PARIBAS CONSERVATIVE HYBRID FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-0P00005V3M.BO,BARODA BNP PARIBAS CONSERVATIVE HYBRID FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-0P00005V3N.BO,BARODA BNP PARIBAS CONSERVATIVE HYBRID FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-0P00005X1E.BO,BARODA BNP PARIBAS CONSERVATIVE HYBRID FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
 0P0000XW6B.BO,Franklin India Conservative Hybrid Fund,Franklin Templeton Mutual Fund,Unknown,Unknown
 0P00005VEK.BO,Franklin India Conservative Hybrid Fund,Franklin Templeton Mutual Fund,Unknown,Unknown
 0P0000XW6C.BO,Franklin India Conservative Hybrid Fund,Franklin Templeton Mutual Fund,Unknown,Unknown
@@ -4426,7 +4373,7 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P0000XVF6.BO,Nippon India Conservative Hybrid Fund (Existing number of Segregated Portfolios - 1),Nippon India Mutual Fund,Unknown,Unknown
 0P0000XVF4.BO,Nippon India Conservative Hybrid Fund (Existing number of Segregated Portfolios - 1),Nippon India Mutual Fund,Unknown,Unknown
 0P00005UQ7.BO,Nippon India Conservative Hybrid Fund (Existing number of Segregated Portfolios - 1),Nippon India Mutual Fund,Unknown,Unknown
-0P00005UQ6.BO,Nippon India Conservative Hybrid Fund (Existing number of Segregated Portfolios - 1),Nippon India Mutual Fund,Unknown,Unknown
+,Nippon India Conservative Hybrid Fund (Existing number of Segregated Portfolios - 1),Nippon India Mutual Fund,Unknown,Unknown
 ,Nippon India Conservative Hybrid Fund (Existing number of Segregated Portfolios - 1),Nippon India Mutual Fund,Unknown,Unknown
 ,Nippon India Conservative Hybrid Fund (Existing number of Segregated Portfolios - 1),Nippon India Mutual Fund,Unknown,Unknown
 ,Nippon India Conservative Hybrid Fund (Existing number of Segregated Portfolios - 1),Nippon India Mutual Fund,Unknown,Unknown
@@ -4489,7 +4436,7 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P0000XZRL.BO,Edelweiss Balanced Advantage Fund,Edelweiss Mutual Fund,Unknown,Unknown
 0P0000KYO6.BO,Edelweiss Balanced Advantage Fund,Edelweiss Mutual Fund,Unknown,Unknown
 0P0001BI80.BO,Edelweiss Balanced Advantage Fund,Edelweiss Mutual Fund,Unknown,Unknown
-0P0000L11T.BO,Edelweiss Balanced Advantage Fund,Edelweiss Mutual Fund,Unknown,Unknown
+,Edelweiss Balanced Advantage Fund,Edelweiss Mutual Fund,Unknown,Unknown
 0P0000XYE4.BO,Edelweiss Balanced Advantage Fund,Edelweiss Mutual Fund,Unknown,Unknown
 0P0001PHML.BO,Franklin India Balanced Advantage Fund,Franklin Templeton Mutual Fund,Unknown,Unknown
 0P0001PHMO.BO,Franklin India Balanced Advantage Fund,Franklin Templeton Mutual Fund,Unknown,Unknown
@@ -4519,7 +4466,7 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001NLL4.BO,LIC MF Balanced Advantage Fund,LIC Mutual Fund,Unknown,Unknown
 0P0001NLL6.BO,LIC MF Balanced Advantage Fund,LIC Mutual Fund,Unknown,Unknown
 0P0001NLL7.BO,LIC MF Balanced Advantage Fund,LIC Mutual Fund,Unknown,Unknown
-0P00018S39.BO,Motilal Oswal Balanced Advantage Fund,Motilal Oswal Mutual Fund,Unknown,Unknown
+,Motilal Oswal Balanced Advantage Fund,Motilal Oswal Mutual Fund,Unknown,Unknown
 0P00018S38.BO,Motilal Oswal Balanced Advantage Fund,Motilal Oswal Mutual Fund,Unknown,Unknown
 0P00018S3C.BO,Motilal Oswal Balanced Advantage Fund,Motilal Oswal Mutual Fund,Unknown,Unknown
 0P00018S3B.BO,Motilal Oswal Balanced Advantage Fund,Motilal Oswal Mutual Fund,Unknown,Unknown
@@ -4581,10 +4528,6 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P000170TZ.BO,BANDHAN EQUITY SAVINGS FUND,Bandhan Mutual Fund,Unknown,Unknown
 0P00011OMI.BO,BANDHAN EQUITY SAVINGS FUND,Bandhan Mutual Fund,Unknown,Unknown
 0P0000ZRWQ.BO,BANDHAN EQUITY SAVINGS FUND,Bandhan Mutual Fund,Unknown,Unknown
-0P0001HZ18.BO,Baroda BNP Paribas Equity Savings Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-,Baroda BNP Paribas Equity Savings Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-0P0001HZ1B.BO,Baroda BNP Paribas Equity Savings Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-,Baroda BNP Paribas Equity Savings Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
 0P00017Q32.BO,DSP Equity Savings Fund,DSP Mutual Fund,Unknown,Unknown
 0P00017Q33.BO,DSP Equity Savings Fund,DSP Mutual Fund,Unknown,Unknown
 0P00017Q34.BO,DSP Equity Savings Fund,DSP Mutual Fund,Unknown,Unknown
@@ -4609,7 +4552,7 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001E2E2.BO,Franklin India Equity Savings Fund,Franklin Templeton Mutual Fund,Unknown,Unknown
 0P0001E2DX.BO,Franklin India Equity Savings Fund,Franklin Templeton Mutual Fund,Unknown,Unknown
 0P0001E2E4.BO,Franklin India Equity Savings Fund,Franklin Templeton Mutual Fund,Unknown,Unknown
-0P0000XW8Q.BO,HDFC Equity Savings Fund,HDFC Mutual Fund,Unknown,Unknown
+,HDFC Equity Savings Fund,HDFC Mutual Fund,Unknown,Unknown
 0P00005V0O.BO,HDFC Equity Savings Fund,HDFC Mutual Fund,Unknown,Unknown
 0P0000XW8P.BO,HDFC Equity Savings Fund,HDFC Mutual Fund,Unknown,Unknown
 0P00005V0N.BO,HDFC Equity Savings Fund,HDFC Mutual Fund,Unknown,Unknown
@@ -4627,7 +4570,7 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P00014HE6.BO,Kotak Equity Savings Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
 0P0000XUZT.BO,LIC MF Equity Savings Fund,LIC Mutual Fund,Unknown,Unknown
 0P0000XUZU.BO,LIC MF Equity Savings Fund,LIC Mutual Fund,Unknown,Unknown
-0P0000XUZW.BO,LIC MF Equity Savings Fund,LIC Mutual Fund,Unknown,Unknown
+,LIC MF Equity Savings Fund,LIC Mutual Fund,Unknown,Unknown
 0P0000TFY1.BO,LIC MF Equity Savings Fund,LIC Mutual Fund,Unknown,Unknown
 0P0000TFY2.BO,LIC MF Equity Savings Fund,LIC Mutual Fund,Unknown,Unknown
 0P0000TFY3.BO,LIC MF Equity Savings Fund,LIC Mutual Fund,Unknown,Unknown
@@ -4660,7 +4603,7 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001664A.BO,Nippon India Equity Savings Fund (Existing number of Segregated Portfolios - 2),Nippon India Mutual Fund,Unknown,Unknown
 0P0001664C.BO,Nippon India Equity Savings Fund (Existing number of Segregated Portfolios - 2),Nippon India Mutual Fund,Unknown,Unknown
 0P00016649.BO,Nippon India Equity Savings Fund (Existing number of Segregated Portfolios - 2),Nippon India Mutual Fund,Unknown,Unknown
-0P0001664G.BO,Nippon India Equity Savings Fund (Existing number of Segregated Portfolios - 2),Nippon India Mutual Fund,Unknown,Unknown
+,Nippon India Equity Savings Fund (Existing number of Segregated Portfolios - 2),Nippon India Mutual Fund,Unknown,Unknown
 0P00005VBG.BO,PGIM India Equity Savings Fund,PGIM India Mutual Fund,Unknown,Unknown
 0P00013XWY.BO,PGIM India Equity Savings Fund,PGIM India Mutual Fund,Unknown,Unknown
 0P0000XW3Y.BO,PGIM India Equity Savings Fund,PGIM India Mutual Fund,Unknown,Unknown
@@ -4677,7 +4620,7 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001WFQ0.BO,quant Equity Savings Fund,quant Mutual Fund,Unknown,Unknown
 0P0001WFQ3.BO,quant Equity Savings Fund,quant Mutual Fund,Unknown,Unknown
 0P000165WL.BO,SBI EQUITY SAVINGS FUND,SBI Mutual Fund,Unknown,Unknown
-0P000165WN.BO,SBI EQUITY SAVINGS FUND,SBI Mutual Fund,Unknown,Unknown
+,SBI EQUITY SAVINGS FUND,SBI Mutual Fund,Unknown,Unknown
 0P000165WM.BO,SBI EQUITY SAVINGS FUND,SBI Mutual Fund,Unknown,Unknown
 0P000165WI.BO,SBI EQUITY SAVINGS FUND,SBI Mutual Fund,Unknown,Unknown
 0P000165WJ.BO,SBI EQUITY SAVINGS FUND,SBI Mutual Fund,Unknown,Unknown
@@ -4703,7 +4646,7 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001QB6T.BO,Aditya Birla Sun Life Multi Asset Allocation Fund,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 0P0001QB6U.BO,Aditya Birla Sun Life Multi Asset Allocation Fund,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 0P0001SWYY.BO,Bajaj Finserv Multi Asset Allocation Fund,Bajaj Finserv Mutual Fund,Unknown,Unknown
-0P0001SWYZ.BO,Bajaj Finserv Multi Asset Allocation Fund,Bajaj Finserv Mutual Fund,Unknown,Unknown
+,Bajaj Finserv Multi Asset Allocation Fund,Bajaj Finserv Mutual Fund,Unknown,Unknown
 0P0001SWZ2.BO,Bajaj Finserv Multi Asset Allocation Fund,Bajaj Finserv Mutual Fund,Unknown,Unknown
 0P0001SWZ3.BO,Bajaj Finserv Multi Asset Allocation Fund,Bajaj Finserv Mutual Fund,Unknown,Unknown
 0P0001S5ME.BO,BANDHAN MULTI ASSET ALLOCATION FUND,Bandhan Mutual Fund,Unknown,Unknown
@@ -4798,10 +4741,14 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001E1VL.BO,Axis Aggressive Hybrid Fund,Axis Mutual Fund,Unknown,Unknown
 0P0001E1VM.BO,Axis Aggressive Hybrid Fund,Axis Mutual Fund,Unknown,Unknown
 0P0001E1VN.BO,Axis Aggressive Hybrid Fund,Axis Mutual Fund,Unknown,Unknown
+0P00018G9K.BO,BANK OF INDIA AGGRESSIVE HYBRID FUND,Bank of India Mutual Fund,Unknown,Unknown
 0P00018G9M.BO,BANK OF INDIA AGGRESSIVE HYBRID FUND,Bank of India Mutual Fund,Unknown,Unknown
 0P00018G9N.BO,BANK OF INDIA AGGRESSIVE HYBRID FUND,Bank of India Mutual Fund,Unknown,Unknown
-0P00018G9K.BO,BANK OF INDIA AGGRESSIVE HYBRID FUND,Bank of India Mutual Fund,Unknown,Unknown
 0P00018G9L.BO,BANK OF INDIA AGGRESSIVE HYBRID FUND,Bank of India Mutual Fund,Unknown,Unknown
+0P00019ZBS.BO,BARODA BNP PARIBAS AGGRESSIVE HYBRID FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+,BARODA BNP PARIBAS AGGRESSIVE HYBRID FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+0P00019ZBQ.BO,BARODA BNP PARIBAS AGGRESSIVE HYBRID FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+0P00019ZBP.BO,BARODA BNP PARIBAS AGGRESSIVE HYBRID FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
 0P0000XVZV.BO,Canara Robeco Aggressive Hybrid Fund,Canara Robeco Mutual Fund,Unknown,Unknown
 0P0000XVZU.BO,Canara Robeco Aggressive Hybrid Fund,Canara Robeco Mutual Fund,Unknown,Unknown
 0P00005V76.BO,Canara Robeco Aggressive Hybrid Fund,Canara Robeco Mutual Fund,Unknown,Unknown
@@ -4875,7 +4822,7 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 ,Nippon India Aggressive Hybrid Fund (Existing Number of Segregated Portfolios - 2),Nippon India Mutual Fund,Unknown,Unknown
 ,Nippon India Aggressive Hybrid Fund (Existing Number of Segregated Portfolios - 2),Nippon India Mutual Fund,Unknown,Unknown
 ,Nippon India Aggressive Hybrid Fund (Existing Number of Segregated Portfolios - 2),Nippon India Mutual Fund,Unknown,Unknown
-,Nippon India Aggressive Hybrid Fund (Existing Number of Segregated Portfolios - 2),Nippon India Mutual Fund,Unknown,Unknown
+11AMD.BO,Nippon India Aggressive Hybrid Fund (Existing Number of Segregated Portfolios - 2),Nippon India Mutual Fund,Unknown,Unknown
 ,Nippon India Aggressive Hybrid Fund (Existing Number of Segregated Portfolios - 2),Nippon India Mutual Fund,Unknown,Unknown
 11DPD.BO,Nippon India Aggressive Hybrid Fund (Existing Number of Segregated Portfolios - 2),Nippon India Mutual Fund,Unknown,Unknown
 11MPD.BO,Nippon India Aggressive Hybrid Fund (Existing Number of Segregated Portfolios - 2),Nippon India Mutual Fund,Unknown,Unknown
@@ -4961,7 +4908,7 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001K1XD.BO,Mirae Asset Arbitrage Fund,Mirae Asset Mutual Fund,Unknown,Unknown
 0P0001K1XE.BO,Mirae Asset Arbitrage Fund,Mirae Asset Mutual Fund,Unknown,Unknown
 0P0001ORPI.BO,NJ Arbitrage Fund,NJ Mutual Fund,Unknown,Unknown
-0P0001ORPF.BO,NJ Arbitrage Fund,NJ Mutual Fund,Unknown,Unknown
+,NJ Arbitrage Fund,NJ Mutual Fund,Unknown,Unknown
 0P0000XVJE.BO,SBI Arbitrage Fund,SBI Mutual Fund,Unknown,Unknown
 0P0000XVJ9.BO,SBI Arbitrage Fund,SBI Mutual Fund,Unknown,Unknown
 0P00008TOM.BO,SBI Arbitrage Fund,SBI Mutual Fund,Unknown,Unknown
@@ -4985,6 +4932,7 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001TB32.BO,Canara Robeco Balanced Advantage Fund,Canara Robeco Mutual Fund,Unknown,Unknown
 0P0001TB34.BO,Canara Robeco Balanced Advantage Fund,Canara Robeco Mutual Fund,Unknown,Unknown
 0P0001TB35.BO,Canara Robeco Balanced Advantage Fund,Canara Robeco Mutual Fund,Unknown,Unknown
+,Helios Balanced Advantage Fund,Helios Mutual Fund,Unknown,Unknown
 0P0001SIX8.BO,Helios Balanced Advantage Fund,Helios Mutual Fund,Unknown,Unknown
 0P0001SIX9.BO,Helios Balanced Advantage Fund,Helios Mutual Fund,Unknown,Unknown
 0P0001SIXC.BO,Helios Balanced Advantage Fund,Helios Mutual Fund,Unknown,Unknown
@@ -5021,7 +4969,7 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001HRGZ.BO,Shriram Balanced Advantage Fund,Shriram Mutual Fund,Unknown,Unknown
 0P0000XVD4.BO,Sundaram Dynamic Asset Allocation Fund (Formerly Known as Sundaram Balanced Advantage Fund),Sundaram Mutual Fund,Unknown,Unknown
 0P0000XVCX.BO,Sundaram Dynamic Asset Allocation Fund (Formerly Known as Sundaram Balanced Advantage Fund),Sundaram Mutual Fund,Unknown,Unknown
-0P0000RWQE.BO,Sundaram Dynamic Asset Allocation Fund (Formerly Known as Sundaram Balanced Advantage Fund),Sundaram Mutual Fund,Unknown,Unknown
+,Sundaram Dynamic Asset Allocation Fund (Formerly Known as Sundaram Balanced Advantage Fund),Sundaram Mutual Fund,Unknown,Unknown
 0P0000RWQF.BO,Sundaram Dynamic Asset Allocation Fund (Formerly Known as Sundaram Balanced Advantage Fund),Sundaram Mutual Fund,Unknown,Unknown
 0P0001RCLE.BO,UTI Balanced Advantage Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001RCLF.BO,UTI Balanced Advantage Fund,UTI Mutual Fund,Unknown,Unknown
@@ -5055,6 +5003,12 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P0000ON3K.BO,Axis Conservative Hybrid Fund,Axis Mutual Fund,Unknown,Unknown
 0P0000ON3M.BO,Axis Conservative Hybrid Fund,Axis Mutual Fund,Unknown,Unknown
 0P0000ON3L.BO,Axis Conservative Hybrid Fund,Axis Mutual Fund,Unknown,Unknown
+,BARODA BNP PARIBAS CONSERVATIVE HYBRID FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+0P0000XVZ2.BO,BARODA BNP PARIBAS CONSERVATIVE HYBRID FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+0P0000XVZ3.BO,BARODA BNP PARIBAS CONSERVATIVE HYBRID FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+0P00005V3M.BO,BARODA BNP PARIBAS CONSERVATIVE HYBRID FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+0P00005V3N.BO,BARODA BNP PARIBAS CONSERVATIVE HYBRID FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+0P00005X1E.BO,BARODA BNP PARIBAS CONSERVATIVE HYBRID FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
 0P0000XW0U.BO,Canara Robeco Conservative Hybrid Fund,Canara Robeco Mutual Fund,Unknown,Unknown
 0P0000XW0V.BO,Canara Robeco Conservative Hybrid Fund,Canara Robeco Mutual Fund,Unknown,Unknown
 0P0000XW0W.BO,Canara Robeco Conservative Hybrid Fund,Canara Robeco Mutual Fund,Unknown,Unknown
@@ -5075,7 +5029,7 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P0000XW8J.BO,HDFC Conservative Hybrid Fund,HDFC Mutual Fund,Unknown,Unknown
 0P0000XY0K.BO,HSBC Conservative Hybrid Fund,HSBC Mutual Fund,Unknown,Unknown
 0P0000XW9P.BO,HSBC Conservative Hybrid Fund,HSBC Mutual Fund,Unknown,Unknown
-0P0000XXT6.BO,HSBC Conservative Hybrid Fund,HSBC Mutual Fund,Unknown,Unknown
+,HSBC Conservative Hybrid Fund,HSBC Mutual Fund,Unknown,Unknown
 0P00005V1D.BO,HSBC Conservative Hybrid Fund,HSBC Mutual Fund,Unknown,Unknown
 0P00005V1C.BO,HSBC Conservative Hybrid Fund,HSBC Mutual Fund,Unknown,Unknown
 0P00005V1E.BO,HSBC Conservative Hybrid Fund,HSBC Mutual Fund,Unknown,Unknown
@@ -5109,6 +5063,10 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P00016KOX.BO,Axis Equity Savings Fund,Axis Mutual Fund,Unknown,Unknown
 0P00016KOY.BO,Axis Equity Savings Fund,Axis Mutual Fund,Unknown,Unknown
 0P00018BOR.BO,Axis Equity Savings Fund,Axis Mutual Fund,Unknown,Unknown
+0P0001HZ18.BO,Baroda BNP Paribas Equity Savings Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+,Baroda BNP Paribas Equity Savings Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+0P0001HZ1B.BO,Baroda BNP Paribas Equity Savings Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+,Baroda BNP Paribas Equity Savings Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
 0P0000XV8A.BO,HSBC Equity Savings Fund,HSBC Mutual Fund,Unknown,Unknown
 0P0000XV8C.BO,HSBC Equity Savings Fund,HSBC Mutual Fund,Unknown,Unknown
 0P0000XV8B.BO,HSBC Equity Savings Fund,HSBC Mutual Fund,Unknown,Unknown
@@ -5147,7 +5105,7 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P00035VW9.BO,AlphaGrep Multi Asset Allocation Fund,Unknown,Unknown,Unknown
 0P0000XVUR.BO,Axis Multi Asset Allocation Fund,Axis Mutual Fund,Unknown,Unknown
 0P0000XVUO.BO,Axis Multi Asset Allocation Fund,Axis Mutual Fund,Unknown,Unknown
-0P0000P0VU.BO,Axis Multi Asset Allocation Fund,Axis Mutual Fund,Unknown,Unknown
+,Axis Multi Asset Allocation Fund,Axis Mutual Fund,Unknown,Unknown
 0P0000P0VV.BO,Axis Multi Asset Allocation Fund,Axis Mutual Fund,Unknown,Unknown
 0P0001V7BS.BO,Canara Robeco Multi Asset Allocation Fund,Canara Robeco Mutual Fund,Unknown,Unknown
 0P0001V7BT.BO,Canara Robeco Multi Asset Allocation Fund,Canara Robeco Mutual Fund,Unknown,Unknown
@@ -5175,10 +5133,10 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001U54P.BO,Invesco India Multi Asset Allocation Fund,Invesco Mutual Fund,Unknown,Unknown
 0P0001U54R.BO,Invesco India Multi Asset Allocation Fund,Invesco Mutual Fund,Unknown,Unknown
 0P0001U54S.BO,Invesco India Multi Asset Allocation Fund,Invesco Mutual Fund,Unknown,Unknown
-,ITI Multi Asset Allocation Fund,ITI Mutual Fund,Unknown,Unknown
-,ITI Multi Asset Allocation Fund,ITI Mutual Fund,Unknown,Unknown
-,ITI Multi Asset Allocation Fund,ITI Mutual Fund,Unknown,Unknown
-,ITI Multi Asset Allocation Fund,ITI Mutual Fund,Unknown,Unknown
+0P00036QNL.BO,ITI Multi Asset Allocation Fund,ITI Mutual Fund,Unknown,Unknown
+0P00036QNM.BO,ITI Multi Asset Allocation Fund,ITI Mutual Fund,Unknown,Unknown
+0P00036QNO.BO,ITI Multi Asset Allocation Fund,ITI Mutual Fund,Unknown,Unknown
+0P00036QNP.BO,ITI Multi Asset Allocation Fund,ITI Mutual Fund,Unknown,Unknown
 0P00035UCN.BO,JM Multi Asset Allocation Fund,JM Financial Mutual Fund,Unknown,Unknown
 0P00035UCO.BO,JM Multi Asset Allocation Fund,JM Financial Mutual Fund,Unknown,Unknown
 0P00035UCQ.BO,JM Multi Asset Allocation Fund,JM Financial Mutual Fund,Unknown,Unknown
@@ -5457,7 +5415,7 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P0000ZKLL.BO,DSP Banking and PSU Debt Fund,DSP Mutual Fund,Unknown,Unknown
 0P0000ZKLQ.BO,DSP Banking and PSU Debt Fund,DSP Mutual Fund,Unknown,Unknown
 ,DSP Banking and PSU Debt Fund,DSP Mutual Fund,Unknown,Unknown
-0P0000ZKLO.BO,DSP Banking and PSU Debt Fund,DSP Mutual Fund,Unknown,Unknown
+,DSP Banking and PSU Debt Fund,DSP Mutual Fund,Unknown,Unknown
 0P0000ZKLP.BO,DSP Banking and PSU Debt Fund,DSP Mutual Fund,Unknown,Unknown
 0P0001MS9G.BO,DSP Banking and PSU Debt Fund,DSP Mutual Fund,Unknown,Unknown
 0P0000ZK6O.BO,Edelweiss Banking and PSU Debt Fund,Edelweiss Mutual Fund,Unknown,Unknown
@@ -5467,7 +5425,7 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001BA1F.BO,Edelweiss Banking and PSU Debt Fund,Edelweiss Mutual Fund,Unknown,Unknown
 0P0000ZK6M.BO,Edelweiss Banking and PSU Debt Fund,Edelweiss Mutual Fund,Unknown,Unknown
 0P0000ZK6N.BO,Edelweiss Banking and PSU Debt Fund,Edelweiss Mutual Fund,Unknown,Unknown
-0P0000ZK6R.BO,Edelweiss Banking and PSU Debt Fund,Edelweiss Mutual Fund,Unknown,Unknown
+,Edelweiss Banking and PSU Debt Fund,Edelweiss Mutual Fund,Unknown,Unknown
 0P00012NRR.BO,Edelweiss Banking and PSU Debt Fund,Edelweiss Mutual Fund,Unknown,Unknown
 0P0001BA1D.BO,Edelweiss Banking and PSU Debt Fund,Edelweiss Mutual Fund,Unknown,Unknown
 ,HSBC Banking and PSU Debt Fund,HSBC Mutual Fund,Unknown,Unknown
@@ -5566,7 +5524,7 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P00011WHQ.BO,UTI Banking & PSU Debt Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001ANS6.BO,AXIS Corporate Bond Fund,Axis Mutual Fund,Unknown,Unknown
 0P0001ANS8.BO,AXIS Corporate Bond Fund,Axis Mutual Fund,Unknown,Unknown
-0P0001ANS9.BO,AXIS Corporate Bond Fund,Axis Mutual Fund,Unknown,Unknown
+,AXIS Corporate Bond Fund,Axis Mutual Fund,Unknown,Unknown
 0P0001ANS7.BO,AXIS Corporate Bond Fund,Axis Mutual Fund,Unknown,Unknown
 0P0001ANS4.BO,AXIS Corporate Bond Fund,Axis Mutual Fund,Unknown,Unknown
 0P0001ANRY.BO,AXIS Corporate Bond Fund,Axis Mutual Fund,Unknown,Unknown
@@ -5574,6 +5532,18 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001ANS2.BO,AXIS Corporate Bond Fund,Axis Mutual Fund,Unknown,Unknown
 0P0001ANS0.BO,AXIS Corporate Bond Fund,Axis Mutual Fund,Unknown,Unknown
 0P0001ANRV.BO,AXIS Corporate Bond Fund,Axis Mutual Fund,Unknown,Unknown
+0P0000JXG2.BO,BARODA BNP PARIBAS CORPORATE BOND FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+0P0000IUIA.BO,BARODA BNP PARIBAS CORPORATE BOND FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+0P0000JWVH.BO,BARODA BNP PARIBAS CORPORATE BOND FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+0P0000JXFZ.BO,BARODA BNP PARIBAS CORPORATE BOND FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+0P0000XVYJ.BO,BARODA BNP PARIBAS CORPORATE BOND FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+0P0000XVYK.BO,BARODA BNP PARIBAS CORPORATE BOND FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+0P0000XVYL.BO,BARODA BNP PARIBAS CORPORATE BOND FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+0P0000XVYM.BO,BARODA BNP PARIBAS CORPORATE BOND FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+0P0000VHDR.BO,BARODA BNP PARIBAS CORPORATE BOND FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+0P0000IULM.BO,BARODA BNP PARIBAS CORPORATE BOND FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+,BARODA BNP PARIBAS CORPORATE BOND FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+0P0000JXG5.BO,BARODA BNP PARIBAS CORPORATE BOND FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
 0P00011XC8.BO,Canara Robeco Corporate Bond Fund,Canara Robeco Mutual Fund,Unknown,Unknown
 0P00011XC7.BO,Canara Robeco Corporate Bond Fund,Canara Robeco Mutual Fund,Unknown,Unknown
 0P00011XCA.BO,Canara Robeco Corporate Bond Fund,Canara Robeco Mutual Fund,Unknown,Unknown
@@ -5603,7 +5573,7 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P0000XVG8.BO,Invesco India Corporate Bond Fund,Invesco Mutual Fund,Unknown,Unknown
 0P0000XVGC.BO,Invesco India Corporate Bond Fund,Invesco Mutual Fund,Unknown,Unknown
 0P0000XVG9.BO,Invesco India Corporate Bond Fund,Invesco Mutual Fund,Unknown,Unknown
-0P0000XVGE.BO,Invesco India Corporate Bond Fund,Invesco Mutual Fund,Unknown,Unknown
+,Invesco India Corporate Bond Fund,Invesco Mutual Fund,Unknown,Unknown
 0P00009QDJ.BO,Invesco India Corporate Bond Fund,Invesco Mutual Fund,Unknown,Unknown
 0P0000VL21.BO,Invesco India Corporate Bond Fund,Invesco Mutual Fund,Unknown,Unknown
 0P00009QDH.BO,Invesco India Corporate Bond Fund,Invesco Mutual Fund,Unknown,Unknown
@@ -5669,7 +5639,7 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P0000XVSL.BO,UTI - Credit Risk Fund.,UTI Mutual Fund,Unknown,Unknown
 0P0001AJYO.BO,UTI - Credit Risk Fund.,UTI Mutual Fund,Unknown,Unknown
 0P00016WF7.BO,UTI - Credit Risk Fund.,UTI Mutual Fund,Unknown,Unknown
-0P000153GQ.BO,UTI - Credit Risk Fund.,UTI Mutual Fund,Unknown,Unknown
+,UTI - Credit Risk Fund.,UTI Mutual Fund,Unknown,Unknown
 0P00016CWY.BO,UTI - Credit Risk Fund.,UTI Mutual Fund,Unknown,Unknown
 0P0000XNT1.BO,UTI - Credit Risk Fund.,UTI Mutual Fund,Unknown,Unknown
 0P00016O59.BO,UTI - Credit Risk Fund.,UTI Mutual Fund,Unknown,Unknown
@@ -5836,7 +5806,7 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P00005USC.BO,SBI DYNAMIC TERM FUND,SBI Mutual Fund,Unknown,Unknown
 0P00005USB.BO,SBI DYNAMIC TERM FUND,SBI Mutual Fund,Unknown,Unknown
 0P0000XVRV.BO,Union Dynamic Term Fund,Union Mutual Fund,Unknown,Unknown
-0P0000XVRU.BO,Union Dynamic Term Fund,Union Mutual Fund,Unknown,Unknown
+,Union Dynamic Term Fund,Union Mutual Fund,Unknown,Unknown
 0P0000V732.BO,Union Dynamic Term Fund,Union Mutual Fund,Unknown,Unknown
 0P0000V731.BO,Union Dynamic Term Fund,Union Mutual Fund,Unknown,Unknown
 0P00016TIA.BO,UTI Dynamic Term Fund,UTI Mutual Fund,Unknown,Unknown
@@ -5942,7 +5912,7 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001KUMT.BO,SBI Floating Interest Rates Fund,SBI Mutual Fund,Unknown,Unknown
 0P0001KUMU.BO,SBI Floating Interest Rates Fund,SBI Mutual Fund,Unknown,Unknown
 0P0001KUN0.BO,SBI Floating Interest Rates Fund,SBI Mutual Fund,Unknown,Unknown
-0P0001KUMY.BO,SBI Floating Interest Rates Fund,SBI Mutual Fund,Unknown,Unknown
+,SBI Floating Interest Rates Fund,SBI Mutual Fund,Unknown,Unknown
 0P0001KUMZ.BO,SBI Floating Interest Rates Fund,SBI Mutual Fund,Unknown,Unknown
 0P0001MP8F.BO,Tata Floating Interest Rates Fund,Tata Mutual Fund,Unknown,Unknown
 ,Tata Floating Interest Rates Fund,Tata Mutual Fund,Unknown,Unknown
@@ -5951,7 +5921,7 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001MP8I.BO,Tata Floating Interest Rates Fund,Tata Mutual Fund,Unknown,Unknown
 ,Tata Floating Interest Rates Fund,Tata Mutual Fund,Unknown,Unknown
 0P0001MP8H.BO,Tata Floating Interest Rates Fund,Tata Mutual Fund,Unknown,Unknown
-0P0001MP8M.BO,Tata Floating Interest Rates Fund,Tata Mutual Fund,Unknown,Unknown
+,Tata Floating Interest Rates Fund,Tata Mutual Fund,Unknown,Unknown
 ,Tata Floating Interest Rates Fund,Tata Mutual Fund,Unknown,Unknown
 0P0001MP8N.BO,Tata Floating Interest Rates Fund,Tata Mutual Fund,Unknown,Unknown
 ,Tata Floating Interest Rates Fund,Tata Mutual Fund,Unknown,Unknown
@@ -5979,6 +5949,10 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P0000V2QE.BO,Axis Gilt Fund,Axis Mutual Fund,Unknown,Unknown
 0P0000V2QG.BO,Axis Gilt Fund,Axis Mutual Fund,Unknown,Unknown
 0P0000V2QF.BO,Axis Gilt Fund,Axis Mutual Fund,Unknown,Unknown
+0P0000XVV4.BO,BARODA BNP PARIBAS GILT FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+0P0000XY0C.BO,BARODA BNP PARIBAS GILT FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+0P00005V6S.BO,BARODA BNP PARIBAS GILT FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+0P00005V6R.BO,BARODA BNP PARIBAS GILT FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
 0P0000XW0E.BO,Canara Robeco Gilt Fund,Canara Robeco Mutual Fund,Unknown,Unknown
 0P0000XW0D.BO,Canara Robeco Gilt Fund,Canara Robeco Mutual Fund,Unknown,Unknown
 0P00005V7I.BO,Canara Robeco Gilt Fund,Canara Robeco Mutual Fund,Unknown,Unknown
@@ -5999,7 +5973,7 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P0000XVQV.BO,Franklin India Gilt Fund,Franklin Templeton Mutual Fund,Unknown,Unknown
 0P00005WJ2.BO,Franklin India Gilt Fund,Franklin Templeton Mutual Fund,Unknown,Unknown
 0P00005WJ1.BO,Franklin India Gilt Fund,Franklin Templeton Mutual Fund,Unknown,Unknown
-0P0001V3SY.BO,Groww Gilt Fund,Groww Mutual Fund,Unknown,Unknown
+,Groww Gilt Fund,Groww Mutual Fund,Unknown,Unknown
 0P0001V3SZ.BO,Groww Gilt Fund,Groww Mutual Fund,Unknown,Unknown
 0P0001V3T1.BO,Groww Gilt Fund,Groww Mutual Fund,Unknown,Unknown
 0P0001V3T2.BO,Groww Gilt Fund,Groww Mutual Fund,Unknown,Unknown
@@ -6072,6 +6046,21 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P0000NG9A.BO,Axis Liquid Fund,Axis Mutual Fund,Unknown,Unknown
 0P0000NG9B.BO,Axis Liquid Fund,Axis Mutual Fund,Unknown,Unknown
 0P0000NG9C.BO,Axis Liquid Fund,Axis Mutual Fund,Unknown,Unknown
+0P0000XVV9.BO,BARODA BNP PARIBAS LIQUID FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+0P0000XVVA.BO,BARODA BNP PARIBAS LIQUID FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+0P0000XZRV.BO,BARODA BNP PARIBAS LIQUID FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+,BARODA BNP PARIBAS LIQUID FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+,BARODA BNP PARIBAS LIQUID FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+0P0000JWUJ.BO,BARODA BNP PARIBAS LIQUID FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+0P0000JWUH.BO,BARODA BNP PARIBAS LIQUID FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+0P0000JWUB.BO,BARODA BNP PARIBAS LIQUID FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+,BARODA BNP PARIBAS LIQUID FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+,BARODA BNP PARIBAS LIQUID FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+,BARODA BNP PARIBAS LIQUID FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+,BARODA BNP PARIBAS LIQUID FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+0P00005X3B.BO,BARODA BNP PARIBAS LIQUID FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+0P00005V6X.BO,BARODA BNP PARIBAS LIQUID FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+,BARODA BNP PARIBAS LIQUID FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
 ,Canara Robeco Liquid Fund,Canara Robeco Mutual Fund,Unknown,Unknown
 0P0000XW0R.BO,Canara Robeco Liquid Fund,Canara Robeco Mutual Fund,Unknown,Unknown
 0P0000XW0P.BO,Canara Robeco Liquid Fund,Canara Robeco Mutual Fund,Unknown,Unknown
@@ -6113,7 +6102,7 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 ,Invesco India Liquid Fund,Invesco Mutual Fund,Unknown,Unknown
 0P0000XVHA.BO,Invesco India Liquid Fund,Invesco Mutual Fund,Unknown,Unknown
 0P0000XVHB.BO,Invesco India Liquid Fund,Invesco Mutual Fund,Unknown,Unknown
-0P0001YLJA.BO,Invesco India Liquid Fund,Invesco Mutual Fund,Unknown,Unknown
+,Invesco India Liquid Fund,Invesco Mutual Fund,Unknown,Unknown
 ,Invesco India Liquid Fund,Invesco Mutual Fund,Unknown,Unknown
 0P0000N8UZ.BO,Invesco India Liquid Fund,Invesco Mutual Fund,Unknown,Unknown
 0P0000N8V1.BO,Invesco India Liquid Fund,Invesco Mutual Fund,Unknown,Unknown
@@ -6131,6 +6120,8 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P0000XV4C.BO,JM Liquid Fund,JM Financial Mutual Fund,Unknown,Unknown
 0P0000XV4D.BO,JM Liquid Fund,JM Financial Mutual Fund,Unknown,Unknown
 0P0000XV4A.BO,JM Liquid Fund,JM Financial Mutual Fund,Unknown,Unknown
+0P00005V24.BO,JM Liquid Fund,JM Financial Mutual Fund,Unknown,Unknown
+,JM Liquid Fund,JM Financial Mutual Fund,Unknown,Unknown
 0P00005V26.BO,JM Liquid Fund,JM Financial Mutual Fund,Unknown,Unknown
 0P00005V2C.BO,JM Liquid Fund,JM Financial Mutual Fund,Unknown,Unknown
 0P00005V27.BO,JM Liquid Fund,JM Financial Mutual Fund,Unknown,Unknown
@@ -6442,9 +6433,9 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 ,JM Medium to Long Term Fund,JM Financial Mutual Fund,Unknown,Unknown
 0P0000XV4G.BO,JM Medium to Long Term Fund,JM Financial Mutual Fund,Unknown,Unknown
 0P0000XV4F.BO,JM Medium to Long Term Fund,JM Financial Mutual Fund,Unknown,Unknown
+0P00005V2G.BO,JM Medium to Long Term Fund,JM Financial Mutual Fund,Unknown,Unknown
 0P00005V2I.BO,JM Medium to Long Term Fund,JM Financial Mutual Fund,Unknown,Unknown
 0P00005V2H.BO,JM Medium to Long Term Fund,JM Financial Mutual Fund,Unknown,Unknown
-0P00005V2G.BO,JM Medium to Long Term Fund Growth - Bonus Option,JM Financial Mutual Fund,Unknown,Growth
 ,Kotak Medium to Long Term Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
 ,Kotak Medium to Long Term Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
 0P0000Z2WX.BO,Kotak Medium to Long Term Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
@@ -6461,7 +6452,7 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001TWL0.BO,LIC MF Medium to Long Term Fund,LIC Mutual Fund,Unknown,Unknown
 0P00005UP9.BO,Nippon India Medium to Long Term Fund,Nippon India Mutual Fund,Unknown,Unknown
 0P0000XVDV.BO,Nippon India Medium to Long Term Fund,Nippon India Mutual Fund,Unknown,Unknown
-0P0000Y9MR.BO,Nippon India Medium to Long Term Fund,Nippon India Mutual Fund,Unknown,Unknown
+,Nippon India Medium to Long Term Fund,Nippon India Mutual Fund,Unknown,Unknown
 0P0000XVDR.BO,Nippon India Medium to Long Term Fund,Nippon India Mutual Fund,Unknown,Unknown
 0P0000XW36.BO,Nippon India Medium to Long Term Fund,Nippon India Mutual Fund,Unknown,Unknown
 0P00005UPA.BO,Nippon India Medium to Long Term Fund,Nippon India Mutual Fund,Unknown,Unknown
@@ -6514,6 +6505,14 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001RBZF.BO,Bajaj Finserv Money Market Fund,Bajaj Finserv Mutual Fund,Unknown,Unknown
 0P0001RBZB.BO,Bajaj Finserv Money Market Fund,Bajaj Finserv Mutual Fund,Unknown,Unknown
 0P00036Y16.BO,Bajaj Finserv Money Market Fund,Bajaj Finserv Mutual Fund,Unknown,Unknown
+0P0001HRX2.BO,Baroda BNP Paribas Money Market Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+,Baroda BNP Paribas Money Market Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+0P0001HRX4.BO,Baroda BNP Paribas Money Market Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+,Baroda BNP Paribas Money Market Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+0P0001FI7J.BO,Baroda BNP Paribas Money Market Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+0P0001FI7M.BO,Baroda BNP Paribas Money Market Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+,Baroda BNP Paribas Money Market Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+,Baroda BNP Paribas Money Market Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
 ,DSP Money Market Fund,DSP Mutual Fund,Unknown,Unknown
 0P0000XW2Z.BO,DSP Money Market Fund,DSP Mutual Fund,Unknown,Unknown
 0P0000XW2Y.BO,DSP Money Market Fund,DSP Mutual Fund,Unknown,Unknown
@@ -6538,7 +6537,7 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 ,Invesco India Money Market Fund,Invesco Mutual Fund,Unknown,Unknown
 ,Invesco India Money Market Fund,Invesco Mutual Fund,Unknown,Unknown
 0P0000XVGO.BO,Invesco India Money Market Fund,Invesco Mutual Fund,Unknown,Unknown
-0P0000XVGV.BO,Invesco India Money Market Fund,Invesco Mutual Fund,Unknown,Unknown
+,Invesco India Money Market Fund,Invesco Mutual Fund,Unknown,Unknown
 0P0000XVGT.BO,Invesco India Money Market Fund,Invesco Mutual Fund,Unknown,Unknown
 ,Invesco India Money Market Fund,Invesco Mutual Fund,Unknown,Unknown
 0P0000VABA.BO,Invesco India Money Market Fund,Invesco Mutual Fund,Unknown,Unknown
@@ -6584,6 +6583,16 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001H0ST.BO,Axis Overnight Fund,Axis Mutual Fund,Unknown,Unknown
 0P0001H0SV.BO,Axis Overnight Fund,Axis Mutual Fund,Unknown,Unknown
 0P0001H0SU.BO,Axis Overnight Fund,Axis Mutual Fund,Unknown,Unknown
+,Baroda BNP Paribas Overnight Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+0P0001HBWY.BO,Baroda BNP Paribas Overnight Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+,Baroda BNP Paribas Overnight Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+,Baroda BNP Paribas Overnight Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+,Baroda BNP Paribas Overnight Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+,Baroda BNP Paribas Overnight Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+,Baroda BNP Paribas Overnight Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+,Baroda BNP Paribas Overnight Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+0P0001HBX1.BO,Baroda BNP Paribas Overnight Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+,Baroda BNP Paribas Overnight Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
 ,Canara Robeco Overnight Fund,Canara Robeco Mutual Fund,Unknown,Unknown
 0P0001I2LE.BO,Canara Robeco Overnight Fund,Canara Robeco Mutual Fund,Unknown,Unknown
 ,Canara Robeco Overnight Fund,Canara Robeco Mutual Fund,Unknown,Unknown
@@ -6600,7 +6609,7 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001HUZZ.BO,Groww Overnight Fund,Groww Mutual Fund,Unknown,Unknown
 ,Groww Overnight Fund,Groww Mutual Fund,Unknown,Unknown
 0P0001HV03.BO,Groww Overnight Fund,Groww Mutual Fund,Unknown,Unknown
-0P0001HV06.BO,Groww Overnight Fund,Groww Mutual Fund,Unknown,Unknown
+,Groww Overnight Fund,Groww Mutual Fund,Unknown,Unknown
 0P0001HV07.BO,Groww Overnight Fund,Groww Mutual Fund,Unknown,Unknown
 0P0001HV09.BO,Groww Overnight Fund,Groww Mutual Fund,Unknown,Unknown
 ,Groww Overnight Fund,Groww Mutual Fund,Unknown,Unknown
@@ -6652,6 +6661,7 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001IK3L.BO,Mirae Asset Overnight Fund,Mirae Asset Mutual Fund,Unknown,Unknown
 0P0001IK3M.BO,Mirae Asset Overnight Fund,Mirae Asset Mutual Fund,Unknown,Unknown
 ,Mirae Asset Overnight Fund,Mirae Asset Mutual Fund,Unknown,Unknown
+,Monarch Overnight Fund,Unknown,Unknown,Unknown
 ,Monarch Overnight Fund,Unknown,Unknown,Unknown
 ,Monarch Overnight Fund,Unknown,Unknown,Unknown
 ,Monarch Overnight Fund,Unknown,Unknown,Unknown
@@ -6809,7 +6819,7 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001CQQI.BO,Mirae Asset Short Term Fund,Mirae Asset Mutual Fund,Unknown,Unknown
 0P000124JF.BO,Nippon India Short Term Fund,Nippon India Mutual Fund,Unknown,Unknown
 0P0000XVFX.BO,Nippon India Short Term Fund,Nippon India Mutual Fund,Unknown,Unknown
-0P0000XX0U.BO,Nippon India Short Term Fund,Nippon India Mutual Fund,Unknown,Unknown
+,Nippon India Short Term Fund,Nippon India Mutual Fund,Unknown,Unknown
 0P0000XVFU.BO,Nippon India Short Term Fund,Nippon India Mutual Fund,Unknown,Unknown
 0P00011MOU.BO,Nippon India Short Term Fund,Nippon India Mutual Fund,Unknown,Unknown
 0P00005UQI.BO,Nippon India Short Term Fund,Nippon India Mutual Fund,Unknown,Unknown
@@ -6844,7 +6854,7 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P00005WYA.BO,Sundaram Short Term Fund (Formerly Known as Sundaram Short Duration Fund),Sundaram Mutual Fund,Unknown,Unknown
 0P0000XVPG.BO,Tata Short Term Fund,Tata Mutual Fund,Unknown,Unknown
 0P00005UX1.BO,Tata Short Term Fund,Tata Mutual Fund,Unknown,Unknown
-0P0000XXZO.BO,Tata Short Term Fund,Tata Mutual Fund,Unknown,Unknown
+,Tata Short Term Fund,Tata Mutual Fund,Unknown,Unknown
 0P00015FQH.BO,Tata Short Term Fund,Tata Mutual Fund,Unknown,Unknown
 0P00005UX0.BO,Tata Short Term Fund,Tata Mutual Fund,Unknown,Unknown
 0P00015FQI.BO,Tata Short Term Fund,Tata Mutual Fund,Unknown,Unknown
@@ -6860,7 +6870,7 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P0000ZP4F.BO,UTI Short Term Fund,UTI Mutual Fund,Unknown,Unknown
 0P0000XVUC.BO,UTI Short Term Fund,UTI Mutual Fund,Unknown,Unknown
 0P0000XVUA.BO,UTI Short Term Fund,UTI Mutual Fund,Unknown,Unknown
-0P000148Y3.BO,UTI Short Term Fund,UTI Mutual Fund,Unknown,Unknown
+,UTI Short Term Fund,UTI Mutual Fund,Unknown,Unknown
 0P00015E16.BO,UTI Short Term Fund,UTI Mutual Fund,Unknown,Unknown
 0P0000KXQV.BO,UTI Short Term Fund,UTI Mutual Fund,Unknown,Unknown
 0P0000KXQU.BO,UTI Short Term Fund,UTI Mutual Fund,Unknown,Unknown
@@ -6941,7 +6951,7 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001THOK.BO,Franklin India Ultra Short Term Fund,Franklin Templeton Mutual Fund,Unknown,Unknown
 0P0001THOL.BO,Franklin India Ultra Short Term Fund,Franklin Templeton Mutual Fund,Unknown,Unknown
 ,HSBC Ultra Short Term Fund,HSBC Mutual Fund,Unknown,Unknown
-0P0001J08E.BO,HSBC Ultra Short Term Fund,HSBC Mutual Fund,Unknown,Unknown
+,HSBC Ultra Short Term Fund,HSBC Mutual Fund,Unknown,Unknown
 0P0001J08F.BO,HSBC Ultra Short Term Fund,HSBC Mutual Fund,Unknown,Unknown
 ,HSBC Ultra Short Term Fund,HSBC Mutual Fund,Unknown,Unknown
 ,HSBC Ultra Short Term Fund,HSBC Mutual Fund,Unknown,Unknown
@@ -7035,7 +7045,7 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 ,PGIM India Ultra Short Term Fund,PGIM India Mutual Fund,Unknown,Unknown
 0P0000IX7N.BO,PGIM India Ultra Short Term Fund,PGIM India Mutual Fund,Unknown,Unknown
 ,PGIM India Ultra Short Term Fund,PGIM India Mutual Fund,Unknown,Unknown
-0P0000IX7V.BO,PGIM India Ultra Short Term Fund,PGIM India Mutual Fund,Unknown,Unknown
+,PGIM India Ultra Short Term Fund,PGIM India Mutual Fund,Unknown,Unknown
 ,PGIM India Ultra Short Term Fund,PGIM India Mutual Fund,Unknown,Unknown
 ,PGIM India Ultra Short Term Fund,PGIM India Mutual Fund,Unknown,Unknown
 ,PGIM India Ultra Short Term Fund,PGIM India Mutual Fund,Unknown,Unknown
@@ -7073,7 +7083,7 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001HABV.BO,UTI Ultra Short Term Fund,UTI Mutual Fund,Unknown,Unknown
 0P00015O64.BO,UTI Ultra Short Term Fund,UTI Mutual Fund,Unknown,Unknown
 0P00014MHA.BO,UTI Ultra Short Term Fund,UTI Mutual Fund,Unknown,Unknown
-0P0000XVSS.BO,UTI Ultra Short Term Fund,UTI Mutual Fund,Unknown,Unknown
+0P0001BBH0.BO,UTI Ultra Short Term Fund,UTI Mutual Fund,Unknown,Unknown
 0P0000KQP5.BO,UTI Ultra Short Term Fund,UTI Mutual Fund,Unknown,Unknown
 ,UTI Ultra Short Term Fund,UTI Mutual Fund,Unknown,Unknown
 0P00015QSB.BO,UTI Ultra Short Term Fund,UTI Mutual Fund,Unknown,Unknown
@@ -7144,7 +7154,7 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 ,BARODA BNP PARIBAS ULTRA SHORT TO SHORT TERM FUND,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
 0P0000XVZW.BO,Canara Robeco Ultra Short to Short Term Fund,Canara Robeco Mutual Fund,Unknown,Unknown
 ,Canara Robeco Ultra Short to Short Term Fund,Canara Robeco Mutual Fund,Unknown,Unknown
-0P0000XW09.BO,Canara Robeco Ultra Short to Short Term Fund,Canara Robeco Mutual Fund,Unknown,Unknown
+,Canara Robeco Ultra Short to Short Term Fund,Canara Robeco Mutual Fund,Unknown,Unknown
 0P0000XW07.BO,Canara Robeco Ultra Short to Short Term Fund,Canara Robeco Mutual Fund,Unknown,Unknown
 0P0000XW0A.BO,Canara Robeco Ultra Short to Short Term Fund,Canara Robeco Mutual Fund,Unknown,Unknown
 ,Canara Robeco Ultra Short to Short Term Fund,Canara Robeco Mutual Fund,Unknown,Unknown
@@ -7167,7 +7177,7 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001UVZI.BO,Edelweiss Ultra Short to Short Term Fund,Edelweiss Mutual Fund,Unknown,Unknown
 0P0001UVZJ.BO,Edelweiss Ultra Short to Short Term Fund,Edelweiss Mutual Fund,Unknown,Unknown
 0P0001URTS.BO,Franklin India Ultra Short to Short Term Fund,Franklin Templeton Mutual Fund,Unknown,Unknown
-0P0001URTU.BO,Franklin India Ultra Short to Short Term Fund,Franklin Templeton Mutual Fund,Unknown,Unknown
+,Franklin India Ultra Short to Short Term Fund,Franklin Templeton Mutual Fund,Unknown,Unknown
 0P0001URTW.BO,Franklin India Ultra Short to Short Term Fund,Franklin Templeton Mutual Fund,Unknown,Unknown
 0P0001URTX.BO,Franklin India Ultra Short to Short Term Fund,Franklin Templeton Mutual Fund,Unknown,Unknown
 ,HDFC Ultra Short to Short Term Fund,HDFC Mutual Fund,Unknown,Unknown
@@ -7230,7 +7240,7 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 ,JM Ultra Short to Short Term Fund,JM Financial Mutual Fund,Unknown,Unknown
 ,JM Ultra Short to Short Term Fund,JM Financial Mutual Fund,Unknown,Unknown
 ,JM Ultra Short to Short Term Fund,JM Financial Mutual Fund,Unknown,Unknown
-0P00009JD2.BO,JM Ultra Short to Short Term Fund,JM Financial Mutual Fund,Unknown,Unknown
+,JM Ultra Short to Short Term Fund,JM Financial Mutual Fund,Unknown,Unknown
 ,JM Ultra Short to Short Term Fund,JM Financial Mutual Fund,Unknown,Unknown
 0P0000YK4B.BO,JM Ultra Short to Short Term Fund,JM Financial Mutual Fund,Unknown,Unknown
 0P0002PQVN.BO,Kotak Ultra Short to Short Term Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
@@ -7280,7 +7290,7 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 ,Nippon India Ultra Short to Short Term Fund,Nippon India Mutual Fund,Unknown,Unknown
 ,Nippon India Ultra Short to Short Term Fund,Nippon India Mutual Fund,Unknown,Unknown
 0P0001022H.BO,Nippon India Ultra Short to Short Term Fund,Nippon India Mutual Fund,Unknown,Unknown
-0P0000XVFA.BO,Nippon India Ultra Short to Short Term Fund,Nippon India Mutual Fund,Unknown,Unknown
+,Nippon India Ultra Short to Short Term Fund,Nippon India Mutual Fund,Unknown,Unknown
 0P0000XVF9.BO,Nippon India Ultra Short to Short Term Fund,Nippon India Mutual Fund,Unknown,Unknown
 0P0000XVFC.BO,Nippon India Ultra Short to Short Term Fund,Nippon India Mutual Fund,Unknown,Unknown
 0P000115HB.BO,Nippon India Ultra Short to Short Term Fund,Nippon India Mutual Fund,Unknown,Unknown
@@ -7315,7 +7325,7 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P0000XVOW.BO,Tata Ultra Short to Short Term Fund,Tata Mutual Fund,Unknown,Unknown
 0P00005WHH.BO,Tata Ultra Short to Short Term Fund,Tata Mutual Fund,Unknown,Unknown
 ,Tata Ultra Short to Short Term Fund,Tata Mutual Fund,Unknown,Unknown
-0P0000XXZ1.BO,Tata Ultra Short to Short Term Fund,Tata Mutual Fund,Unknown,Unknown
+,Tata Ultra Short to Short Term Fund,Tata Mutual Fund,Unknown,Unknown
 0P0000XVOR.BO,Tata Ultra Short to Short Term Fund,Tata Mutual Fund,Unknown,Unknown
 ,Tata Ultra Short to Short Term Fund,Tata Mutual Fund,Unknown,Unknown
 0P0000VGVT.BO,Tata Ultra Short to Short Term Fund,Tata Mutual Fund,Unknown,Unknown
@@ -7378,6 +7388,10 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001PZ34.BO,Axis Nifty SDL September 2026 Debt Index Fund,Axis Mutual Fund,Unknown,Unknown
 0P0001PZ37.BO,Axis Nifty SDL September 2026 Debt Index Fund,Axis Mutual Fund,Unknown,Unknown
 0P0001PZ36.BO,Axis Nifty SDL September 2026 Debt Index Fund,Axis Mutual Fund,Unknown,Unknown
+0P0001QLO3.BO,Baroda BNP Paribas NIFTY SDL December 2028 Index Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+0P0001QLO4.BO,Baroda BNP Paribas NIFTY SDL December 2028 Index Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+0P0001QLO5.BO,Baroda BNP Paribas NIFTY SDL December 2028 Index Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+0P0001QLO6.BO,Baroda BNP Paribas NIFTY SDL December 2028 Index Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
 0P0001ONZM.BO,HSBC CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund,HSBC Mutual Fund,Unknown,Unknown
 0P0001ONZR.BO,HSBC CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund,HSBC Mutual Fund,Unknown,Unknown
 0P0001ONZP.BO,HSBC CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund,HSBC Mutual Fund,Unknown,Unknown
@@ -7456,7 +7470,7 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001ODA3.BO,Aditya Birla Sun Life Nifty Next 50 Index Fund,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 0P0001LX90.BO,Aditya Birla Sun Life Nifty Smallcap 50 Index Fund,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 0P0001LX8Z.BO,Aditya Birla Sun Life Nifty Smallcap 50 Index Fund,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
-0P0001LX93.BO,Aditya Birla Sun Life Nifty Smallcap 50 Index Fund,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
+,Aditya Birla Sun Life Nifty Smallcap 50 Index Fund,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 0P0001LX92.BO,Aditya Birla Sun Life Nifty Smallcap 50 Index Fund,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 0P0001YPXQ.BO,Axis BSE India Sector Leaders Index Fund,Axis Mutual Fund,Unknown,Unknown
 0P0001YPXR.BO,Axis BSE India Sector Leaders Index Fund,Axis Mutual Fund,Unknown,Unknown
@@ -7586,6 +7600,8 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001TUOU.BO,Mirae Asset Nifty Total Market Index Fund,Mirae Asset Mutual Fund,Unknown,Unknown
 0P0001TUOW.BO,Mirae Asset Nifty Total Market Index Fund,Mirae Asset Mutual Fund,Unknown,Unknown
 0P0001TUOX.BO,Mirae Asset Nifty Total Market Index Fund,Mirae Asset Mutual Fund,Unknown,Unknown
+,Navi Nifty Reits & Realty Index fund,Navi Mutual Fund,Unknown,Unknown
+,Navi Nifty Reits & Realty Index fund,Navi Mutual Fund,Unknown,Unknown
 0P0001DI4I.BO,UTI - Nifty Next 50 Index Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001DI4H.BO,UTI - Nifty Next 50 Index Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001R0OY.BO,UTI BSE Housing Index Fund,UTI Mutual Fund,Unknown,Unknown
@@ -7594,10 +7610,12 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001OF78.BO,UTI BSE Low Volatility Index Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001OAYN.BO,UTI BSE Sensex Index Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001OAYO.BO,UTI BSE Sensex Index Fund,UTI Mutual Fund,Unknown,Unknown
-0P0001LMOA.BO,UTI Nifty 200 Momentum 30 Index Fund,UTI Mutual Fund,Unknown,Unknown
+,UTI Nifty 200 Momentum 30 Index Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001LMOB.BO,UTI Nifty 200 Momentum 30 Index Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001TKQJ.BO,UTI Nifty 200 Quality 30 Index Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001TKQK.BO,UTI Nifty 200 Quality 30 Index Fund,UTI Mutual Fund,Unknown,Unknown
+0P00036UG4.BO,UTI Nifty 500 Index Fund,UTI Mutual Fund,Unknown,Unknown
+0P00036UG5.BO,UTI Nifty 500 Index Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001QVXO.BO,UTI Nifty 500 Value 50 Index Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001QVXP.BO,UTI Nifty 500 Value 50 Index Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001U2K6.BO,UTI Nifty Alpha Low-Volatility 30 Index Fund,UTI Mutual Fund,Unknown,Unknown
@@ -7620,8 +7638,15 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P0003613Q.BO,Mirae Asset Nifty200 Momentum 30 Plus 8-13yr G-Sec 75:25 Index Fund,Mirae Asset Mutual Fund,Unknown,Unknown
 0P0003613S.BO,Mirae Asset Nifty200 Momentum 30 Plus 8-13yr G-Sec 75:25 Index Fund,Mirae Asset Mutual Fund,Unknown,Unknown
 0P0003613T.BO,Mirae Asset Nifty200 Momentum 30 Plus 8-13yr G-Sec 75:25 Index Fund,Mirae Asset Mutual Fund,Unknown,Unknown
+,ICICI Prudential Life Cycle Fund 2036,ICICI Prudential Mutual Fund,Unknown,Unknown
+,ICICI Prudential Life Cycle Fund 2036,ICICI Prudential Mutual Fund,Unknown,Unknown
 0P00035WAS.BO,Zerodha Life Cycle Fund 2036,Zerodha Mutual Fund,Unknown,Unknown
+,ICICI Prudential Life Cycle Fund 2041,ICICI Prudential Mutual Fund,Unknown,Unknown
+,ICICI Prudential Life Cycle Fund 2041,ICICI Prudential Mutual Fund,Unknown,Unknown
 0P00035WAT.BO,Zerodha Life Cycle Fund 2041,Zerodha Mutual Fund,Unknown,Unknown
+,ICICI Prudential Life Cycle Fund 2031,ICICI Prudential Mutual Fund,Unknown,Unknown
+,ICICI Prudential Life Cycle Fund 2031,ICICI Prudential Mutual Fund,Unknown,Unknown
+,Zerodha Life Cycle Fund 2031,Zerodha Mutual Fund,Unknown,Unknown
 ,Taurus Investor Education Pool (Greater than 3 yrs),Taurus Mutual Fund,Unknown,Unknown
 ,Taurus Investor Education Pool (Greater than 3 yrs),Taurus Mutual Fund,Unknown,Unknown
 ,Taurus Unclaimed Dividend & Redemption Liability (Less than 3 yrs),Taurus Mutual Fund,Unknown,IDCW
@@ -7645,9 +7670,9 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P0000XV20.BO,Aditya Birla Sun Life Income Plus Arbitrage Active FOF,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 0P000093AQ.BO,Aditya Birla Sun Life Income Plus Arbitrage Active FOF,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 0P000093AZ.BO,Aditya Birla Sun Life Income Plus Arbitrage Active FOF,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
-0P0000XV22.BO,Aditya Birla Sun Life Multi Asset Omni FoF,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
+,Aditya Birla Sun Life Multi Asset Omni FoF,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 0P00008TS4.BO,Aditya Birla Sun Life Multi Asset Omni FoF,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
-0P0000XV23.BO,Aditya Birla Sun Life Multi Asset Omni FoF,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
+,Aditya Birla Sun Life Multi Asset Omni FoF,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 0P00008THR.BO,Aditya Birla Sun Life Multi Asset Omni FoF,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 0P0001PRV9.BO,Aditya Birla Sun Life Multi-Asset Passive FOF,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 0P0001PRVA.BO,Aditya Birla Sun Life Multi-Asset Passive FOF,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
@@ -7666,7 +7691,7 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P0000MYX6.BO,Bandhan Conservative Hybrid Passive FOF,Bandhan Mutual Fund,Unknown,Unknown
 0P0000MYX5.BO,Bandhan Conservative Hybrid Passive FOF,Bandhan Mutual Fund,Unknown,Unknown
 0P0001YOMR.BO,Bandhan Gold ETF FOF,Bandhan Mutual Fund,Unknown,Unknown
-0P0001YOMS.BO,Bandhan Gold ETF FOF,Bandhan Mutual Fund,Unknown,Unknown
+,Bandhan Gold ETF FOF,Bandhan Mutual Fund,Unknown,Unknown
 0P0001HO6Z.BO,Bandhan Income Plus Arbitrage Active FOF,Bandhan Mutual Fund,Unknown,Unknown
 ,Bandhan Income Plus Arbitrage Active FOF,Bandhan Mutual Fund,Unknown,Unknown
 0P00012F3E.BO,Bandhan Income Plus Arbitrage Active FOF,Bandhan Mutual Fund,Unknown,Unknown
@@ -7689,16 +7714,10 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P0000MYX3.BO,Bandhan Multi-Asset Passive FOF,Bandhan Mutual Fund,Unknown,Unknown
 0P0001YLCJ.BO,Bandhan Silver ETF FOF,Bandhan Mutual Fund,Unknown,Unknown
 0P0001YLCK.BO,Bandhan Silver ETF FOF,Bandhan Mutual Fund,Unknown,Unknown
-0P0001X5PO.BO,Baroda BNP Paribas Gold ETF Fund of Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-0P0001X5PP.BO,Baroda BNP Paribas Gold ETF Fund of Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
 0P0001V8SD.BO,Baroda BNP Paribas Income Plus Arbitrage Active Fund of Funds,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
 0P0001V8SE.BO,Baroda BNP Paribas Income Plus Arbitrage Active Fund of Funds,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
 0P0001V8SG.BO,Baroda BNP Paribas Income Plus Arbitrage Active Fund of Funds,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
 0P0001V8SH.BO,Baroda BNP Paribas Income Plus Arbitrage Active Fund of Funds,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-0P0001V9V1.BO,Baroda BNP Paribas Multi Asset Active Fund of Funds,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-0P0001V9V2.BO,Baroda BNP Paribas Multi Asset Active Fund of Funds,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-0P0001V9V4.BO,Baroda BNP Paribas Multi Asset Active Fund of Funds,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-0P0001V9V5.BO,Baroda BNP Paribas Multi Asset Active Fund of Funds,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
 0P0001RT00.BO,DSP Gold ETF Fund of Fund,DSP Mutual Fund,Unknown,Unknown
 0P0001RT01.BO,DSP Gold ETF Fund of Fund,DSP Mutual Fund,Unknown,Unknown
 0P0001RT03.BO,DSP Gold ETF Fund of Fund,DSP Mutual Fund,Unknown,Unknown
@@ -7736,7 +7755,7 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001KBFU.BO,BHARAT Bond FOF- April 2031,Unknown,Unknown,Unknown
 0P0001KBFX.BO,BHARAT Bond FOF- April 2031,Unknown,Unknown,Unknown
 0P0001PLMJ.BO,Edelweiss Gold and Silver ETF FOF,Edelweiss Mutual Fund,Unknown,Unknown
-0P0001PLMK.BO,Edelweiss Gold and Silver ETF FOF,Edelweiss Mutual Fund,Unknown,Unknown
+,Edelweiss Gold and Silver ETF FOF,Edelweiss Mutual Fund,Unknown,Unknown
 0P0001PLMN.BO,Edelweiss Gold and Silver ETF FOF,Edelweiss Mutual Fund,Unknown,Unknown
 0P0001PLMO.BO,Edelweiss Gold and Silver ETF FOF,Edelweiss Mutual Fund,Unknown,Unknown
 0P00020BGK.BO,Edelweiss Gold ETF Fund of Fund,Edelweiss Mutual Fund,Unknown,Unknown
@@ -7744,7 +7763,7 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001WE6N.BO,Edelweiss Income Plus Arbitrage Omni Fund of Funds,Edelweiss Mutual Fund,Unknown,Unknown
 0P0001WE6I.BO,Edelweiss Income Plus Arbitrage Omni Fund of Funds,Edelweiss Mutual Fund,Unknown,Unknown
 0P0001WE6J.BO,Edelweiss Income Plus Arbitrage Omni Fund of Funds,Edelweiss Mutual Fund,Unknown,Unknown
-0P0001WE6M.BO,Edelweiss Income Plus Arbitrage Omni Fund of Funds,Edelweiss Mutual Fund,Unknown,Unknown
+,Edelweiss Income Plus Arbitrage Omni Fund of Funds,Edelweiss Mutual Fund,Unknown,Unknown
 0P0001X87Y.BO,Edelweiss Multi Asset Omni Fund of Fund,Edelweiss Mutual Fund,Unknown,Unknown
 0P0001X87Z.BO,Edelweiss Multi Asset Omni Fund of Fund,Edelweiss Mutual Fund,Unknown,Unknown
 0P0001X882.BO,Edelweiss Multi Asset Omni Fund of Fund,Edelweiss Mutual Fund,Unknown,Unknown
@@ -7836,7 +7855,7 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001O534.BO,ICICI Prudential Passive Multi-Asset Fund of Funds,ICICI Prudential Mutual Fund,Unknown,Unknown
 0P0001O537.BO,ICICI Prudential Passive Multi-Asset Fund of Funds,ICICI Prudential Mutual Fund,Unknown,Unknown
 0P0001O538.BO,ICICI Prudential Passive Multi-Asset Fund of Funds,ICICI Prudential Mutual Fund,Unknown,Unknown
-0P0001O9H7.BO,ICICI Prudential Silver ETF FOF,ICICI Prudential Mutual Fund,Unknown,Unknown
+,ICICI Prudential Silver ETF FOF,ICICI Prudential Mutual Fund,Unknown,Unknown
 0P0001O9H8.BO,ICICI Prudential Silver ETF FOF,ICICI Prudential Mutual Fund,Unknown,Unknown
 0P0001O9HA.BO,ICICI Prudential Silver ETF FOF,ICICI Prudential Mutual Fund,Unknown,Unknown
 0P0001O9HB.BO,ICICI Prudential Silver ETF FOF,ICICI Prudential Mutual Fund,Unknown,Unknown
@@ -7890,7 +7909,7 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001LHST.BO,Nippon India Multi - Asset Omni FoF,Nippon India Mutual Fund,Unknown,Unknown
 0P0001LHSW.BO,Nippon India Multi - Asset Omni FoF,Nippon India Mutual Fund,Unknown,Unknown
 0P0001LHSV.BO,Nippon India Multi - Asset Omni FoF,Nippon India Mutual Fund,Unknown,Unknown
-0P0001FVNI.BO,Nippon India Nifty Next 50 Junior BeES FoF,Nippon India Mutual Fund,Unknown,Unknown
+,Nippon India Nifty Next 50 Junior BeES FoF,Nippon India Mutual Fund,Unknown,Unknown
 0P0001FVNJ.BO,Nippon India Nifty Next 50 Junior BeES FoF,Nippon India Mutual Fund,Unknown,Unknown
 0P0001FVNL.BO,Nippon India Nifty Next 50 Junior BeES FoF,Nippon India Mutual Fund,Unknown,Unknown
 0P0001FVNM.BO,Nippon India Nifty Next 50 Junior BeES FoF,Nippon India Mutual Fund,Unknown,Unknown
@@ -8021,7 +8040,7 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P00009PUI.BO,DSP World Gold Mining Overseas Equity Omni FoF,DSP Mutual Fund,Unknown,Unknown
 0P0000XW3B.BO,DSP World Mining Overseas Equity Omni FoF,DSP Mutual Fund,Unknown,Unknown
 0P0000XW3A.BO,DSP World Mining Overseas Equity Omni FoF,DSP Mutual Fund,Unknown,Unknown
-0P0000MORH.BO,DSP World Mining Overseas Equity Omni FoF,DSP Mutual Fund,Unknown,Unknown
+,DSP World Mining Overseas Equity Omni FoF,DSP Mutual Fund,Unknown,Unknown
 0P0000MORG.BO,DSP World Mining Overseas Equity Omni FoF,DSP Mutual Fund,Unknown,Unknown
 0P0000XV5H.BO,Edelweiss ASEAN Equity Off-shore Fund,Edelweiss Mutual Fund,Unknown,Unknown
 0P0000TJXC.BO,Edelweiss ASEAN Equity Off-shore Fund,Edelweiss Mutual Fund,Unknown,Unknown
@@ -8092,7 +8111,6 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P00009Q9R.BO,Sundaram Global Brand Theme-Equity Active FOF,Sundaram Mutual Fund,Unknown,Unknown
 AONEGOLD.NS,ANGEL ONE GOLD ETF,Angel One Mutual Fund,Unknown,Unknown
 GOLDBND.NS,Bandhan Gold ETF,Bandhan Mutual Fund,Unknown,Unknown
-BBNPPGOLD.NS,Baroda BNP Paribas Gold ETF,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
 CHOICEGOLD.NS,Choice Gold ETF,Choice Mutual Fund,Unknown,Unknown
 EGOLD.NS,Edelweiss Gold ETF,Edelweiss Mutual Fund,Unknown,Unknown
 ,HDFC Gold ETF,HDFC Mutual Fund,Unknown,Unknown
@@ -8194,7 +8212,7 @@ GOLDCASE.NS,Zerodha Gold ETF,Zerodha Mutual Fund,Unknown,Unknown
 0P0001IHHL.BO,Axis Nifty 100 Index Fund,Axis Mutual Fund,Unknown,Unknown
 0P0001IHHM.BO,Axis Nifty 100 Index Fund,Axis Mutual Fund,Unknown,Unknown
 0P0001V50M.BO,Bajaj Finserv Nifty 50 Index Fund,Bajaj Finserv Mutual Fund,Unknown,Unknown
-0P0001V50N.BO,Bajaj Finserv Nifty 50 Index Fund,Bajaj Finserv Mutual Fund,Unknown,Unknown
+,Bajaj Finserv Nifty 50 Index Fund,Bajaj Finserv Mutual Fund,Unknown,Unknown
 0P0001V50P.BO,Bajaj Finserv Nifty 50 Index Fund,Bajaj Finserv Mutual Fund,Unknown,Unknown
 0P0001V50Q.BO,Bajaj Finserv Nifty 50 Index Fund,Bajaj Finserv Mutual Fund,Unknown,Unknown
 0P0001V3UD.BO,Bajaj Finserv Nifty Next 50 Index Fund,Bajaj Finserv Mutual Fund,Unknown,Unknown
@@ -8258,7 +8276,7 @@ GOLDCASE.NS,Zerodha Gold ETF,Zerodha Mutual Fund,Unknown,Unknown
 0P0001RS9F.BO,Bandhan Nifty Alpha 50 Index Fund,Bandhan Mutual Fund,Unknown,Unknown
 0P0001RS9G.BO,Bandhan Nifty Alpha 50 Index Fund,Bandhan Mutual Fund,Unknown,Unknown
 0P0001UGVC.BO,Bandhan Nifty Alpha Low Volatility 30 Index Fund,Bandhan Mutual Fund,Unknown,Unknown
-0P0001UGVD.BO,Bandhan Nifty Alpha Low Volatility 30 Index Fund,Bandhan Mutual Fund,Unknown,Unknown
+,Bandhan Nifty Alpha Low Volatility 30 Index Fund,Bandhan Mutual Fund,Unknown,Unknown
 0P0001TGBW.BO,BANDHAN NIFTY BANK INDEX FUND,Bandhan Mutual Fund,Unknown,Unknown
 0P0001TGBX.BO,BANDHAN NIFTY BANK INDEX FUND,Bandhan Mutual Fund,Unknown,Unknown
 0P0001RGQ1.BO,Bandhan Nifty IT Index Fund,Bandhan Mutual Fund,Unknown,Unknown
@@ -8277,7 +8295,7 @@ GOLDCASE.NS,Zerodha Gold ETF,Zerodha Mutual Fund,Unknown,Unknown
 0P0001T8DB.BO,BANDHAN NIFTY TOTAL MARKET INDEX FUND,Bandhan Mutual Fund,Unknown,Unknown
 0P0001POQT.BO,BANDHAN Nifty100 Low Volatility 30 Index Fund,Bandhan Mutual Fund,Unknown,Unknown
 0P0001POQX.BO,BANDHAN Nifty100 Low Volatility 30 Index Fund,Bandhan Mutual Fund,Unknown,Unknown
-0P0001POQU.BO,BANDHAN Nifty100 Low Volatility 30 Index Fund,Bandhan Mutual Fund,Unknown,Unknown
+,BANDHAN Nifty100 Low Volatility 30 Index Fund,Bandhan Mutual Fund,Unknown,Unknown
 0P0001POQY.BO,BANDHAN Nifty100 Low Volatility 30 Index Fund,Bandhan Mutual Fund,Unknown,Unknown
 0P0001PL7U.BO,BANDHAN NIFTY200 MOMENTUM 30 INDEX FUND,Bandhan Mutual Fund,Unknown,Unknown
 0P0001PL7Q.BO,BANDHAN NIFTY200 MOMENTUM 30 INDEX FUND,Bandhan Mutual Fund,Unknown,Unknown
@@ -8293,10 +8311,6 @@ GOLDCASE.NS,Zerodha Gold ETF,Zerodha Mutual Fund,Unknown,Unknown
 ,Baroda BNP Paribas Nifty SDL December 2026 Index Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
 0P0001QCIM.BO,Baroda BNP Paribas Nifty SDL December 2026 Index Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
 0P0001QCIN.BO,Baroda BNP Paribas Nifty SDL December 2026 Index Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-0P0001QLO3.BO,Baroda BNP Paribas NIFTY SDL December 2028 Index Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-0P0001QLO4.BO,Baroda BNP Paribas NIFTY SDL December 2028 Index Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-0P0001QLO5.BO,Baroda BNP Paribas NIFTY SDL December 2028 Index Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-0P0001QLO6.BO,Baroda BNP Paribas NIFTY SDL December 2028 Index Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
 0P0001TR0N.BO,Baroda BNP Paribas Nifty200 Momentum 30 Index Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
 0P0001TR0O.BO,Baroda BNP Paribas Nifty200 Momentum 30 Index Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
 0P0002C908.BO,Choice Nifty 50 Index Fund,Choice Mutual Fund,Unknown,Unknown
@@ -8305,7 +8319,7 @@ GOLDCASE.NS,Zerodha Gold ETF,Zerodha Mutual Fund,Unknown,Unknown
 0P0002C907.BO,Choice Nifty Next 50 Index Fund,Choice Mutual Fund,Unknown,Unknown
 0P0001UH8N.BO,DSP BSE SENSEX Next 30 Index Fund,DSP Mutual Fund,Unknown,Unknown
 0P0001UH8O.BO,DSP BSE SENSEX Next 30 Index Fund,DSP Mutual Fund,Unknown,Unknown
-0P0001UH8Q.BO,DSP BSE SENSEX Next 30 Index Fund,DSP Mutual Fund,Unknown,Unknown
+,DSP BSE SENSEX Next 30 Index Fund,DSP Mutual Fund,Unknown,Unknown
 0P0001UH8R.BO,DSP BSE SENSEX Next 30 Index Fund,DSP Mutual Fund,Unknown,Unknown
 0P0001QBUD.BO,DSP CRISIL-IBX 50:50 Gilt Plus SDL - April 2033 Index Fund,DSP Mutual Fund,Unknown,Unknown
 0P0001QBUE.BO,DSP CRISIL-IBX 50:50 Gilt Plus SDL - April 2033 Index Fund,DSP Mutual Fund,Unknown,Unknown
@@ -8511,7 +8525,7 @@ GOLDCASE.NS,Zerodha Gold ETF,Zerodha Mutual Fund,Unknown,Unknown
 0P0001ULU1.BO,HDFC Nifty100 Quality 30 Index Fund,HDFC Mutual Fund,Unknown,Unknown
 0P0001SDC6.BO,HDFC NIFTY200 Momentum 30 Index Fund,HDFC Mutual Fund,Unknown,Unknown
 0P0001SDC7.BO,HDFC NIFTY200 Momentum 30 Index Fund,HDFC Mutual Fund,Unknown,Unknown
-0P0001N09D.BO,HDFC NIFTY50 Equal Weight Index Fund,HDFC Mutual Fund,Unknown,Unknown
+,HDFC NIFTY50 Equal Weight Index Fund,HDFC Mutual Fund,Unknown,Unknown
 0P0001N09E.BO,HDFC NIFTY50 Equal Weight Index Fund,HDFC Mutual Fund,Unknown,Unknown
 0P0001TFD4.BO,HDFC NIFTY500 Multicap 50:25:25 Index Fund,HDFC Mutual Fund,Unknown,Unknown
 0P0001TFD5.BO,HDFC NIFTY500 Multicap 50:25:25 Index Fund,HDFC Mutual Fund,Unknown,Unknown
@@ -8552,14 +8566,14 @@ GOLDCASE.NS,Zerodha Gold ETF,Zerodha Mutual Fund,Unknown,Unknown
 0P0001OEZE.BO,ICICI Prudential Nifty Bank Index Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
 0P0001OEZF.BO,ICICI Prudential Nifty Bank Index Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
 0P0001PT9M.BO,ICICI Prudential Nifty G-Sec Dec 2030 Index Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
-0P0001PT9J.BO,ICICI Prudential Nifty G-Sec Dec 2030 Index Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
+,ICICI Prudential Nifty G-Sec Dec 2030 Index Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
 0P0001PT9I.BO,ICICI Prudential Nifty G-Sec Dec 2030 Index Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
 0P0001PT9L.BO,ICICI Prudential Nifty G-Sec Dec 2030 Index Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
 0P0001PFVD.BO,ICICI Prudential Nifty IT Index Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
 0P0001PFVF.BO,ICICI Prudential Nifty IT Index Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
 0P0001PFVH.BO,ICICI Prudential Nifty IT Index Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
 0P0001PFVI.BO,ICICI Prudential Nifty IT Index Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
-0P0001SFFD.BO,ICICI Prudential Nifty LargeMidcap 250 Index Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
+,ICICI Prudential Nifty LargeMidcap 250 Index Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
 0P0001SFFE.BO,ICICI Prudential Nifty LargeMidcap 250 Index Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
 0P0001SFFG.BO,ICICI Prudential Nifty LargeMidcap 250 Index Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
 0P0001SFFH.BO,ICICI Prudential Nifty LargeMidcap 250 Index Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
@@ -8597,9 +8611,9 @@ GOLDCASE.NS,Zerodha Gold ETF,Zerodha Mutual Fund,Unknown,Unknown
 0P0001OP9M.BO,ICICI Prudential Nifty SDL Sep 2027 Index Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
 0P0001OP9L.BO,ICICI Prudential Nifty SDL Sep 2027 Index Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
 0P0001OP9N.BO,ICICI Prudential Nifty SDL Sep 2027 Index Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
-0P0001NJAW.BO,ICICI Prudential Nifty Smallcap 250 Index Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
+,ICICI Prudential Nifty Smallcap 250 Index Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
 0P0001NJAX.BO,ICICI Prudential Nifty Smallcap 250 Index Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
-0P0001NJAZ.BO,ICICI Prudential Nifty Smallcap 250 Index Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
+,ICICI Prudential Nifty Smallcap 250 Index Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
 0P0001NJB0.BO,ICICI Prudential Nifty Smallcap 250 Index Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
 0P0001VK6O.BO,ICICI Prudential Nifty Top 15 Equal Weight Index Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
 0P0001VK6P.BO,ICICI Prudential Nifty Top 15 Equal Weight Index Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
@@ -8617,7 +8631,7 @@ GOLDCASE.NS,Zerodha Gold ETF,Zerodha Mutual Fund,Unknown,Unknown
 0P0001PP33.BO,ICICI Prudential Nifty50 Equal Weight Index Fund-,ICICI Prudential Mutual Fund,Unknown,Unknown
 0P0001PP35.BO,ICICI Prudential Nifty50 Equal Weight Index Fund-,ICICI Prudential Mutual Fund,Unknown,Unknown
 0P0001PP36.BO,ICICI Prudential Nifty50 Equal Weight Index Fund-,ICICI Prudential Mutual Fund,Unknown,Unknown
-0P0001S9GA.BO,ICICI Prudential Nifty50 Value 20 Index Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
+,ICICI Prudential Nifty50 Value 20 Index Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
 0P0001S9G9.BO,ICICI Prudential Nifty50 Value 20 Index Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
 0P0001S9G7.BO,ICICI Prudential Nifty50 Value 20 Index Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
 0P0001S9G6.BO,ICICI Prudential Nifty50 Value 20 Index Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
@@ -8629,7 +8643,7 @@ GOLDCASE.NS,Zerodha Gold ETF,Zerodha Mutual Fund,Unknown,Unknown
 0P0001TAYS.BO,kotak BSE PSU Index Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
 0P0001TAYU.BO,kotak BSE PSU Index Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
 0P0001TAYV.BO,kotak BSE PSU Index Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
-0P0001UL7N.BO,Kotak BSE Sensex Index Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
+,Kotak BSE Sensex Index Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
 0P0001UL7O.BO,Kotak BSE Sensex Index Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
 0P0001UL7K.BO,Kotak BSE Sensex Index Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
 0P0001UL7L.BO,Kotak BSE Sensex Index Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
@@ -8681,7 +8695,7 @@ GOLDCASE.NS,Zerodha Gold ETF,Zerodha Mutual Fund,Unknown,Unknown
 0P0001X3X9.BO,Kotak Nifty Alpha 50 Index Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
 0P0001X3XB.BO,Kotak Nifty Alpha 50 Index Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
 0P0001X3XC.BO,Kotak Nifty Alpha 50 Index Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
-0P00035GEG.BO,Kotak Nifty Alpha Low Volatility 30 Index Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
+,Kotak Nifty Alpha Low Volatility 30 Index Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
 0P00035GEH.BO,Kotak Nifty Alpha Low Volatility 30 Index Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
 0P00035GEJ.BO,Kotak Nifty Alpha Low Volatility 30 Index Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
 0P00035GEK.BO,Kotak Nifty Alpha Low Volatility 30 Index Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
@@ -8695,7 +8709,7 @@ GOLDCASE.NS,Zerodha Gold ETF,Zerodha Mutual Fund,Unknown,Unknown
 0P0001RCYR.BO,Kotak Nifty Financial Services Ex-Bank Index Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
 0P0001RN95.BO,Kotak Nifty G-Sec July 2033 Index Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
 0P0001RN96.BO,Kotak Nifty G-Sec July 2033 Index Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
-0P0001RN98.BO,Kotak Nifty G-Sec July 2033 Index Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
+,Kotak Nifty G-Sec July 2033 Index Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
 0P0001RN99.BO,Kotak Nifty G-Sec July 2033 Index Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
 0P0001TKQD.BO,Kotak Nifty India Tourism Index Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
 0P0001TKQC.BO,Kotak Nifty India Tourism Index Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
@@ -9103,7 +9117,7 @@ GOLDCASE.NS,Zerodha Gold ETF,Zerodha Mutual Fund,Unknown,Unknown
 0P0001QAZN.BO,Tata Nifty G-Sec Dec 2026 Index Fund,Tata Mutual Fund,Unknown,Unknown
 0P0001QAZO.BO,Tata Nifty G-Sec Dec 2026 Index Fund,Tata Mutual Fund,Unknown,Unknown
 ,Tata Nifty G-Sec Dec 2026 Index Fund,Tata Mutual Fund,Unknown,Unknown
-0P0001QANH.BO,Tata Nifty G-Sec Dec 2029 Index Fund,Tata Mutual Fund,Unknown,Unknown
+,Tata Nifty G-Sec Dec 2029 Index Fund,Tata Mutual Fund,Unknown,Unknown
 0P0001QANI.BO,Tata Nifty G-Sec Dec 2029 Index Fund,Tata Mutual Fund,Unknown,Unknown
 ,Tata Nifty G-Sec Dec 2029 Index Fund,Tata Mutual Fund,Unknown,Unknown
 0P0001QANL.BO,Tata Nifty G-Sec Dec 2029 Index Fund,Tata Mutual Fund,Unknown,Unknown
@@ -9145,8 +9159,8 @@ GOLDCASE.NS,Zerodha Gold ETF,Zerodha Mutual Fund,Unknown,Unknown
 0P0001SN1X.BO,Tata Nifty Realty Index Fund,Tata Mutual Fund,Unknown,Unknown
 0P0001SN1Y.BO,Tata Nifty Realty Index Fund,Tata Mutual Fund,Unknown,Unknown
 ,Tata Nifty Realty Index Fund,Tata Mutual Fund,Unknown,Unknown
-0P0001OPUU.BO,Tata Nifty SDL Plus AAA PSU Bond Dec 2027 60 40 Index Fund,Tata Mutual Fund,Unknown,Unknown
-0P0001OPUP.BO,Tata Nifty SDL Plus AAA PSU Bond Dec 2027 60 40 Index Fund,Tata Mutual Fund,Unknown,Unknown
+,Tata Nifty SDL Plus AAA PSU Bond Dec 2027 60 40 Index Fund,Tata Mutual Fund,Unknown,Unknown
+,Tata Nifty SDL Plus AAA PSU Bond Dec 2027 60 40 Index Fund,Tata Mutual Fund,Unknown,Unknown
 ,Tata Nifty SDL Plus AAA PSU Bond Dec 2027 60 40 Index Fund,Tata Mutual Fund,Unknown,Unknown
 0P0001OPUQ.BO,Tata Nifty SDL Plus AAA PSU Bond Dec 2027 60 40 Index Fund,Tata Mutual Fund,Unknown,Unknown
 0P0001OPUT.BO,Tata Nifty SDL Plus AAA PSU Bond Dec 2027 60 40 Index Fund,Tata Mutual Fund,Unknown,Unknown
@@ -9226,7 +9240,7 @@ BBETF0432.NS,BHARAT Bond ETF - April 2032,Unknown,Unknown,Unknown
 ,BHARAT Bond ETF - April 2033,Unknown,Unknown,Unknown
 ,BHARAT Bond ETF- April 2025,Unknown,Unknown,Unknown
 ,BHARAT Bond ETF- April 2031,Unknown,Unknown,Unknown
-ECAPINSURE.NS,Edelweiss BSE Capital Markets & Insurance ETF,Edelweiss Mutual Fund,Unknown,Unknown
+ECAPINSURE.BO,Edelweiss BSE Capital Markets & Insurance ETF,Edelweiss Mutual Fund,Unknown,Unknown
 ESENSEX.NS,Edelweiss BSE Sensex ETF,Edelweiss Mutual Fund,Unknown,Unknown
 ELIQUID.NS,Edelweiss Nifty 1D Rate Liquid ETF - Growth,Edelweiss Mutual Fund,Unknown,Growth
 ENIFTY.NS,Edelweiss Nifty 50 ETF,Edelweiss Mutual Fund,Unknown,Unknown
@@ -9262,7 +9276,7 @@ MIDSELIETF.NS,ICICI Prudential BSE Midcap Select ETF,ICICI Prudential Mutual Fun
 GSEC10IETF.NS,ICICI Prudential Nifty 10 yr Benchmark G-sec ETF,ICICI Prudential Mutual Fund,Unknown,Unknown
 NIF100IETF.NS,ICICI Prudential Nifty 100 ETF,ICICI Prudential Mutual Fund,Unknown,Unknown
 ,ICICI Prudential Nifty 100 Low Volatility 30 ETF,ICICI Prudential Mutual Fund,Unknown,Unknown
-MOM30IETF.NS,ICICI Prudential Nifty 200 Momentum 30 ETF,ICICI Prudential Mutual Fund,Unknown,Unknown
+,ICICI Prudential Nifty 200 Momentum 30 ETF,ICICI Prudential Mutual Fund,Unknown,Unknown
 QUAL30IETF.NS,ICICI Prudential Nifty 200 Quality 30 ETF,ICICI Prudential Mutual Fund,Unknown,Unknown
 GSEC5IETF.NS,ICICI Prudential Nifty 5 yr Benchmark G-SEC ETF,ICICI Prudential Mutual Fund,Unknown,Unknown
 NIFTYIETF.NS,ICICI Prudential Nifty 50 ETF,ICICI Prudential Mutual Fund,Unknown,Unknown
@@ -9285,7 +9299,7 @@ OILIETF.NS,ICICI Prudential Nifty Oil & Gas ETF,ICICI Prudential Mutual Fund,Unk
 ,ICICI Prudential Nifty PSU Bank ETF,ICICI Prudential Mutual Fund,Unknown,Unknown
 SMALLIETF.NS,ICICI Prudential Nifty Smallcap 250 ETF,ICICI Prudential Mutual Fund,Unknown,Unknown
 TOP15IETF.NS,ICICI Prudential Nifty Top 15 Equal Weight ETF,ICICI Prudential Mutual Fund,Unknown,Unknown
-VAL30IETF.NS,ICICI Prudential Nifty200 Value 30 ETF,ICICI Prudential Mutual Fund,Unknown,Unknown
+VAL30IETF.BO,ICICI Prudential Nifty200 Value 30 ETF,ICICI Prudential Mutual Fund,Unknown,Unknown
 ,ICICI Prudential Nifty50 Value 20 ETF,ICICI Prudential Mutual Fund,Unknown,Unknown
 SILVERIETF.NS,ICICI PRUDENTIAL SILVER ETF,ICICI Prudential Mutual Fund,Unknown,Unknown
 SENSEX1.BO,Kotak BSE Sensex ETF,Kotak Mahindra Mutual Fund,Unknown,Unknown
@@ -9296,7 +9310,7 @@ LIQUID1.NS,Kotak Nifty 1D Rate Liquid ETF,Kotak Mahindra Mutual Fund,Unknown,Unk
 MOMENTUM30.NS,Kotak Nifty 200 Momentum 30 ETF,Kotak Mahindra Mutual Fund,Unknown,Unknown
 ,Kotak Nifty 50 ETF,Kotak Mahindra Mutual Fund,Unknown,Unknown
 ,Kotak Nifty 50 Value 20 ETF,Kotak Mahindra Mutual Fund,Unknown,Unknown
-ALPHA.NS,Kotak Nifty Alpha 50 ETF,Kotak Mahindra Mutual Fund,Unknown,Unknown
+,Kotak Nifty Alpha 50 ETF,Kotak Mahindra Mutual Fund,Unknown,Unknown
 BANKNIFTY1.NS,Kotak Nifty Bank ETF,Kotak Mahindra Mutual Fund,Unknown,Unknown
 CHEMICAL.NS,Kotak Nifty Chemicals ETF,Kotak Mahindra Mutual Fund,Unknown,Unknown
 CONS.NS,Kotak Nifty India Consumption ETF,Kotak Mahindra Mutual Fund,Unknown,Unknown
@@ -9318,7 +9332,7 @@ MOINFRA.NS,Motilal Oswal BSE India Infrastructure ETF,Motilal Oswal Mutual Fund,
 ,Motilal Oswal BSE Low Volatility ETF,Motilal Oswal Mutual Fund,Unknown,Unknown
 ,Motilal Oswal BSE Quality ETF,Motilal Oswal Mutual Fund,Unknown,Unknown
 MOIPO.NS,Motilal Oswal BSE Select IPO ETF,Motilal Oswal Mutual Fund,Unknown,Unknown
-MOBANK10.NS,Motilal Oswal BSE Top 10 Banks ETF,Motilal Oswal Mutual Fund,Unknown,Unknown
+,Motilal Oswal BSE Top 10 Banks ETF,Motilal Oswal Mutual Fund,Unknown,Unknown
 MON100.NS,Motilal Oswal Nasdaq 100 ETF,Motilal Oswal Mutual Fund,Unknown,Unknown
 MONQ50.NS,Motilal Oswal Nasdaq Q50 ETF,Motilal Oswal Mutual Fund,Unknown,Unknown
 MONIFTY100.NS,Motilal Oswal Nifty 100 ETF,Motilal Oswal Mutual Fund,Unknown,Unknown
@@ -9476,7 +9490,7 @@ SILVERCASE.NS,Zerodha Silver ETF,Zerodha Mutual Fund,Unknown,Unknown
 0P0001FIIW.BO,ADITYA BIRLA SUN LIFE BAL BHAVISHYA YOJNA,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 0P0001FIIY.BO,ADITYA BIRLA SUN LIFE BAL BHAVISHYA YOJNA,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 0P0001U8VT.BO,Baroda BNP Paribas Children's Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-0P0001U8VV.BO,Baroda BNP Paribas Children's Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+,Baroda BNP Paribas Children's Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
 0P0001U8VW.BO,Baroda BNP Paribas Children's Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
 0P0001BF18.BO,HDFC Children's Fund,HDFC Mutual Fund,Unknown,Unknown
 0P0001BF17.BO,HDFC Children's Fund,HDFC Mutual Fund,Unknown,Unknown
@@ -9486,7 +9500,7 @@ SILVERCASE.NS,Zerodha Silver ETF,Zerodha Mutual Fund,Unknown,Unknown
 0P00005WZS.BO,ICICI Prudential Children's Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
 0P0000XXY7.BO,LIC MF Children's Fund,LIC Mutual Fund,Unknown,Unknown
 0P00005WUX.BO,LIC MF Children's Fund,LIC Mutual Fund,Unknown,Unknown
-0P0001KO9F.BO,SBI Children's Fund - Investment Plan,SBI Mutual Fund,Unknown,Unknown
+,SBI Children's Fund - Investment Plan,SBI Mutual Fund,Unknown,Unknown
 0P0001KO9E.BO,SBI Children's Fund - Investment Plan,SBI Mutual Fund,Unknown,Unknown
 0P0000XVJN.BO,SBI CHILDREN'S FUND - SAVINGS PLAN,SBI Mutual Fund,Unknown,Unknown
 0P00005WF1.BO,SBI CHILDREN'S FUND - SAVINGS PLAN,SBI Mutual Fund,Unknown,Unknown
@@ -9522,10 +9536,6 @@ SILVERCASE.NS,Zerodha Silver ETF,Zerodha Mutual Fund,Unknown,Unknown
 0P0001RNOE.BO,BANDHAN RETIREMENT FUND,Bandhan Mutual Fund,Unknown,Unknown
 0P0001RNOG.BO,BANDHAN RETIREMENT FUND,Bandhan Mutual Fund,Unknown,Unknown
 0P0001RNOH.BO,BANDHAN RETIREMENT FUND,Bandhan Mutual Fund,Unknown,Unknown
-0P0001SRPV.BO,Baroda BNP Paribas Retirement Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-0P0001SRPW.BO,Baroda BNP Paribas Retirement Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-0P0001SRPX.BO,Baroda BNP Paribas Retirement Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
-0P0001SRPY.BO,Baroda BNP Paribas Retirement Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
 0P0000XVRF.BO,Franklin India Retirement Fund,Franklin Templeton Mutual Fund,Unknown,Unknown
 0P0000XVRE.BO,Franklin India Retirement Fund,Franklin Templeton Mutual Fund,Unknown,Unknown
 0P00005UX8.BO,Franklin India Retirement Fund,Franklin Templeton Mutual Fund,Unknown,Unknown
@@ -9550,7 +9560,7 @@ SILVERCASE.NS,Zerodha Silver ETF,Zerodha Mutual Fund,Unknown,Unknown
 0P00015DXR.BO,Nippon India Retirement Fund- Income Generation Scheme,Nippon India Mutual Fund,Unknown,Unknown
 0P00015DXS.BO,Nippon India Retirement Fund- Income Generation Scheme,Nippon India Mutual Fund,Unknown,Unknown
 0P00015DXT.BO,Nippon India Retirement Fund- Income Generation Scheme,Nippon India Mutual Fund,Unknown,Unknown
-0P00015DXQ.BO,Nippon India Retirement Fund- Income Generation Scheme,Nippon India Mutual Fund,Unknown,Unknown
+,Nippon India Retirement Fund- Income Generation Scheme,Nippon India Mutual Fund,Unknown,Unknown
 0P00015DXP.BO,Nippon India Retirement Fund- Income Generation Scheme,Nippon India Mutual Fund,Unknown,Unknown
 0P00015DXO.BO,Nippon India Retirement Fund- Wealth Creation Scheme,Nippon India Mutual Fund,Unknown,Unknown
 0P00015DXL.BO,Nippon India Retirement Fund- Wealth Creation Scheme,Nippon India Mutual Fund,Unknown,Unknown
@@ -9579,7 +9589,7 @@ SILVERCASE.NS,Zerodha Silver ETF,Zerodha Mutual Fund,Unknown,Unknown
 0P0001LIPI.BO,SBI Retirement Benefit Fund - Conservative Plan,SBI Mutual Fund,Unknown,Unknown
 0P0001LIPJ.BO,SBI Retirement Benefit Fund - Conservative Plan,SBI Mutual Fund,Unknown,Unknown
 0P0000XVPE.BO,Tata Retirement Savings Fund-Conservative Plan,Tata Mutual Fund,Unknown,Unknown
-0P0000UDRV.BO,Tata Retirement Savings Fund-Conservative Plan,Tata Mutual Fund,Unknown,Unknown
+,Tata Retirement Savings Fund-Conservative Plan,Tata Mutual Fund,Unknown,Unknown
 0P0000XVPF.BO,Tata Retirement Savings Fund-Moderate Plan,Tata Mutual Fund,Unknown,Unknown
 0P0000UDRW.BO,Tata Retirement Savings Fund-Moderate Plan,Tata Mutual Fund,Unknown,Unknown
 0P0000UDRX.BO,Tata Retirement Savings Fund-Progressive Plan,Tata Mutual Fund,Unknown,Unknown
@@ -9595,13 +9605,17 @@ SILVERCASE.NS,Zerodha Silver ETF,Zerodha Mutual Fund,Unknown,Unknown
 0P0001IU3G.BO,Axis Retirement Fund - Aggressive Plan,Axis Mutual Fund,Unknown,Unknown
 0P0001IU3F.BO,Axis Retirement Fund - Aggressive Plan,Axis Mutual Fund,Unknown,Unknown
 0P0001IU3I.BO,Axis Retirement Fund - Conservative Plan,Axis Mutual Fund,Unknown,Unknown
-0P0001IU3H.BO,Axis Retirement Fund - Conservative Plan,Axis Mutual Fund,Unknown,Unknown
+,Axis Retirement Fund - Conservative Plan,Axis Mutual Fund,Unknown,Unknown
 0P0001IU3K.BO,Axis Retirement Fund - Conservative Plan,Axis Mutual Fund,Unknown,Unknown
 0P0001IU3J.BO,Axis Retirement Fund - Conservative Plan,Axis Mutual Fund,Unknown,Unknown
 0P0001IU3M.BO,Axis Retirement Fund - Dynamic Plan,Axis Mutual Fund,Unknown,Unknown
 0P0001IU3L.BO,Axis Retirement Fund - Dynamic Plan,Axis Mutual Fund,Unknown,Unknown
 0P0001IU3O.BO,Axis Retirement Fund - Dynamic Plan,Axis Mutual Fund,Unknown,Unknown
 0P0001IU3N.BO,Axis Retirement Fund - Dynamic Plan,Axis Mutual Fund,Unknown,Unknown
+0P0001SRPV.BO,Baroda BNP Paribas Retirement Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+0P0001SRPW.BO,Baroda BNP Paribas Retirement Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+0P0001SRPX.BO,Baroda BNP Paribas Retirement Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
+0P0001SRPY.BO,Baroda BNP Paribas Retirement Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
 0P00017K5R.BO,HDFC Retirement Fund - Equity Plan,HDFC Mutual Fund,Unknown,Unknown
 0P00017K5T.BO,HDFC Retirement Fund - Equity Plan,HDFC Mutual Fund,Unknown,Unknown
 0P00017K5X.BO,HDFC Retirement Fund - Hybrid-Debt Plan,HDFC Mutual Fund,Unknown,Unknown
@@ -9665,9 +9679,9 @@ SILVERCASE.NS,Zerodha Silver ETF,Zerodha Mutual Fund,Unknown,Unknown
 ,ICICI Prudential R.I.G.H.T (Rewards of Investing & Generation of Healthy Tax-Savings) Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
 ,Reliance Equity Linked Saving Fund - Series I,Unknown,Unknown,Unknown
 ,Reliance Equity Linked Saving Fund - Series I,Unknown,Unknown,Unknown
-0P00019JDK.BO,SBI Long Term Advantage Fund - Series IV,SBI Mutual Fund,Unknown,Unknown
+,SBI Long Term Advantage Fund - Series IV,SBI Mutual Fund,Unknown,Unknown
 0P00019JDL.BO,SBI Long Term Advantage Fund - Series IV,SBI Mutual Fund,Unknown,Unknown
-0P00019JDI.BO,SBI Long Term Advantage Fund - Series IV,SBI Mutual Fund,Unknown,Unknown
+,SBI Long Term Advantage Fund - Series IV,SBI Mutual Fund,Unknown,Unknown
 0P00019JDJ.BO,SBI Long Term Advantage Fund - Series IV,SBI Mutual Fund,Unknown,Unknown
 0P0001CFGA.BO,SBI Long Term Advantage Fund - Series V,SBI Mutual Fund,Unknown,Unknown
 0P0001CFGB.BO,SBI Long Term Advantage Fund - Series V,SBI Mutual Fund,Unknown,Unknown
