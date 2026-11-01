@@ -3745,8 +3745,10 @@ LIQUIDBETA.NS,UTI Nifty 1D Rate Liquid ETF - Growth,UTI Mutual Fund,Unknown,Grow
 GILT5BETA.NS,UTI Nifty 5 yr Benchmark G-Sec ETF,UTI Mutual Fund,Unknown,Unknown
 LIQUIDCASE.NS,Zerodha Nifty 1D Rate Liquid ETF,Zerodha Mutual Fund,Unknown,Unknown
 LTGILTCASE.NS,Zerodha Nifty 8-13 Yr G-Sec ETF,Zerodha Mutual Fund,Unknown,Unknown
+MSCI360.NS,360 ONE MSCI India ETF,360 ONE Mutual Fund,Unknown,Unknown
 ,Aditya Birla Sun Life BSE Sensex ETF,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 ABSL10BANK.NS,Aditya Birla Sun Life BSE Top 10 Banks ETF,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
+BIRLATOTAL.NS,Aditya Birla Sun Life BSE Total Market ETF,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 ,Aditya Birla Sun Life Gold ETF,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 ABSLMSCIN.NS,Aditya Birla Sun Life MSCI India ETF,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 NIFTYQLITY.NS,Aditya Birla Sun Life Nifty 200 Quality 30 ETF,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
@@ -3814,6 +3816,7 @@ MULTICAP.NS,Mirae Asset Nifty500 Multicap 50:25:25 ETF,Mirae Asset Mutual Fund,U
 ,Mirae Asset S&P 500 Top 50 ETF,Mirae Asset Mutual Fund,Unknown,Unknown
 MOMETAL.NS,Motilal Oswal Nifty Metal ETF,Motilal Oswal Mutual Fund,Unknown,Unknown
 MOOILGAS.NS,Motilal Oswal Nifty Oil & Gas ETF,Motilal Oswal Mutual Fund,Unknown,Unknown
+SBIDEFETF.NS,SBI BSE India Defence ETF,SBI Mutual Fund,Unknown,Unknown
 ,UTI - BSE Sensex Next 50 Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 ,UTI - Nifty Next 50 Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 SECLEDBETA.NS,UTI BSE India Sector Leaders Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
@@ -3827,7 +3830,7 @@ TOP100CASE.NS,Zerodha Nifty 100 ETF,Zerodha Mutual Fund,Unknown,Unknown
 NIFTYCASE.NS,Zerodha Nifty 50 ETF,Zerodha Mutual Fund,Unknown,Unknown
 MID150CASE.NS,Zerodha Nifty Midcap 150 ETF,Zerodha Mutual Fund,Unknown,Unknown
 NXT100CASE.NS,Zerodha Nifty Next 100 ETF,Zerodha Mutual Fund,Unknown,Unknown
-,Zerodha Nifty Smallcap 100 ETF,Zerodha Mutual Fund,Unknown,Unknown
+SML100CASE.NS,Zerodha Nifty Smallcap 100 ETF,Zerodha Mutual Fund,Unknown,Unknown
 MAHKTECH.NS,Mirae Asset Hang Seng TECH ETF,Mirae Asset Mutual Fund,Unknown,Unknown
 MAFANG.NS,Mirae Asset NYSE FANG+ ETF,Mirae Asset Mutual Fund,Unknown,Unknown
 GOLD360.NS,360 ONE Gold ETF,360 ONE Mutual Fund,Unknown,Unknown
@@ -3841,7 +3844,6 @@ GROWWGOLD.NS,Groww Gold ETF,Groww Mutual Fund,Unknown,Unknown
 ,UTI - Gold Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 GOLDCASE.NS,Zerodha Gold ETF,Zerodha Mutual Fund,Unknown,Unknown
 HYBRIDETF.NS,Mirae Asset Nifty200 Momentum 30 Plus 8-13 yr G-Sec 50:50 ETF,Mirae Asset Mutual Fund,Unknown,Unknown
-MSCI360.NS,360 ONE MSCI India ETF,360 ONE Mutual Fund,Unknown,Unknown
 GROWWHOSPI.NS,Groww BSE Hospitals ETF,Groww Mutual Fund,Unknown,Unknown
 GROWWPOWER.NS,Groww BSE Power ETF,Groww Mutual Fund,Unknown,Unknown
 GROWWN200.NS,Groww Nifty 200 ETF,Groww Mutual Fund,Unknown,Unknown
@@ -3865,15 +3867,16 @@ GROWWRLTY.NS,Groww Nifty Realty ETF,Groww Mutual Fund,Unknown,Unknown
 GROWWSC250.NS,Groww Nifty Smallcap 250 ETF,Groww Mutual Fund,Unknown,Unknown
 SMALLGROWW.NS,Groww Nifty Smallcap 250 Momentum Quality 100 ETF,Groww Mutual Fund,Unknown,Unknown
 INSUREIETF.NS,ICICI Prudential BSE Insurance ETF,ICICI Prudential Mutual Fund,Unknown,Unknown
+PHARMAIETF.NS,ICICI Prudential Nifty Pharma ETF,ICICI Prudential Mutual Fund,Unknown,Unknown
 FARBEES.NS,Nippon India CRISIL-IBX FAR Gilt ETF,Nippon India Mutual Fund,Unknown,Unknown
 SILVER360.NS,360 ONE Silver ETF,360 ONE Mutual Fund,Unknown,Unknown
 SILVERAXIS.NS,Axis Silver ETF,Axis Mutual Fund,Unknown,Unknown
 ,DSP Silver ETF,DSP Mutual Fund,Unknown,Unknown
 GROWWSLVR.NS,Groww Silver ETF,Groww Mutual Fund,Unknown,Unknown
 ,Mirae Asset Silver ETF,Mirae Asset Mutual Fund,Unknown,Unknown
-,quant Silver ETF,quant Mutual Fund,Unknown,Unknown
+SILVER001.NS,quant Silver ETF,quant Mutual Fund,Unknown,Unknown
 SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
-,Zerodha Silver ETF,Zerodha Mutual Fund,Unknown,Unknown
+SILVERCASE.NS,Zerodha Silver ETF,Zerodha Mutual Fund,Unknown,Unknown
 0P0001O9H3.BO,Aditya Birla Sun Life Silver ETF FOF,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 0P0001O9H1.BO,Aditya Birla Sun Life Silver ETF FOF,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 0P0001O9H6.BO,Aditya Birla Sun Life Silver ETF FOF,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
@@ -4000,6 +4003,8 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001WCJR.BO,Invesco India Income Plus Arbitrage Active Fund of Fund,Invesco Mutual Fund,Unknown,Unknown
 0P0001WCJT.BO,Invesco India Income Plus Arbitrage Active Fund of Fund,Invesco Mutual Fund,Unknown,Unknown
 0P0001WCJU.BO,Invesco India Income Plus Arbitrage Active Fund of Fund,Invesco Mutual Fund,Unknown,Unknown
+,JioBlackRock Income Plus Arbitrage Omni FOF,Unknown,Unknown,Unknown
+,JioBlackRock Income Plus Arbitrage Omni FOF,Unknown,Unknown,Unknown
 0P00036TOP.BO,Kotak Diversified Equity All Cap Omni FOF,Kotak Mahindra Mutual Fund,Unknown,Unknown
 0P00036TOQ.BO,Kotak Diversified Equity All Cap Omni FOF,Kotak Mahindra Mutual Fund,Unknown,Unknown
 0P00036TOS.BO,Kotak Diversified Equity All Cap Omni FOF,Kotak Mahindra Mutual Fund,Unknown,Unknown
@@ -4120,8 +4125,8 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001UX04.BO,UTI Income Plus Arbitrage Active Fund of Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001QSCZ.BO,UTI Silver ETF Fund of Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001QSD0.BO,UTI Silver ETF Fund of Fund,UTI Mutual Fund,Unknown,Unknown
-,WhiteOak Capital Diversified Equity Small Cap Active FOF,WhiteOak Capital Mutual Fund,Unknown,Unknown
-,WhiteOak Capital Diversified Equity Small Cap Active FOF,WhiteOak Capital Mutual Fund,Unknown,Unknown
+0P0005N1FC.BO,WhiteOak Capital Diversified Equity Small Cap Active FOF,WhiteOak Capital Mutual Fund,Unknown,Unknown
+0P0005N1BW.BO,WhiteOak Capital Diversified Equity Small Cap Active FOF,WhiteOak Capital Mutual Fund,Unknown,Unknown
 0P0001TYUE.BO,Zerodha Gold ETF FoF,Zerodha Mutual Fund,Unknown,Unknown
 0P0001X2VW.BO,Zerodha Multi Asset Passive FoF,Zerodha Mutual Fund,Unknown,Unknown
 0P0001VSBH.BO,Zerodha Silver ETF FoF,Zerodha Mutual Fund,Unknown,Unknown
@@ -4571,7 +4576,7 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 ,Nippon India Equity Savings Fund (Existing number of Segregated Portfolios - 2),Nippon India Mutual Fund,Unknown,Unknown
 ,Nippon India Equity Savings Fund (Existing number of Segregated Portfolios - 2),Nippon India Mutual Fund,Unknown,Unknown
 ,Nippon India Equity Savings Fund (Existing number of Segregated Portfolios - 2),Nippon India Mutual Fund,Unknown,Unknown
-,Nippon India Equity Savings Fund (Existing number of Segregated Portfolios - 2),Nippon India Mutual Fund,Unknown,Unknown
+08DPD.BO,Nippon India Equity Savings Fund (Existing number of Segregated Portfolios - 2),Nippon India Mutual Fund,Unknown,Unknown
 08MPD.BO,Nippon India Equity Savings Fund (Existing number of Segregated Portfolios - 2),Nippon India Mutual Fund,Unknown,Unknown
 ,Nippon India Equity Savings Fund (Existing number of Segregated Portfolios - 2),Nippon India Mutual Fund,Unknown,Unknown
 0P0001664B.BO,Nippon India Equity Savings Fund (Existing number of Segregated Portfolios - 2),Nippon India Mutual Fund,Unknown,Unknown
@@ -5111,7 +5116,7 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001EBW3.BO,UTI - Equity Savings Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001EBW5.BO,UTI - Equity Savings Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001UQLY.BO,WhiteOak Capital Equity Savings Fund,WhiteOak Capital Mutual Fund,Unknown,Unknown
-,WhiteOak Capital Equity Savings Fund,WhiteOak Capital Mutual Fund,Unknown,Unknown
+0P0006B7M7.BO,WhiteOak Capital Equity Savings Fund,WhiteOak Capital Mutual Fund,Unknown,Unknown
 0P0001UQLZ.BO,WhiteOak Capital Equity Savings Fund,WhiteOak Capital Mutual Fund,Unknown,Unknown
 0P0001X4UC.BO,360 ONE Multi Asset Allocation Fund,360 ONE Mutual Fund,Unknown,Unknown
 0P0001X4UD.BO,360 ONE Multi Asset Allocation Fund,360 ONE Mutual Fund,Unknown,Unknown
@@ -6329,7 +6334,7 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P0000VONX.BO,Axis Medium Term Fund,Axis Mutual Fund,Unknown,Unknown
 0P0000XZS2.BO,Bandhan Medium Term Fund,Bandhan Mutual Fund,Unknown,Unknown
 ,Bandhan Medium Term Fund,Bandhan Mutual Fund,Unknown,Unknown
-,Bandhan Medium Term Fund,Bandhan Mutual Fund,Unknown,Unknown
+0P0000XY0R.BO,Bandhan Medium Term Fund,Bandhan Mutual Fund,Unknown,Unknown
 0P0000XV18.BO,Bandhan Medium Term Fund,Bandhan Mutual Fund,Unknown,Unknown
 0P0000XV1B.BO,Bandhan Medium Term Fund,Bandhan Mutual Fund,Unknown,Unknown
 0P000148OH.BO,Bandhan Medium Term Fund,Bandhan Mutual Fund,Unknown,Unknown
@@ -7425,26 +7430,26 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001OEJI.BO,Axis CRISIL IBX SDL May 2027 Index Fund,Axis Mutual Fund,Unknown,Unknown
 0P0001OEJK.BO,Axis CRISIL IBX SDL May 2027 Index Fund,Axis Mutual Fund,Unknown,Unknown
 0P0001OEJL.BO,Axis CRISIL IBX SDL May 2027 Index Fund,Axis Mutual Fund,Unknown,Unknown
-0P0001U23B.BO,Axis CRISIL-IBX AAA Bond Financial Services - Sep 2027 Index Fund,Axis Mutual Fund,Unknown,Unknown
-0P0001U23C.BO,Axis CRISIL-IBX AAA Bond Financial Services - Sep 2027 Index Fund,Axis Mutual Fund,Unknown,Unknown
-0P0001U23E.BO,Axis CRISIL-IBX AAA Bond Financial Services - Sep 2027 Index Fund,Axis Mutual Fund,Unknown,Unknown
-0P0001U23F.BO,Axis CRISIL-IBX AAA Bond Financial Services - Sep 2027 Index Fund,Axis Mutual Fund,Unknown,Unknown
+,Axis CRISIL-IBX AAA Bond Financial Services - Sep 2027 Index Fund,Axis Mutual Fund,Unknown,Unknown
+,Axis CRISIL-IBX AAA Bond Financial Services - Sep 2027 Index Fund,Axis Mutual Fund,Unknown,Unknown
+,Axis CRISIL-IBX AAA Bond Financial Services - Sep 2027 Index Fund,Axis Mutual Fund,Unknown,Unknown
+,Axis CRISIL-IBX AAA Bond Financial Services - Sep 2027 Index Fund,Axis Mutual Fund,Unknown,Unknown
 0P0001TPDC.BO,Axis CRISIL-IBX AAA Bond NBFC - Jun 2027 Index Fund,Axis Mutual Fund,Unknown,Unknown
 0P0001TPDD.BO,Axis CRISIL-IBX AAA Bond NBFC - Jun 2027 Index Fund,Axis Mutual Fund,Unknown,Unknown
 0P0001TPDF.BO,Axis CRISIL-IBX AAA Bond NBFC - Jun 2027 Index Fund,Axis Mutual Fund,Unknown,Unknown
 0P0001TPDG.BO,Axis CRISIL-IBX AAA Bond NBFC - Jun 2027 Index Fund,Axis Mutual Fund,Unknown,Unknown
-0P0001UBDO.BO,Axis CRISIL-IBX AAA Bond NBFC-HFC - Jun 2027 Index Fund,Axis Mutual Fund,Unknown,Unknown
-0P0001UBDP.BO,Axis CRISIL-IBX AAA Bond NBFC-HFC - Jun 2027 Index Fund,Axis Mutual Fund,Unknown,Unknown
-0P0001UBDR.BO,Axis CRISIL-IBX AAA Bond NBFC-HFC - Jun 2027 Index Fund,Axis Mutual Fund,Unknown,Unknown
-0P0001UBDS.BO,Axis CRISIL-IBX AAA Bond NBFC-HFC - Jun 2027 Index Fund,Axis Mutual Fund,Unknown,Unknown
+,Axis CRISIL-IBX AAA Bond NBFC-HFC - Jun 2027 Index Fund,Axis Mutual Fund,Unknown,Unknown
+,Axis CRISIL-IBX AAA Bond NBFC-HFC - Jun 2027 Index Fund,Axis Mutual Fund,Unknown,Unknown
+,Axis CRISIL-IBX AAA Bond NBFC-HFC - Jun 2027 Index Fund,Axis Mutual Fund,Unknown,Unknown
+,Axis CRISIL-IBX AAA Bond NBFC-HFC - Jun 2027 Index Fund,Axis Mutual Fund,Unknown,Unknown
 0P0001XM97.BO,Axis CRISIL-IBX Financial Services 3-6 Months Debt Index Fund,Axis Mutual Fund,Unknown,Unknown
 0P0001XM98.BO,Axis CRISIL-IBX Financial Services 3-6 Months Debt Index Fund,Axis Mutual Fund,Unknown,Unknown
 0P0001XM9A.BO,Axis CRISIL-IBX Financial Services 3-6 Months Debt Index Fund,Axis Mutual Fund,Unknown,Unknown
 0P0001XM9B.BO,Axis CRISIL-IBX Financial Services 3-6 Months Debt Index Fund,Axis Mutual Fund,Unknown,Unknown
-0P0001PZ33.BO,Axis Nifty SDL September 2026 Debt Index Fund,Axis Mutual Fund,Unknown,Unknown
-0P0001PZ34.BO,Axis Nifty SDL September 2026 Debt Index Fund,Axis Mutual Fund,Unknown,Unknown
-0P0001PZ37.BO,Axis Nifty SDL September 2026 Debt Index Fund,Axis Mutual Fund,Unknown,Unknown
-0P0001PZ36.BO,Axis Nifty SDL September 2026 Debt Index Fund,Axis Mutual Fund,Unknown,Unknown
+,Axis Nifty SDL September 2026 Debt Index Fund,Axis Mutual Fund,Unknown,Unknown
+,Axis Nifty SDL September 2026 Debt Index Fund,Axis Mutual Fund,Unknown,Unknown
+,Axis Nifty SDL September 2026 Debt Index Fund,Axis Mutual Fund,Unknown,Unknown
+,Axis Nifty SDL September 2026 Debt Index Fund,Axis Mutual Fund,Unknown,Unknown
 0P0001QLO3.BO,Baroda BNP Paribas NIFTY SDL December 2028 Index Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
 0P0001QLO4.BO,Baroda BNP Paribas NIFTY SDL December 2028 Index Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
 0P0001QLO5.BO,Baroda BNP Paribas NIFTY SDL December 2028 Index Fund,Baroda BNP Paribas Mutual Fund,Unknown,Unknown
@@ -7516,8 +7521,8 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001U2F2.BO,Aditya Birla Sun Life BSE India Infrastructure Index Fund,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 0P0001U2F3.BO,Aditya Birla Sun Life BSE India Infrastructure Index Fund,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 0P0001U2F4.BO,Aditya Birla Sun Life BSE India Infrastructure Index Fund,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
-,Aditya Birla Sun Life BSE Total Market Index Fund,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
-,Aditya Birla Sun Life BSE Total Market Index Fund,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
+0P0005N1EP.BO,Aditya Birla Sun Life BSE Total Market Index Fund,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
+0P0005N1D4.BO,Aditya Birla Sun Life BSE Total Market Index Fund,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 0P0001MGYN.BO,Aditya Birla Sun Life Nifty 50 Equal Weight index Fund,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 0P0001MGYO.BO,Aditya Birla Sun Life Nifty 50 Equal Weight index Fund,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 0P0001MGYQ.BO,Aditya Birla Sun Life Nifty 50 Equal Weight index Fund,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
@@ -7668,6 +7673,10 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P00037G0D.BO,JioBlackRock Nifty Next 50 Index Fund,Unknown,Unknown,Unknown
 0P0001X71B.BO,JioBlackRock Nifty Smallcap 250 Index Fund,Unknown,Unknown,Unknown
 0P00037573.BO,JioBlackRock Nifty Smallcap 250 Index Fund,Unknown,Unknown,Unknown
+,Kotak Nifty 500 Index Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
+,Kotak Nifty 500 Index Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
+,Kotak Nifty 500 Index Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
+,Kotak Nifty 500 Index Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
 0P00036TOD.BO,Kotak Nifty Bank Index Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
 0P00036TOE.BO,Kotak Nifty Bank Index Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
 0P00036TOG.BO,Kotak Nifty Bank Index Fund,Kotak Mahindra Mutual Fund,Unknown,Unknown
@@ -7696,10 +7705,22 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001TUOU.BO,Mirae Asset Nifty Total Market Index Fund,Mirae Asset Mutual Fund,Unknown,Unknown
 0P0001TUOW.BO,Mirae Asset Nifty Total Market Index Fund,Mirae Asset Mutual Fund,Unknown,Unknown
 0P0001TUOX.BO,Mirae Asset Nifty Total Market Index Fund,Mirae Asset Mutual Fund,Unknown,Unknown
-,Motilal Oswal Nifty REITs & Realty Index Fund,Motilal Oswal Mutual Fund,Unknown,Unknown
-,Motilal Oswal Nifty REITs & Realty Index Fund,Motilal Oswal Mutual Fund,Unknown,Unknown
+0P0005MWP3.BO,Motilal Oswal Nifty REITs & Realty Index Fund,Motilal Oswal Mutual Fund,Unknown,Unknown
+0P0005MWP4.BO,Motilal Oswal Nifty REITs & Realty Index Fund,Motilal Oswal Mutual Fund,Unknown,Unknown
 0P00037I7U.BO,Navi Nifty Reits & Realty Index fund,Navi Mutual Fund,Unknown,Unknown
 0P00037I7V.BO,Navi Nifty Reits & Realty Index fund,Navi Mutual Fund,Unknown,Unknown
+,quant Nifty 100 Index Fund,quant Mutual Fund,Unknown,Unknown
+,quant Nifty 100 Index Fund,quant Mutual Fund,Unknown,Unknown
+,quant Nifty 100 Index Fund,quant Mutual Fund,Unknown,Unknown
+,quant Nifty 100 Index Fund,quant Mutual Fund,Unknown,Unknown
+,quant Nifty 50 Index Fund,quant Mutual Fund,Unknown,Unknown
+,quant Nifty 50 Index Fund,quant Mutual Fund,Unknown,Unknown
+,quant Nifty 50 Index Fund,quant Mutual Fund,Unknown,Unknown
+,quant Nifty 50 Index Fund,quant Mutual Fund,Unknown,Unknown
+,quant Nifty Midcap 150 Index Fund,quant Mutual Fund,Unknown,Unknown
+,quant Nifty Midcap 150 Index Fund,quant Mutual Fund,Unknown,Unknown
+,quant Nifty Midcap 150 Index Fund,quant Mutual Fund,Unknown,Unknown
+,quant Nifty Midcap 150 Index Fund,quant Mutual Fund,Unknown,Unknown
 0P0001DI4I.BO,UTI - Nifty Next 50 Index Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001DI4H.BO,UTI - Nifty Next 50 Index Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001R0OY.BO,UTI BSE Housing Index Fund,UTI Mutual Fund,Unknown,Unknown
@@ -7739,10 +7760,10 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P0001XQH0.BO,Zerodha Nifty 50 Index Fund,Zerodha Mutual Fund,Unknown,Unknown
 0P0001RQX5.BO,Zerodha Nifty LargeMidcap 250 Index Fund,Zerodha Mutual Fund,Unknown,Unknown
 0P0002C943.BO,Zerodha Nifty MidSmallcap400 50:50 Index Fund,Zerodha Mutual Fund,Unknown,Unknown
-,HDFC Nifty LargeMidcap250 Plus 8-13 yr G-sec 70:30 Index Fund,HDFC Mutual Fund,Unknown,Unknown
-,HDFC Nifty LargeMidcap250 Plus 8-13 yr G-sec 70:30 Index Fund,HDFC Mutual Fund,Unknown,Unknown
-,HDFC Nifty LargeMidcap250 Plus 8-13 yr G-sec 70:30 Index Fund,HDFC Mutual Fund,Unknown,Unknown
-,HDFC Nifty LargeMidcap250 Plus 8-13 yr G-sec 70:30 Index Fund,HDFC Mutual Fund,Unknown,Unknown
+0P00060G0C.BO,HDFC Nifty LargeMidcap250 Plus 8-13 yr G-sec 70:30 Index Fund,HDFC Mutual Fund,Unknown,Unknown
+0P00060G07.BO,HDFC Nifty LargeMidcap250 Plus 8-13 yr G-sec 70:30 Index Fund,HDFC Mutual Fund,Unknown,Unknown
+0P00060G09.BO,HDFC Nifty LargeMidcap250 Plus 8-13 yr G-sec 70:30 Index Fund,HDFC Mutual Fund,Unknown,Unknown
+0P00060G0A.BO,HDFC Nifty LargeMidcap250 Plus 8-13 yr G-sec 70:30 Index Fund,HDFC Mutual Fund,Unknown,Unknown
 0P0003613P.BO,Mirae Asset Nifty200 Momentum 30 Plus 8-13yr G-Sec 75:25 Index Fund,Mirae Asset Mutual Fund,Unknown,Unknown
 0P0003613Q.BO,Mirae Asset Nifty200 Momentum 30 Plus 8-13yr G-Sec 75:25 Index Fund,Mirae Asset Mutual Fund,Unknown,Unknown
 0P0003613S.BO,Mirae Asset Nifty200 Momentum 30 Plus 8-13yr G-Sec 75:25 Index Fund,Mirae Asset Mutual Fund,Unknown,Unknown
@@ -7754,10 +7775,10 @@ SILVERBETA.NS,UTI Silver Exchange Traded Fund,UTI Mutual Fund,Unknown,Unknown
 0P00036TX5.BO,ICICI Prudential Life Cycle Fund 2041,ICICI Prudential Mutual Fund,Unknown,Unknown
 0P00036TX6.BO,ICICI Prudential Life Cycle Fund 2041,ICICI Prudential Mutual Fund,Unknown,Unknown
 0P00035WAT.BO,Zerodha Life Cycle Fund 2041,Zerodha Mutual Fund,Unknown,Unknown
-,Mirae Asset Life Cycle Fund 2056,Mirae Asset Mutual Fund,Unknown,Unknown
-,Mirae Asset Life Cycle Fund 2056,Mirae Asset Mutual Fund,Unknown,Unknown
-,Mirae Asset Life Cycle Fund 2056,Mirae Asset Mutual Fund,Unknown,Unknown
-,Mirae Asset Life Cycle Fund 2056,Mirae Asset Mutual Fund,Unknown,Unknown
+0P0005YWD2.BO,Mirae Asset Life Cycle Fund 2056,Mirae Asset Mutual Fund,Unknown,Unknown
+0P0005YWD3.BO,Mirae Asset Life Cycle Fund 2056,Mirae Asset Mutual Fund,Unknown,Unknown
+0P0005YWD5.BO,Mirae Asset Life Cycle Fund 2056,Mirae Asset Mutual Fund,Unknown,Unknown
+0P0005YWD6.BO,Mirae Asset Life Cycle Fund 2056,Mirae Asset Mutual Fund,Unknown,Unknown
 0P00036TX1.BO,ICICI Prudential Life Cycle Fund 2031,ICICI Prudential Mutual Fund,Unknown,Unknown
 0P00036TX2.BO,ICICI Prudential Life Cycle Fund 2031,ICICI Prudential Mutual Fund,Unknown,Unknown
 0P00037FFQ.BO,Zerodha Life Cycle Fund 2031,Zerodha Mutual Fund,Unknown,Unknown
@@ -8264,10 +8285,10 @@ UNIONGOLD.NS,Union Gold ETF,Union Mutual Fund,Unknown,Unknown
 0P0001U15I.BO,Aditya Birla Sun Life Crisil-IBX AAA Financial Services Index-Sep 2027 Fund,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 0P0001U15J.BO,Aditya Birla Sun Life Crisil-IBX AAA Financial Services Index-Sep 2027 Fund,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 0P0001U15K.BO,Aditya Birla Sun Life Crisil-IBX AAA Financial Services Index-Sep 2027 Fund,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
-0P0001TSZB.BO,Aditya Birla Sun Life Crisil-IBX AAA NBFC-HFC INDEX-Sep 2026 Fund,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
-0P0001TSZC.BO,Aditya Birla Sun Life Crisil-IBX AAA NBFC-HFC INDEX-Sep 2026 Fund,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
-0P0001TSZD.BO,Aditya Birla Sun Life Crisil-IBX AAA NBFC-HFC INDEX-Sep 2026 Fund,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
-0P0001TSZE.BO,Aditya Birla Sun Life Crisil-IBX AAA NBFC-HFC INDEX-Sep 2026 Fund,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
+,Aditya Birla Sun Life Crisil-IBX AAA NBFC-HFC INDEX-Sep 2026 Fund,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
+,Aditya Birla Sun Life Crisil-IBX AAA NBFC-HFC INDEX-Sep 2026 Fund,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
+,Aditya Birla Sun Life Crisil-IBX AAA NBFC-HFC INDEX-Sep 2026 Fund,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
+,Aditya Birla Sun Life Crisil-IBX AAA NBFC-HFC INDEX-Sep 2026 Fund,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 0P0001UBAU.BO,Aditya Birla Sun Life Crisil-IBX Financial Services 3 to 6 months Debt Index Fund,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 0P0001UBAR.BO,Aditya Birla Sun Life Crisil-IBX Financial Services 3 to 6 months Debt Index Fund,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 0P0001UBAS.BO,Aditya Birla Sun Life Crisil-IBX Financial Services 3 to 6 months Debt Index Fund,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
@@ -8283,10 +8304,10 @@ UNIONGOLD.NS,Union Gold ETF,Union Mutual Fund,Unknown,Unknown
 0P0001O9GS.BO,Aditya Birla Sun Life Nifty SDL Apr 2027 Index Fund,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 0P0001O9GV.BO,Aditya Birla Sun Life Nifty SDL Apr 2027 Index Fund,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 0P0001O9GU.BO,Aditya Birla Sun Life Nifty SDL Apr 2027 Index Fund,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
-0P0001NA2M.BO,Aditya Birla Sun Life Nifty SDL Plus PSU Bond SEP 2026 60:40 Index Fund,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
-0P0001NA2N.BO,Aditya Birla Sun Life Nifty SDL Plus PSU Bond SEP 2026 60:40 Index Fund,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
-0P0001NA2O.BO,Aditya Birla Sun Life Nifty SDL Plus PSU Bond SEP 2026 60:40 Index Fund,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
-0P0001NA2P.BO,Aditya Birla Sun Life Nifty SDL Plus PSU Bond SEP 2026 60:40 Index Fund,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
+,Aditya Birla Sun Life Nifty SDL Plus PSU Bond SEP 2026 60:40 Index Fund,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
+,Aditya Birla Sun Life Nifty SDL Plus PSU Bond SEP 2026 60:40 Index Fund,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
+,Aditya Birla Sun Life Nifty SDL Plus PSU Bond SEP 2026 60:40 Index Fund,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
+,Aditya Birla Sun Life Nifty SDL Plus PSU Bond SEP 2026 60:40 Index Fund,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 0P0001QKTZ.BO,Aditya Birla Sun Life Nifty SDL SEP 2027 Index Fund,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 0P0001QKU0.BO,Aditya Birla Sun Life Nifty SDL SEP 2027 Index Fund,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 0P0001QKU1.BO,Aditya Birla Sun Life Nifty SDL SEP 2027 Index Fund,Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
@@ -8345,10 +8366,10 @@ UNIONGOLD.NS,Union Gold ETF,Union Mutual Fund,Unknown,Unknown
 0P0001LVSF.BO,BANDHAN CRISIL IBX GILT JUNE 2027 INDEX FUND,Bandhan Mutual Fund,Unknown,Unknown
 0P0001LVSI.BO,BANDHAN CRISIL IBX GILT JUNE 2027 INDEX FUND,Bandhan Mutual Fund,Unknown,Unknown
 0P0001LVSJ.BO,BANDHAN CRISIL IBX GILT JUNE 2027 INDEX FUND,Bandhan Mutual Fund,Unknown,Unknown
-0P0001US04.BO,Bandhan CRISIL-IBX 10:90 Gilt Plus SDL Index - Dec 2029 Fund,Bandhan Mutual Fund,Unknown,Unknown
-0P0001US05.BO,Bandhan CRISIL-IBX 10:90 Gilt Plus SDL Index - Dec 2029 Fund,Bandhan Mutual Fund,Unknown,Unknown
-0P0001US07.BO,Bandhan CRISIL-IBX 10:90 Gilt Plus SDL Index - Dec 2029 Fund,Bandhan Mutual Fund,Unknown,Unknown
-0P0001US08.BO,Bandhan CRISIL-IBX 10:90 Gilt Plus SDL Index - Dec 2029 Fund,Bandhan Mutual Fund,Unknown,Unknown
+,Bandhan CRISIL-IBX 10:90 Gilt Plus SDL Index - Dec 2029 Fund,Bandhan Mutual Fund,Unknown,Unknown
+,Bandhan CRISIL-IBX 10:90 Gilt Plus SDL Index - Dec 2029 Fund,Bandhan Mutual Fund,Unknown,Unknown
+,Bandhan CRISIL-IBX 10:90 Gilt Plus SDL Index - Dec 2029 Fund,Bandhan Mutual Fund,Unknown,Unknown
+,Bandhan CRISIL-IBX 10:90 Gilt Plus SDL Index - Dec 2029 Fund,Bandhan Mutual Fund,Unknown,Unknown
 0P0001UU2W.BO,Bandhan CRISIL-IBX Financial Services 3-6 Months Debt Index Fund,Bandhan Mutual Fund,Unknown,Unknown
 0P0001UU2X.BO,Bandhan CRISIL-IBX Financial Services 3-6 Months Debt Index Fund,Bandhan Mutual Fund,Unknown,Unknown
 0P0001ODLY.BO,BANDHAN NIFTY 100 INDEX FUND,Bandhan Mutual Fund,Unknown,Unknown
@@ -8693,10 +8714,10 @@ UNIONGOLD.NS,Union Gold ETF,Union Mutual Fund,Unknown,Unknown
 0P0001PTLR.BO,ICICI Prudential Nifty SDL Dec 2028 Index Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
 0P0001PTLQ.BO,ICICI Prudential Nifty SDL Dec 2028 Index Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
 0P0001PTLT.BO,ICICI Prudential Nifty SDL Dec 2028 Index Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
-0P0001Q8WT.BO,ICICI Prudential Nifty SDL Sep 2026 Index Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
-0P0001Q8WR.BO,ICICI Prudential Nifty SDL Sep 2026 Index Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
-0P0001Q8WX.BO,ICICI Prudential Nifty SDL Sep 2026 Index Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
-0P0001Q8WY.BO,ICICI Prudential Nifty SDL Sep 2026 Index Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
+,ICICI Prudential Nifty SDL Sep 2026 Index Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
+,ICICI Prudential Nifty SDL Sep 2026 Index Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
+,ICICI Prudential Nifty SDL Sep 2026 Index Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
+,ICICI Prudential Nifty SDL Sep 2026 Index Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
 0P0001OP9O.BO,ICICI Prudential Nifty SDL Sep 2027 Index Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
 0P0001OP9M.BO,ICICI Prudential Nifty SDL Sep 2027 Index Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
 0P0001OP9L.BO,ICICI Prudential Nifty SDL Sep 2027 Index Fund,ICICI Prudential Mutual Fund,Unknown,Unknown
@@ -8999,10 +9020,10 @@ UNIONGOLD.NS,Union Gold ETF,Union Mutual Fund,Unknown,Unknown
 0P0001OOXA.BO,Nippon India Nifty AAA CPSE Bond Plus SDL - Apr 2027 Maturity 60:40 Index Fund,Nippon India Mutual Fund,Unknown,Unknown
 0P0001OOXC.BO,Nippon India Nifty AAA CPSE Bond Plus SDL - Apr 2027 Maturity 60:40 Index Fund,Nippon India Mutual Fund,Unknown,Unknown
 ,Nippon India Nifty AAA CPSE Bond Plus SDL - Apr 2027 Maturity 60:40 Index Fund,Nippon India Mutual Fund,Unknown,Unknown
-0P0001PUJL.BO,Nippon India Nifty AAA PSU Bond Plus SDL - Sep 2026 Maturity 50:50 Index Fund,Nippon India Mutual Fund,Unknown,Unknown
-0P0001PUJM.BO,Nippon India Nifty AAA PSU Bond Plus SDL - Sep 2026 Maturity 50:50 Index Fund,Nippon India Mutual Fund,Unknown,Unknown
-0P0001PUJO.BO,Nippon India Nifty AAA PSU Bond Plus SDL - Sep 2026 Maturity 50:50 Index Fund,Nippon India Mutual Fund,Unknown,Unknown
-0P0001PUJP.BO,Nippon India Nifty AAA PSU Bond Plus SDL - Sep 2026 Maturity 50:50 Index Fund,Nippon India Mutual Fund,Unknown,Unknown
+,Nippon India Nifty AAA PSU Bond Plus SDL - Sep 2026 Maturity 50:50 Index Fund,Nippon India Mutual Fund,Unknown,Unknown
+,Nippon India Nifty AAA PSU Bond Plus SDL - Sep 2026 Maturity 50:50 Index Fund,Nippon India Mutual Fund,Unknown,Unknown
+,Nippon India Nifty AAA PSU Bond Plus SDL - Sep 2026 Maturity 50:50 Index Fund,Nippon India Mutual Fund,Unknown,Unknown
+,Nippon India Nifty AAA PSU Bond Plus SDL - Sep 2026 Maturity 50:50 Index Fund,Nippon India Mutual Fund,Unknown,Unknown
 0P0001PHF1.BO,Nippon India Nifty Alpha Low Volatility 30 Index Fund,Nippon India Mutual Fund,Unknown,Unknown
 0P0001PHF2.BO,Nippon India Nifty Alpha Low Volatility 30 Index Fund,Nippon India Mutual Fund,Unknown,Unknown
 0P0001PHF4.BO,Nippon India Nifty Alpha Low Volatility 30 Index Fund,Nippon India Mutual Fund,Unknown,Unknown
@@ -9067,10 +9088,10 @@ UNIONGOLD.NS,Union Gold ETF,Union Mutual Fund,Unknown,Unknown
 0P0001R0K2.BO,SBI BSE Sensex Index Fund,SBI Mutual Fund,Unknown,Unknown
 0P0001R0K5.BO,SBI BSE Sensex Index Fund,SBI Mutual Fund,Unknown,Unknown
 0P0001R0K6.BO,SBI BSE Sensex Index Fund,SBI Mutual Fund,Unknown,Unknown
-0P0001O86S.BO,SBI CPSE Bond Plus SDL Sep 2026 50:50 Index Fund,SBI Mutual Fund,Unknown,Unknown
-0P0001O86T.BO,SBI CPSE Bond Plus SDL Sep 2026 50:50 Index Fund,SBI Mutual Fund,Unknown,Unknown
-0P0001O86W.BO,SBI CPSE Bond Plus SDL Sep 2026 50:50 Index Fund,SBI Mutual Fund,Unknown,Unknown
-0P0001O86X.BO,SBI CPSE Bond Plus SDL Sep 2026 50:50 Index Fund,SBI Mutual Fund,Unknown,Unknown
+,SBI CPSE Bond Plus SDL Sep 2026 50:50 Index Fund,SBI Mutual Fund,Unknown,Unknown
+,SBI CPSE Bond Plus SDL Sep 2026 50:50 Index Fund,SBI Mutual Fund,Unknown,Unknown
+,SBI CPSE Bond Plus SDL Sep 2026 50:50 Index Fund,SBI Mutual Fund,Unknown,Unknown
+,SBI CPSE Bond Plus SDL Sep 2026 50:50 Index Fund,SBI Mutual Fund,Unknown,Unknown
 0P0001PRXA.BO,SBI CRISIL IBX Gilt Index - April 2029 Fund,SBI Mutual Fund,Unknown,Unknown
 0P0001PRXB.BO,SBI CRISIL IBX Gilt Index - April 2029 Fund,SBI Mutual Fund,Unknown,Unknown
 0P0001PRXE.BO,SBI CRISIL IBX Gilt Index - April 2029 Fund,SBI Mutual Fund,Unknown,Unknown
@@ -9377,7 +9398,7 @@ OILIETF.NS,ICICI Prudential Nifty Oil & Gas ETF,ICICI Prudential Mutual Fund,Unk
 ,ICICI Prudential Nifty Private Bank ETF,ICICI Prudential Mutual Fund,Unknown,Unknown
 ,ICICI Prudential Nifty PSU Bank ETF,ICICI Prudential Mutual Fund,Unknown,Unknown
 SMALLIETF.NS,ICICI Prudential Nifty Smallcap 250 ETF,ICICI Prudential Mutual Fund,Unknown,Unknown
-,ICICI Prudential Nifty Top 15 Equal Weight ETF,ICICI Prudential Mutual Fund,Unknown,Unknown
+TOP15IETF.NS,ICICI Prudential Nifty Top 15 Equal Weight ETF,ICICI Prudential Mutual Fund,Unknown,Unknown
 VAL30IETF.NS,ICICI Prudential Nifty200 Value 30 ETF,ICICI Prudential Mutual Fund,Unknown,Unknown
 ,ICICI Prudential Nifty50 Value 20 ETF,ICICI Prudential Mutual Fund,Unknown,Unknown
 SILVERIETF.NS,ICICI PRUDENTIAL SILVER ETF,ICICI Prudential Mutual Fund,Unknown,Unknown
@@ -9475,7 +9496,7 @@ SETFNIF50.NS,SBI Nifty 50 ETF,SBI Mutual Fund,Unknown,Unknown
 SETFNIFBK.NS,SBI Nifty Bank ETF,SBI Mutual Fund,Unknown,Unknown
 SBIETFCON.NS,SBI Nifty Consumption ETF,SBI Mutual Fund,Unknown,Unknown
 SBIETFIT.NS,SBI Nifty IT ETF,SBI Mutual Fund,Unknown,Unknown
-SBINMID150.NS,SBI Nifty Midcap 150 ETF,SBI Mutual Fund,Unknown,Unknown
+SBIMID150.NS,SBI Nifty Midcap 150 ETF,SBI Mutual Fund,Unknown,Unknown
 SBIMIDMOM.NS,SBI Nifty Midcap 150 Momentum 50 ETF,SBI Mutual Fund,Unknown,Unknown
 SETFNN50.NS,SBI Nifty Next 50 ETF,SBI Mutual Fund,Unknown,Unknown
 SBIETFPB.NS,SBI Nifty Private Bank ETF,SBI Mutual Fund,Unknown,Unknown
@@ -9660,8 +9681,8 @@ TATSILV.NS,Tata Silver Exchange Traded Fund,Tata Mutual Fund,Unknown,Unknown
 0P0001LIPH.BO,SBI Retirement Benefit Fund - Conservative Plan,SBI Mutual Fund,Unknown,Unknown
 0P0001LIPI.BO,SBI Retirement Benefit Fund - Conservative Plan,SBI Mutual Fund,Unknown,Unknown
 0P0001LIPJ.BO,SBI Retirement Benefit Fund - Conservative Plan,SBI Mutual Fund,Unknown,Unknown
-,Tata Retirement Savings Fund-Conservative Plan,Tata Mutual Fund,Unknown,Unknown
-,Tata Retirement Savings Fund-Conservative Plan,Tata Mutual Fund,Unknown,Unknown
+0P0000XVPE.BO,Tata Retirement Savings Fund-Conservative Plan,Tata Mutual Fund,Unknown,Unknown
+0P0000UDRV.BO,Tata Retirement Savings Fund-Conservative Plan,Tata Mutual Fund,Unknown,Unknown
 0P0000XVPF.BO,Tata Retirement Savings Fund-Moderate Plan,Tata Mutual Fund,Unknown,Unknown
 0P0000UDRW.BO,Tata Retirement Savings Fund-Moderate Plan,Tata Mutual Fund,Unknown,Unknown
 0P0000UDRX.BO,Tata Retirement Savings Fund-Progressive Plan,Tata Mutual Fund,Unknown,Unknown
@@ -10079,10 +10100,10 @@ TATSILV.NS,Tata Silver Exchange Traded Fund,Tata Mutual Fund,Unknown,Unknown
 ,IDFC FIXED TERM PLAN SERIES - 167 (1202 DAYS),Unknown,Unknown,Unknown
 ,IDFC FIXED TERM PLAN SERIES - 167 (1202 DAYS),Unknown,Unknown,Unknown
 ,IDFC FIXED TERM PLAN SERIES - 167 (1202 DAYS),Unknown,Unknown,Unknown
-0P0001N9AR.BO,DSP FMP Series - 264 - 60M - 17D,DSP Mutual Fund,Unknown,Unknown
-0P0001N9AS.BO,DSP FMP Series - 264 - 60M - 17D,DSP Mutual Fund,Unknown,Unknown
-0P0001N9AV.BO,DSP FMP Series - 264 - 60M - 17D,DSP Mutual Fund,Unknown,Unknown
-0P0001N9AU.BO,DSP FMP Series - 264 - 60M - 17D,DSP Mutual Fund,Unknown,Unknown
+,DSP FMP Series - 264 - 60M - 17D,DSP Mutual Fund,Unknown,Unknown
+,DSP FMP Series - 264 - 60M - 17D,DSP Mutual Fund,Unknown,Unknown
+,DSP FMP Series - 264 - 60M - 17D,DSP Mutual Fund,Unknown,Unknown
+,DSP FMP Series - 264 - 60M - 17D,DSP Mutual Fund,Unknown,Unknown
 ,DSP FMP Series - 267 - 1172 Days,DSP Mutual Fund,Unknown,Unknown
 ,DSP FMP Series - 267 - 1172 Days,DSP Mutual Fund,Unknown,Unknown
 ,DSP FMP Series - 267 - 1172 Days,DSP Mutual Fund,Unknown,Unknown
@@ -13510,10 +13531,10 @@ TATSILV.NS,Tata Silver Exchange Traded Fund,Tata Mutual Fund,Unknown,Unknown
 ,SBI Fixed Maturity Plan (FMP) - Series 49 (1823 Days),SBI Mutual Fund,Unknown,Unknown
 ,SBI Fixed Maturity Plan (FMP) - Series 49 (1823 Days),SBI Mutual Fund,Unknown,Unknown
 ,SBI Fixed Maturity Plan (FMP) - Series 49 (1823 Days),SBI Mutual Fund,Unknown,Unknown
-0P0001N7QU.BO,SBI Fixed Maturity Plan (FMP) - Series 50 (1843 Days),SBI Mutual Fund,Unknown,Unknown
-0P0001N7QV.BO,SBI Fixed Maturity Plan (FMP) - Series 50 (1843 Days),SBI Mutual Fund,Unknown,Unknown
-0P0001N7QX.BO,SBI Fixed Maturity Plan (FMP) - Series 50 (1843 Days),SBI Mutual Fund,Unknown,Unknown
-0P0001N7QY.BO,SBI Fixed Maturity Plan (FMP) - Series 50 (1843 Days),SBI Mutual Fund,Unknown,Unknown
+,SBI Fixed Maturity Plan (FMP) - Series 50 (1843 Days),SBI Mutual Fund,Unknown,Unknown
+,SBI Fixed Maturity Plan (FMP) - Series 50 (1843 Days),SBI Mutual Fund,Unknown,Unknown
+,SBI Fixed Maturity Plan (FMP) - Series 50 (1843 Days),SBI Mutual Fund,Unknown,Unknown
+,SBI Fixed Maturity Plan (FMP) - Series 50 (1843 Days),SBI Mutual Fund,Unknown,Unknown
 0P0001N9T2.BO,SBI Fixed Maturity Plan (FMP) - Series 51 (1846 Days),SBI Mutual Fund,Unknown,Unknown
 0P0001N9T3.BO,SBI Fixed Maturity Plan (FMP) - Series 51 (1846 Days),SBI Mutual Fund,Unknown,Unknown
 0P0001N9T5.BO,SBI Fixed Maturity Plan (FMP) - Series 51 (1846 Days),SBI Mutual Fund,Unknown,Unknown
@@ -14402,10 +14423,18 @@ TATSILV.NS,Tata Silver Exchange Traded Fund,Tata Mutual Fund,Unknown,Unknown
 ,UTI Quarterly Interval Fund - III,UTI Mutual Fund,Unknown,Unknown
 ,UTI Quarterly Interval Fund - III,UTI Mutual Fund,Unknown,Unknown
 ,UTI Quarterly Interval Fund - III,UTI Mutual Fund,Unknown,Unknown
+,Mirae Asset Fixed Maturity Plan â Series VIâ 3 to 6 Months,Mirae Asset Mutual Fund,Unknown,Unknown
+,Mirae Asset Fixed Maturity Plan â Series VIâ 3 to 6 Months,Mirae Asset Mutual Fund,Unknown,Unknown
+,Mirae Asset Fixed Maturity Plan â Series VIâ 3 to 6 Months,Mirae Asset Mutual Fund,Unknown,Unknown
+,Mirae Asset Fixed Maturity Plan â Series VIâ 3 to 6 Months,Mirae Asset Mutual Fund,Unknown,Unknown
 0P0001QIPT.BO,UTI Fixed Term Income Fund Series XXXVI - I (1574 Days),UTI Mutual Fund,Unknown,Unknown
 0P0001QIPU.BO,UTI Fixed Term Income Fund Series XXXVI - I (1574 Days),UTI Mutual Fund,Unknown,Unknown
 0P0001QIPV.BO,UTI Fixed Term Income Fund Series XXXVI - I (1574 Days),UTI Mutual Fund,Unknown,Unknown
 0P0001QIPW.BO,UTI Fixed Term Income Fund Series XXXVI - I (1574 Days),UTI Mutual Fund,Unknown,Unknown
+,Aditya Birla Sun Life Fixed Maturity Plan-Series VB (136 Days),Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
+,Aditya Birla Sun Life Fixed Maturity Plan-Series VB (136 Days),Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
+,Aditya Birla Sun Life Fixed Maturity Plan-Series VB (136 Days),Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
+,Aditya Birla Sun Life Fixed Maturity Plan-Series VB (136 Days),Aditya Birla Sun Life Mutual Fund,Unknown,Unknown
 0P0000CNRV.BO,UTI Annual Interval Fund - I,UTI Mutual Fund,Unknown,Unknown
 0P0000ZBRH.BO,UTI Annual Interval Fund - I,UTI Mutual Fund,Unknown,Unknown
 0P0000ZARP.BO,UTI Annual Interval Fund - I,UTI Mutual Fund,Unknown,Unknown
